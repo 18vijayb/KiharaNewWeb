@@ -49,9 +49,7 @@ Specifically, we develop and apply novel computational methods for...
 * Genome-scale function and structure annotation
 * Analyzing functional units in networks
 
- **1 postdoc position is available. Please see here**
-
- **Kihara Bioinformatics Laboratory is always looking for new people to join the lab. Our current list of openings is available here.**
+ **More information can be found on our research projects page [here]({{ site.url }}{{ site.baseurl }}/projects).**
 
 <!-- <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
