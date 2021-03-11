@@ -50,10 +50,9 @@ Specifically, we develop and apply novel computational methods for...
 * Analyzing functional units in networks
 
  **More information can be found on our research projects page [here]({{ site.url }}{{ site.baseurl }}/projects).**
-
-<!-- <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
-</figure> -->
+<figure class="fourth">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/EmsuiteLogo.png" style="width: 150px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/LZerDLogo.png" style="width: 170px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/3DSurferLogo.png" style="width: 170px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/MAINMASTlogo.png" style="width: 100px">
+</figure>
