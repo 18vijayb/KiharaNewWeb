@@ -91,6 +91,7 @@ firstp {
     margin-right: 30px;
 }
 
-.twitter-timeline {
-    height: 35vw !important;
+#twitter-container {
+	height:40vw;
+	overflow-y:auto;
 }

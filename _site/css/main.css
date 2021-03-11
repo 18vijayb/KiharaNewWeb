@@ -2621,6 +2621,6 @@ pubtit { font-weight: bold; }
 /* Carusel */
 .carousel { border-radius: 3px 3px 3px 3px; margin-bottom: 20px; margin-top: 20px; margin-left: 30px; margin-right: 30px; }
 
-.twitter-timeline { height: 35vw !important; }
+#twitter-container { height: 40vw; overflow-y: auto; }
 
 /*# sourceMappingURL=main.css.map */
