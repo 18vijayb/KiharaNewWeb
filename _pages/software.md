@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Vacancies"
+title: "Kihara Lab - Software"
 layout: textlay
-excerpt: "Openings"
+excerpt: "Software"
 sitemap: false
 permalink: /software
 ---
