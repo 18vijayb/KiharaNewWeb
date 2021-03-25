@@ -50,9 +50,57 @@ Specifically, we develop and apply novel computational methods for...
 * Analyzing functional units in networks
 
  **More information can be found on our research projects page [here]({{ site.url }}{{ site.baseurl }}/projects).**
-<figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/EmsuiteLogo.png" style="width: 150px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/LZerDLogo.png" style="width: 170px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/3DSurferLogo.png" style="width: 170px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/MAINMASTlogo.png" style="width: 100px">
-</figure>
+
+ <div class="row">
+  <div class="col-sm-3">
+  <a href="https://kiharalab.org/emsuites/index.php">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/EmsuiteLogo.png" style="width: 140px">
+  </a>
+  Summary Text
+  </div>
+  <div class="col-sm-3">
+  <a href="https://lzerd.kiharalab.org/about/">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/LZerDLogo.png" style="width: 150px">
+  </a>
+  Summary Text
+  </div>
+<div class="col-sm-3" style="vertical-align: bottom;">
+  <a href="https://kiharalab.org/3d-surfer/">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/3DSurferLogo.png" style="width: 150px">
+  </a>
+  Summary Text
+  </div>
+  <div class="col-sm-2">
+  <a href="https://kiharalab.org/em-surfer/">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/EMSurfer.png" style="width: 150px">
+  </a>
+  Summary Text
+</div>
+
+</div>
+ <div class="row">
+  <div class="col-sm-3">
+  <a href="https://kiharalab.org/proteindocking/">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/lzerdlogo.jpeg" style="width: 150px">
+  </a>
+  Summary Text
+  </div>
+<div class="col-sm-3">
+  <a href="https://kiharalab.org/esg.php">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ESG.png" style="width: 150px">
+  </a>
+  Summary Text
+  </div>
+<div class="col-sm-3">
+  <a href="https://kiharalab.org/pfp.php">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/PFP.png" style="width: 150px">
+  </a>
+  Summary Text
+  </div>
+  <div class="col-sm-2">
+  <a href="https://kiharalab.org/phylo_pfp.php">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/PhyloPFP.png" style="width: 150px">
+  </a>
+  Summary Text
+  </div>
+</div>
