@@ -1,0 +1,22 @@
+- title: 3 poster presentations at Frontiers in Cryo-Electron Microscopy, Keystone Symposia, Feb. 3-4, 2021
+  notes: 
+    - "Emap2sec+: Detecting protein and DNA/RNA structures in cryo-EM maps of intermediate resolution using deep learning. Xiao Wang, Eman Alnabati, Tunde Aderinwale, Sai Raghavendra Maddhuri Venkata Subramaniya, Genki Terashi, & D. Kihara"
+    - "VESPER: Global and local cryo-EM map alignment and database search using local density vectors. Genki Terashi, Xusi Han, Charles Christoffer, Siyang Chen, & D. Kihara"
+    - "Super resolution cryo-EM maps with 3D generative adversarial networks. Sai Raghavendra Madhuri Venkata Subramaniya, Genki Terashi, & D. Kihara"
+
+- title: '"Protein 3D structure modeling for medium-resolution cryo-EM density maps", Online Seminar at the CMU-Pitt CPCB Seminar series, October 30, 2020'
+
+- title: 2 poster presentations at 5th Annual Southern California Cryo-EM Symposium, Oct 30, 2020
+  notes: 
+    - "Emap2sec+: Detecting protein and DNA/RNA structures in cryo-EM maps of intermediate resolution using deep learning. Xiao Wang, Eman Alnabati, Tunde Aderinwale, Sai Raghavendra Maddhuri Venkata Subramaniya, Genki Terashi, & D. Kihara"
+    - "De novo protein structure modeling tool MAINMAST for multiple chain complexes, bound ligands in EM masp and map alignment. Genki Terashi, Xusi Han, Siyang Chen, Yuki Kagaya, & D. Kihara"
+
+- title: Deep learning for detecting 3D structures of biomolecules, Data Science and Machine Learning seminar series, Purdue Fort Wayne, October 6th, 2020
+
+- title: Oral (video) presentations at ISMB 2020, July 13-16, 2020
+  notes:
+    - "EM map segmentation and de novo protein structure modeling for multiple chain colmplexes with MAINMAST. Genki Terashi, Y. Kagaya, & D. Kihara"
+    - "Protein contact map denoising using generative adversarial networks. Sai Raghavendra Maddhuri Venkata Subramaniya, A. Jain, Y. Kagaya, & D. Kihara"
+    - "ContactPFP: Protein function prediction using predicted contact information. Yuki Kagaya, S. Flannery, A. Jain, & D. Kihara"
+
+- title: '2020 Midwest Consortium for High-resolution cryo-EM, March 5, 2020. Poster presentation: "Protein secondary structure detection in intermediate resolution cryo-EM maps using deep learning" Sai Raghavendra Maddhuri Venkata Subramanya, G. Terashi, D. Kihara'

@@ -6,4 +6,8 @@ sitemap: false
 permalink: /resources/
 ---
 
-# Under Construction
+# Supplemental Materials from our Publications
+
+{% for resource in site.data.resources %}
+- [{{resource.title}}]({{resource.url}})
+{% endfor%}
