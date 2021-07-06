@@ -16,9 +16,11 @@ Publications
     <thead class="thead-light">
         <tr>
             <th scope="col">#</th>
+            <th scope="col">Year</th>
             <th scope="col">Publication Name</th>
-            <th scope="col">Access Link</th>
+            <th scope="col">PDF</th>
             <th scope="col">Abstract</th>
+            <th scope="col">Relevant Links</th>
         </tr>
     </thead>
     <tbody>
@@ -27,17 +29,27 @@ Publications
             {% assign is_odd = publication_number | modulo: 2 %}
             <tr>
                 <td class="col">
-                    {{publication_number}}
+                    {{publi.number}}
                 </td>
                 <td class="col">
-                    {{ publi.title }} {{ publi.authors }}
+                    {{publi.year}}
+                </td>
+                <td class="col">
+                    <b>{{ publi.authors }}</b>, <em>{{ publi.title }}</em>
                 </td>
                 <td class="col">
                     <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
                 </td>
-                {% if publi.abstract %}
                 <td class="col">
-                    <a href="{{ publi.abstract.url }}">{{ publi.abstract.display }}</a>
+                {% if publi.abstract %}
+                  <a href="{{ publi.abstract.url }}">{{ publi.abstract.display }}</a>
+                {% endif %}
+                </td>
+                {% if publi.links %}
+                <td class="col">
+                  {% for link in publi.links %}
+                    <a href="{{ link.url }}">{{ link.display }}</a> <br>
+                  {% endfor %}
                 </td>
                 {% endif %}
             </tr>
