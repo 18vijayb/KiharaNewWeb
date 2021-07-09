@@ -18,8 +18,8 @@ Publications
             <th scope="col">#</th>
             <th scope="col">Year</th>
             <th scope="col">Publication Name</th>
-            <th scope="col">PDF</th>
-            <th scope="col">Abstract</th>
+            <th scope="col"></th>
+            <th scope="col"></th>
             <th scope="col">Relevant Links</th>
         </tr>
     </thead>
@@ -35,23 +35,27 @@ Publications
                     {{publi.year}}
                 </td>
                 <td class="col">
-                    <b>{{ publi.authors }}</b>, <em>{{ publi.title }}</em>
+                    <em>{{ publi.authors }}</em>, <b>{{ publi.title }}</b>
                 </td>
                 <td class="col">
-                    <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+                {% if publi.link %}
+                    {% if publi.link.url contains "paper/" %}
+                      <a class="btn btn-primary" href="{{ site.url }}{{ site.baseurl }}/{{ publi.link.url }}">{{ publi.link.display }}</a>
+                    {% else %}
+                      <a class="btn btn-primary" href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+                    {% endif %}
+                {% endif %}
                 </td>
                 <td class="col">
                 {% if publi.abstract %}
-                  <a href="{{ publi.abstract.url }}">{{ publi.abstract.display }}</a>
+                  <a class="btn btn-primary" href="{{ publi.abstract.url }}">{{ publi.abstract.display }}</a>
                 {% endif %}
                 </td>
-                {% if publi.links %}
                 <td class="col">
                   {% for link in publi.links %}
                     <a href="{{ link.url }}">{{ link.display }}</a> <br>
                   {% endfor %}
                 </td>
-                {% endif %}
             </tr>
             {% assign publication_number = publication_number | minus: 1 %}
         {% endfor %}
@@ -74,7 +78,16 @@ function filterTable() {
       } else {
         tr[i].style.display = "none";
       }
-    }       
+    } 
+    td = tr[i].getElementsByTagName("td")[2];
+    if (td) {
+      txtValue = td.textContent || td.innerText;
+      if (txtValue.toUpperCase().indexOf(filter) > -1) {
+        tr[i].style.display = "";
+      } else {
+        tr[i].style.display = "none";
+      }
+    }           
   }
 }
 </script>

@@ -1,14 +1,19 @@
-- authors: Takaharu Mori, Genki Terashi, Daisuke Matsuoka, Yuji Sugita, & Daisuke
-    Kihara
+- authors: Takaharu Mori, Genki Terashi, Daisuke Matsuoka, Daisuke Kihara, & Yuji Sugita
   number: 200
   title: Efficient flexible fitting refinement with automatic error fixing for de
     novo structure modeling from cryo-EM density maps. J. Chem. Inf. Model., in press,
     (2021)
   year: 2021
+  abstract: 
+    url: http://www.ncbi.nlm.nih.gov/pubmed/34142833
+    display: Abstract
 - authors: Xiao Wang, Sean Flannery, & Daisuke Kihara
   link:
     display: PDF
     url: http://www.frontiersin.org/articles/10.3389/fmolb.2021.647915/
+  abstract: 
+    link: https://pubmed.ncbi.nlm.nih.gov/34113650/
+    display: Abstract
   links:
   - url: https://github.com/kiharalab/GNN_DOVE
     display: GitHub page of GNN_DOVE
