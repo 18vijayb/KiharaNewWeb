@@ -1,5 +1,3 @@
-- number: 289
-
 - number: 288
   text: 1 oral and 2 poster presentations at 2021 65th Biophysical Society Annual
     Meeting, February 22-26, 2021
@@ -56,7 +54,7 @@
   text: Oral (video) presentations at ISMB 2020, July 13-16, 2020
   notes:
   - text: EM map segmentation and de novo protein structure modeling for multiple
-      chain colmplexes with MAINMAST. Genki Terashi, Y. Kagaya, & D. Kihara
+      chain complexes with MAINMAST. Genki Terashi, Y. Kagaya, & D. Kihara
   - text: Protein contact map denoising using generative adversarial networks. Sai
       Raghavendra Maddhuri Venkata Subramaniya, A. Jain, Y. Kagaya, & D. Kihara
   - text: 'ContactPFP: Protein function prediction using predicted contact information.
@@ -72,13 +70,13 @@
 - number: 281
   text: Purdue CS department, PhD Visit Day, area talk and a poster, March 2, 2020
 - number: 280
-  text: Biophysical Society meeting,an poral and 2 poster presentations, Feb 15-19,
+  text: Biophysical Society meeting,an oral and 2 poster presentations, Feb 15-19,
     2020
   notes:
   - text: (talk) "De novo protein structure modeling tool MAINMAST enhanced for multiple
       chain complexes and bound ligands" G. Terashi, D. Kihara
-  - text: (poster) "De novo comuptational proteink tertiary structure modeling pipeline
-      for cryo-EM maps of intermediate resolutrion" D. Kihara, G. Terashi, S.R.M.V.
+  - text: (poster) "De novo computational proteink tertiary structure modeling pipeline
+      for cryo-EM maps of intermediate resolution" D. Kihara, G. Terashi, S.R.M.V.
       Subramanya
   - text: (Poster) "Protein secondary structure detection in intermediate resolution
       cryo-EM maps using deep learning" Sai Raghavendra Maddhuri Venkata Subramanya,
@@ -94,9 +92,9 @@
     The 5th International Conference on Protein and RNA Structure Prediction, Punta
     Cana, Dominican Republic, December 2-6, 2019
 - number: 277
-  text: '"Deep neural network-assisted protein strucure modeling for drug development
-    from low-resoluion 3D cryo-EM maps", Annual Symposium of Purdue Institute of Drug
-    Discovery, October 14, 2019'
+  text: '"Deep neural network-assisted protein structure modeling for drug development
+    from low-resolution 3D cryo-EM maps", Annual Symposium of Purdue Institute of
+    Drug Discovery, October 14, 2019'
 - number: 276
   text: '"Computational protein tertiary structure modeling from cryo-EM maps of intermediate
     resolution", D. Kihara, Dept. of Physics, Purdue University, Sep 10, 1:30pm, PHS242'
@@ -105,8 +103,8 @@
     (CARLA) 2019, University of Costa Rica, Sept 25-27, 2019
 - number: 274
   text: '"Protein structure modeling for structure-based drug design", invited talk
-    (Kihara), Symposium on Studis and development of treatment for rare disease, Ritsumeikan
-    University, Shiga, Japan, Aug 30  2019'
+    (Kihara), Symposium on Studies and development of treatment for rare disease,
+    Ritsumeikan University, Shiga, Japan, Aug 30  2019'
 - number: 273
   text: '"Computational protein tertiary structure modeling from cryo-EM maps of intermediate
     resolution",  Workshop on Mathematics and Computer Science in Modeling and Understanding
@@ -114,7 +112,7 @@
     for Mathematical Innovation and Discovery (BIRS), Banff, Alberta, Canada, August
     9-11, 2019'
 - number: 272
-  text: '"Enhandcement for MAINMAST, de novo main-chain tracing method:symmetric multi-chain
+  text: '"Enhancement for MAINMAST, de novo main-chain tracing method:symmetric multi-chain
     modeling, local refinement, and graphical user interface" (platform presentation),
     Genki Terashi, Yuhong Zha, & D. Kihara M&M 2019 Microscopy & Microanalysis , Portland
     OR, August 4-8, 2019'
@@ -364,8 +362,8 @@
     Chicago, Chicago, IL, May 15-17, 2017. 4 oral/poster presentations:'
   notes:
   - text: 'Aashish Jain & D. Kihara "Phylo-PFP: Highly accurate phylogenomics-based
-      protein function prediciton method"'
-  - text: Lyman Monroe, Genki Terashi, & D. Kihara, "Variability of protein strucure
+      protein function prediction method"'
+  - text: Lyman Monroe, Genki Terashi, & D. Kihara, "Variability of protein structure
       models from electron microscopy"
   - text: 'Woong-Hee Shin, Lingfei Zhang, Xiaolei Zhu,Sung Hoon Park, Chiwook Park,
       W. Andy Tao, & D. Kihara "Molecular surface-based screening methods for repurposing
@@ -380,9 +378,9 @@
     Purdue Univerity, May 10-11 , 2017
   notes:
   - text: '(oral)  Aashish Jain & D. Kihara "Phylo-PFP: Highly accurate phylogenomics-based
-      protein function prediciton method"'
+      protein function prediction method"'
   - text: (oral) Lyman Monroe, Genki Terashi, & D. Kihara, "Variability of protein
-      strucure models from electron microscopy"
+      structure models from electron microscopy"
   - text: '(poster) Genki Terashi, D. Kihara "MAINMAST: Building main-chain models
       for medium resolution electron microscopy maps"'
   - text: (poster) Ziyun Ding, D. Kihara, "Computational methods for predicting protein-protein
@@ -392,7 +390,7 @@
   - text: (poster) Sai Raghavendra Maddhuri, Genki Terashi, D. Kihara, "Structure
       detection in cryo-EM maps"
   - text: (poster) Mengmeng Zhu, D. Kihara, "Efficient computational framework for
-      boilogical 3D imiage data retrieval"
+      biological 3D image data retrieval"
   links:
   - url: https://purduegalaxy.science.purdue.edu
     display: The Hitchhikers' Guide to the Biomolecular Galaxy
@@ -400,7 +398,7 @@
   text: Multiple poster presentations at Tessman Symposium, Purdue Univerity, May
     1, 2017
   notes:
-  - text: Lyman Monroe, Genki Terashi, & D. Kihara, "Variability of protein strucure
+  - text: Lyman Monroe, Genki Terashi, & D. Kihara, "Variability of protein structure
       models from electron microscopy"
   - text: 'Genki Terashi, D. Kihara "MAINMAST: Building main-chain models for medium
       resolution electron microscopy maps"'
@@ -424,19 +422,23 @@
   text: Woong-Hee Shin, Structural Biology Seminar, Purdue University, Feb. 1 2017
 - number: 229
   text: '"In silico screening and modeling of protein-drug and protein-protein interactions",
-    <a href="http://www.einstein.yu.edu/calendars/#22" ,="" target="blank" style="user-select:
-    auto;">Albert Einstein College of Medicine, New York, NY, Jan. 24 , 2017'
+    Albert Einstein College of Medicine, New York, NY, Jan. 24 , 2017'
+  links:
+  - url: http://www.einstein.yu.edu/calendars/#22
+    display: Albert Einstein College of Medicine
 - number: 228
-  text: '12th Critical Assessment of Techniques for Protein Structure Prediction (CASP12)
-    Evaluation meeting, <a href="http://predictioncenter.org/casp12/doc/CASP12_Meeting_Program.html"
-    ,="" target="blank" style="user-select: auto;">CAPRI docking & Quality assessment
-    round table Gaeta, Italy, December 10-13, 2016'
+  text: 12th Critical Assessment of Techniques for Protein Structure Prediction (CASP12)
+    Evaluation meeting, CAPRI docking & Quality assessment round table Gaeta, Italy,
+    December 10-13, 2016
+  links:
+  - url: http://predictioncenter.org/casp12/doc/CASP12_Meeting_Program.html
+    display: CAPRI docking & Quality assessment round table
 - number: 227
-  text: Biomedical Informatics Speaker Series, Cincinnati Childrens' Hospital & University
+  text: Biomedical Informatics Speaker Series, Cincinnati Children's Hospital & University
     of Cincinnati, "In silico screening and modeling of protein-drug and protein-protein
     interactions",  Nov. 18, 11am
 - number: 226
-  text: Purdue University Center for Cancer Reseach Seminar Series, "In silico screening
+  text: Purdue University Center for Cancer Research Seminar Series, "In silico screening
     and modeling of protein-drug and protein-protein interactions", Purdue Institute
     for drug discovery lobby conference room, 11:30-12:30, November 17, 2016
 - number: 225
@@ -453,7 +455,7 @@
 - number: 223
   text: 'Woong-Hee Shin & D.Kihara, poster presentation and a short talk on "PL-PatchSurfer2.0:
     Improved local surface matching-based virtual screening method that is tolerant
-    to target and stucture variation",  Drug discovery 3rd Annual Symposium, Ross
+    to target and structure variation",  Drug discovery 3rd Annual Symposium, Ross
     Ade Pavilion, Purdue University Sep. 30, 2016'
 - number: 222
   text: Ishita Khan, Ph.D. thesis defense, Dept. of Computer Science, LWSN building,
@@ -494,7 +496,7 @@
   - url: http://www.acscerm2016.org/
     display: CERM 2016
 - number: 215
-  text: "D. Kihara, \"Ensembe-based evaluation for protein structure models\" \x7FThe
+  text: "D. Kihara, \"Ensemble-based evaluation for protein structure models\" \x7FThe
     3rd International Conference on Mathematical & Computational Medicine  May 16-18,
     2016"
   links:
@@ -518,7 +520,7 @@
 - number: 213
   text: D. Kihara, "Human and server prediction using LZerD with combined scoring
     functions", 6th CPARI protein docking prediction evaluation meeting, April 17-19
-    2016, Tel Aviv, Islrael
+    2016, Tel Aviv, Israel
   links:
   - url: http://www.cs.tau.ac.il/conferences/CAPRI2016/
     display: 6th CPARI protein docking prediction evaluation meeting
@@ -532,7 +534,7 @@
     Indianapolis, Feb. 29, 2016
 - number: 210
   text: 'Woong-Hee Shin, D. Kihara, "PL-PatchSurfer: A fast surface-patch-based virtual
-    screening program using three dimensional Zernike desriptors",  60th Biophysical
+    screening program using three dimensional Zernike descriptors",  60th Biophysical
     Society meeting , Los Angeles, Feb. 27- March 2, 2016'
   links:
   - url: https://www.biophysics.org/2016meeting/Main/tabid/6230/Default.aspx
@@ -577,14 +579,14 @@
     Sapporo, Japan, July 2 , 2015
 - number: 202
   text: '"Genome-scale identification and characterization of moonlighting proteins",
-    I.Khan & D. Kihara, The 15th Annual Meeeting of the Protein Science Society of
+    I.Khan & D. Kihara, The 15th Annual Meeting of the Protein Science Society of
     Japan, Tokushima, Japan, June 24-26, 2015'
   links:
   - url: http://www.aeplan.co.jp/pssj2015/en
-    display: The 15th Annual Meeeting of the Protein Science Society of Japan
+    display: The 15th Annual Meeting of the Protein Science Society of Japan
 - number: 201
-  text: '"Surface structure-based ligand prediction for target prteins and application
-    for drug development", D. Kihara, Worskhop on "Drug developement based on predicted
+  text: '"Surface structure-based ligand prediction for target proteins and application
+    for drug development", D. Kihara, Workshop on "Drug development based on predicted
     structure and function of target proteins", Tokyo University of Pharmacy and Life
     Sciences, Hachioji, Tokyo, Japan, June 23 , 2015'
 - number: 200
@@ -595,7 +597,7 @@
   - url: http://cbi-society.org/home/documents/seminar/2013to16/20150622.html
     display: The Chem-Bio Informatics Society
 - number: 199
-  text: '"Comparison and fittingf of molecular shapes for low-resolution structural
+  text: '"Comparison and fitting of molecular shapes for low-resolution structural
     data" D. Kihara, RIKEN, Yokohama, Japan, June 19, 2015'
 - number: 198
   text: Great Lakes Bioinformatics Conference (GLBIO), Purdue University, West Lafayette,
@@ -604,15 +606,15 @@
   - text: '(full paper, oral presentation) "IAS: Interaction specific Go term associations
       for predicting protein-protein interaction networks", Satwica Yerneni, Ishita
       K. Khan, Qing Wei & D.Kihara'
-  - text: (oral presentation) "Reisue environment score for selecting protein strucure
+  - text: (oral presentation) "Reissue environment score for selecting protein structure
       models and protein-protein docking models" Hyung-Rae Kim
   - text: (poster) "Protein side-chain conformation prediction methods are accurate
       in different residue environments", Lenna Peterson, Xuejiao Kang, & D. Kihara
-  - text: (poster) "Genome scale indentification and characterization of moonlighting
+  - text: (poster) "Genome scale identification and characterization of moonlighting
       proteins" Ishita K. Khan
   - text: '(poster) "PL-PatchSurfer2.0: A fast virtual screening program using surface
       patch based on 3D Zernike descriptors" Woong-Hee Shin'
-  - text: (poster) "Fiting of multiple chains by iterative manipulation of Cyro-EM
+  - text: (poster) "Fitting of multiple chains by iterative manipulation of Cyro-EM
       maps" Lyman Monroe
   links:
   - url: http://www.iscb.org/glbio2015
@@ -640,7 +642,7 @@
   notes:
   - text: '"Distributed heterogeneous cluster computing with computational proteomics",
       Aditya Vaidyam, & D.Kihara'
-  - text: '"Analysis of bioinformartics databases", Weichuan Luo, Tiange Dong, Andrew
+  - text: '"Analysis of bioinformatics databases", Weichuan Luo, Tiange Dong, Andrew
       Walden, Tianmu Hu, Ray Ji, Eric Petit, Tomii Lee, & D. Kihara'
 - number: 194
   text: Fast shape-based global and local electron density map search (oral presentation).
@@ -842,7 +844,7 @@
   text: '"Information flow in biological systems", Tokyo Institute of Technology,
     Tokyo, Japan, June 21, 2013'
 - number: 157
-  text: '"Preditions of structures of protein interactions". D. Kihara, Toyota Technological
+  text: '"Predictions of structures of protein interactions". D. Kihara, Toyota Technological
     Institute at Chicago, Chicago, IL, May 20, 2013'
 - number: 156
   text: Protein docking prediction guided by predicted protein-protein interface.
@@ -906,8 +908,7 @@
     display: Coarse-grained modeling of structure and dynamics of biomacromolecules
 - number: 143
   text: |-
-    A "catalytic dimer" hypothesis for the synthesis of cellulose and other (1,4)-beta-glycans
-    Nicholas C. Carpita (oral presentation), Anna T. Olek, Catherine J. Rayon, Lee Makowski, Shi-you Ding , Peter Ciesielski, Lake Paul, Subhangi Ghosh, Daisuke Kihara, Michael Crowley, Michael Himmel, Jeffrey Bolin,
+    A "catalytic dimer" hypothesis for the synthesis of cellulose and other (1,4)-beta-glycans Nicholas C. Carpita (oral presentation), Anna T. Olek, Catherine J. Rayon, Lee Makowski, Shi-you Ding , Peter Ciesielski, Lake Paul, Subhangi Ghosh, Daisuke Kihara, Michael Crowley, Michael Himmel, Jeffrey Bolin,
     The 23rd International Conference on Arabidopsis Research (ICAR), Vienna, Austria, July  3-7, 2012
 - number: 142
   text: 'Invited talk by D. Kihara at Telluride Meeting on Protein folding and Dynamics:
@@ -953,14 +954,14 @@
   text: '"Logic Patterns of Homologous Genes Across Species" by Lillian Liu, Huairuo
     Ren, Yu Leng, Meghana Chitale, Daisuke Kihara, poster presentation at  2012 Undergraduate
     Research and Poster Symposium, Purdue Memorial Union, North & South Ball Room,
-    Apirl 10 2012, 2-7pm'
+    April 10 2012, 2-7pm'
   links:
   - url: http://www.science.purdue.edu/index.php/urps
     display: 2012 Undergraduate Research and Poster Symposium
 - number: 135
   text: '"Domain-based protein function prediction in terms of GO vocabulary" by Su
     Lin Ooi, Meghana Chitale, Ishita Khan, & D. Kihara, Poster presentation at Discovery
-    Park Undergraguate Research Interns (DURI) poster presentation, DLR 131, Purdue
+    Park Undergraduate Research Interns (DURI) poster presentation, DLR 131, Purdue
     University, April 5, 4:30-6:30pm, 2012.'
 - number: 134
   text: Invited seminar, D. Kihara, The Research Institute at Nationwide Children's
@@ -985,8 +986,8 @@
     display: Sigma Xi Graduate Student Research Award Competition
 - number: 131
   text: Oral presentation, "Functional coherence assessment for protein groups and
-    its application to pathway assignment", D. Kihara, Zing conference, IECA (Internatinal
-    E. coli Alliance) 2011 , Xcaret, Cancun, Mexico, Dec. 5-9, 2011
+    its application to pathway assignment", D. Kihara, Zing conference, IECA (International
+    E. Coli Alliance) 2011 , Xcaret, Cancun, Mexico, Dec. 5-9, 2011
   links:
   - url: http://www.zingconferences.com/index.cfm?page=conference&intConferenceID=89
     display: Zing conference, IECA (Internatinal E. coli Alliance) 2011
@@ -1024,9 +1025,9 @@
   text: Invited Seminar, "Protein surface representation for ligand binding site screening"
     D. Kihara, Eli Lilly, Indianapolis,October 3, 2011
 - number: 123
-  text: |-
-    Invited Seminar, "Next Generation Protein 3D Structure Analysis: Rapid Global/Local Surface Comparison, Docking
-    and Low-Resolution Data" D. Kihara, University of Alberta, Edmonton, Canada, September 16, 2011
+  text: 'Invited Seminar, "Next Generation Protein 3D Structure Analysis: Rapid Global/Local
+    Surface Comparison, Docking and Low-Resolution Data" D. Kihara, University of
+    Alberta, Edmonton, Canada, September 16, 2011'
 - number: 122
   text: Invited Seminar,"Binding Ligand Prediction by Comparing Local Surface Patches
     of Potential Pocket Regions" D. Kihara, Computational Biology Res. Center, Tokyo,
@@ -1150,7 +1151,7 @@
   notes:
   - text: Fast identification of interacting proteins by considering shape and sequence
       features(Roshna Agarwal, Lee Sael, D. Kihara)
-  - text: 'SiteHunter: Interactive web applicatdion for determining protein ligand
+  - text: 'SiteHunter: Interactive web application for determining protein ligand
       binding site location (Yinlong Jin, R. Ren, K. Modi, S. Jain, D. La, D. Kihara)'
   - text: Mining association between gene ontology terms by using protein-protein
       interaction networks(Satwica Yersini, Meghana Chitale, D. Kihara)
@@ -1167,9 +1168,9 @@
   notes:
   - text: Information theoretical approaches for protein sequences and structure,
       (Yingfei Ma, D. Kihara)
-  - text: 'SiteHunter: Interactive web applicatdion for determining protein ligand
+  - text: 'SiteHunter: Interactive web application for determining protein ligand
       binding site location (Yinlong Jin, R. Ren, K. Modi, S. Jain, D. La, D. Kihara)'
-  - text: Docking low-resolucion cryo-EM density maps aided by structural homology
+  - text: Docking low-resolution cryo-EM density maps aided by structural homology
       searching (Wansuk Lim, L. Sael, D. Kihara)
 - number: 107
   text: '2 posters at 55st Annual meeting of Biophysical Society, Baltimore MD,  March
@@ -1268,8 +1269,7 @@
 - number: 91
   text: |-
     "Scoring Functions for Predicting Protein Structure
-    and Protein-protein Interatcion", Yifeng Yang, Ph.D. thesis defense.
-     Monday, April 19, 2010, 2:00 p.m, LILY 1-117, Purdue University.
+    and Protein-protein Interatcion", Yifeng Yang, Ph.D. thesis defense. Monday, April 19, 2010, 2:00 p.m, LILY 1-117, Purdue University.
 - number: 90
   text: 2010 Undergraduate Reserach Poster Symposium, April 7 (Wed), Purdue Memorial
     Union, 2-6:30pm, Purdue University
@@ -1310,7 +1310,8 @@
   text: Sigma Xi Graduate student research presentation, Feb 17 (Wed), 12:30-9pm,
     Stewart Center, Rm 214/218, Purdue University
   notes:
-  - text: ''
+  - text: '"A statistical method dor comparing flexible protein tertiary structures",
+      Farrukh Arslan, Yifeng Yang, D. Kihara.'
   - text: Application of 3D Zernike descriptors to shape-based ligand similarity searching",
       Padmasini Chakravarthy, V. Venkatraman, D. Kihara
   - text: Quantification of protein group coherence and pathway assignment in yeast
@@ -1331,9 +1332,10 @@
     prediction", Nara Institute of Science and Technology (NAIST), Graduate School
     of Biological Sciences, Nara, Japan, January 7, 2009'
 - number: 80
-  text: |-
-    "A unified protein docking procedure with a shape complementarity screening using  3D Zernike descriptors and ranking by physics-based scoring"
-    CAPRI Critical Assessment of Predicted Interactions 4th Evaluation Meeting, Barcelona, Spain, Dec 9-11, 2009
+  text: '"A unified protein docking procedure with a shape complementarity screening
+    using  3D Zernike descriptors and ranking by physics-based scoring" CAPRI Critical
+    Assessment of Predicted Interactions 4th Evaluation Meeting, Barcelona, Spain,
+    Dec 9-11, 2009'
   links:
   - url: http://mmb.pcb.ub.es/capri2009/
     display: CAPRI Critical Assessment of Predicted Interactions 4th Evaluation Meeting
@@ -1483,19 +1485,20 @@
       Whitaker, WG Aref, KA Datsenko, S Ess, MR Gribskov, D Kihara, S Kim, H Mori,
       A Roumani, BL Wanner.'
 - number: 58
-  text: "Oral presentation at AFP/Biosapiens 2008(Automated Function Prediction special
-    Interesting Group at ISMB2008), July 18-19, Toronto, Canada,\n\t\t\t\t\t\t\t\"ESG:
-    Extended Similarity Group Method for Improved Automated protein Function Prediction\"
-    by Meghana Chitale, Troy Hawkins, Changsoon Park & D. Kihara."
+  text: 'Oral presentation at AFP/Biosapiens 2008(Automated Function Prediction special
+    Interesting Group at ISMB2008), July 18-19, Toronto, Canada, "ESG: Extended Similarity
+    Group Method for Improved Automated protein Function Prediction" by Meghana Chitale,
+    Troy Hawkins, Changsoon Park & D. Kihara.'
   links:
   - url: http://compbio.iupui.edu/afp/2008/
     display: AFP/Biosapiens 2008
 - number: 57
-  text: "Preston Spratt, Honors research presentation, \"Structure modeling of E.
-    coli proteome\", March 27, 20008,\n\t\t\t\t\t\t\tLilly 3-418, 5:30pm, Dept. of
-    Biological Sci, Purdue University."
+  text: Preston Spratt, Honors research presentation, "Structure modeling of E. coli
+    proteome", March 27, 20008, Lilly 3-418, 5:30pm, Dept. of Biological Sci, Purdue
+    University.
 - number: 56
-  text: ''
+  text: 2008 Undergraduate Research and Poster Symposium, 2-7pm, March 31, 2008, Purdue
+    Memorial Union Ballrooms.
   notes:
   - text: Priyanka Surana, Yifeng Yang, D. Kihara "Computatinal modeling of ABC transporters"
   - text: Rupal Trivedi, Yifeng Yang, D. Kihara, "Disorder region prediction of E.
@@ -1528,42 +1531,50 @@
   text: Invited talk "Computational protein structure and function prediction" at
     Chung-Ang University, December 27, 2007, Seoul, Korea
 - number: 49
-  text: "7th KIAS-Soongsil Conference, October 4-6, 2007, Soongsil Univ., Seoul, Korea,\n\t\t\t\t\t\t\t\"Protein
-    function prediction for proteomics era (invited talk) \""
+  text: 7th KIAS-Soongsil Conference, October 4-6, 2007, Soongsil Univ., Seoul, Korea,
+    "Protein function prediction for proteomics era (invited talk) "
 - number: 48
-  text: "Structural Biology Seminar Series, Dept. of Biolgical Sciences, Purdue University,
+  text: 'Structural Biology Seminar Series, Dept. of Biolgical Sciences, Purdue University,
     September 19, 2007, 1:30-2:20pm, Lilly Hall, 1-117, Dept. of Biological Sciences,
-    Purdue University,\n\t\t\t\t\t\t\t\t\" Predicting protein function from sequence:
-    theory and applications \", by Troy Hawkins"
+    Purdue University, " Predicting protein function from sequence: theory and applications
+    ", by Troy Hawkins'
 - number: 47
-  text: "Structural Biology Seminar Series, Dept. of Biolgical Sciences, Purdue University,
+  text: Structural Biology Seminar Series, Dept. of Biolgical Sciences, Purdue University,
     September 26, 2007, 1:30-2:20pm, Lilly Hall, 1-117, Dept. of Biological Sciences,
-    Purdue University,\n\t\t\t\t\t\t\t\t\t\"Error estimation for template-based protein
-    structure prediction  \", by Hao Chen"
+    Purdue University, "Error estimation for template-based protein structure prediction  ",
+    by Hao Chen
 - number: 46
-  text: "<a href=\"http://bme.usc.edu/bmes2007/\" ,=\"\" target=\"blank\" style=\"user-select:
-    auto;\">Biomedical Engineering Society Annual Meeting, September 26-29, 2007,
-    Los Angeles, CA,\n\t\t\t\t\t\t\t\t\t\t\"A fast method for high throughput comparison
-    of tertiary structure and physicochemical properties (talk) \" in the Bioinformatics
-    and Systems Biology track (Session co-chair: Kihara)"
+  text: 'Biomedical Engineering Society Annual Meeting, September 26-29, 2007, Los
+    Angeles, CA, "A fast method for high throughput comparison of tertiary structure
+    and physicochemical properties (talk) " in the Bioinformatics and Systems Biology
+    track (Session co-chair: Kihara)'
+  links:
+  - url: http://bme.usc.edu/bmes2007/
+    display: Biomedical Engineering Society Annual Meeting
 - number: 45
-  text: ''
+  text: The 21st Symposium of the Protein Society, July 21-25, 2007 Boston, MA
   notes:
   - text: '(poster #268)"Protein surface representation for fast comparison of tertiary
       structure and physicochemical properties" by S. Lee, B. Li, D. La, R. Rustamov
       & D. Kihara (July 23)'
   - text: '(poster #464)"High-throughput function assignment for proteomics datasets
       with PFP" by T. Hawkins, M. Chitale & D. Kihara (July 24)'
+  links:
+  - url: http://www.proteinsociety.org/symposium21st/
+    display: The 21st Symposium of the Protein Society
 - number: 44
-  text: ''
+  text: ISMB 2007, July 21-25, 2007 Vienna, Austria
   notes:
   - text: (talk)"Enriching functional knowledge in proteomics data using high-throughput
       PFP prediction", by T. Hawkins, M. Chitale & D. Kihara, AFP/Biosapiens Special
       Interest Group, July 20, 2007
   - text: (poster)"Functional enrichment of proteomics datasets with PFP", T. Hawkins,
       M. Chitale, S. Luban & D. Kihara.
+  links:
+  - url: https://www.iscb.org/cms_addon/conferences/ismbeccb2007/
+    display: ISMB 2007
 - number: 43
-  text: ''
+  text: 'Indy ''07: Indy Regional Bioinformatics Conference, May 31-June 2, 2007,'
   notes:
   - text: (selected talk) H. Chen & D. Kihara, "Estimating quality of template-based
       protein models by alignment stability"
@@ -1581,25 +1592,30 @@
       for scoring functions"
   - text: (poster)L. Si, D. Yu, D. Kihara & Y. Fang, "Using sequence similarity scores
       for automatic gene function annotation in the biomedical literature"
+  links:
+  - url: https://medicine.iu.edu/research-centers/computational-biology-bioinformatics
+    display: 'Indy ''07: Indy Regional Bioinformatics Conference'
 - number: 42
-  text: "Program Committee member and Session Chair at <a href=\"http://sbm.temple.edu/interface07/index.html\"
-    ,=\"\" target=\"blank\" style=\"user-select: auto;\">Interface 2007: the 39th
-    Symposium on the interface of statistics, computing science, and applications,
-    May 23-26, 2007,\n\t\t\t\t\t\t\t\t\t\t\t\t\tDoubletree Hotel, Philadelphia,\n\t\t\t\t\t\t\t\t\t\t\t\t\t\"Computational
-    techniques for structural genomics (session title)\", \"Surface shape-based protein
-    structure classification and search (talk) \",\n\t\t\t\t\t\t\t\t\t\t\t\t\tDaisuke
-    Kihara"
+  text: 'Program Committee member and Session Chair at Interface 2007: the 39th Symposium
+    on the interface of statistics, computing science, and applications, May 23-26,
+    2007, Doubletree Hotel, Philadelphia,"Computational techniques for structural
+    genomics (session title)", "Surface shape-based protein structure classification
+    and search (talk) ", Daisuke Kihara'
+  links:
+  - url: http://sbm.temple.edu/interface07/index.html
+    display: 'Interface 2007: the 39th Symposium on the interface of statistics, computing
+      science, and applications'
 - number: 41
   text: '" Protein function and structure prediction for proteomics analyses " Invisted
     talk at Indiana University, Informatics Department, May 3, 2007, Bloomington,
     IN'
 - number: 40
-  text: "The Computer Research Insistute Poster Presentation, April 5, 2007, 4-6pm,
-    Atrium of MSEE building, Purdue Univeresity,\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\"Structure
-    modeling of E. coli proteome: Quality Evaluation \",\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tPreston
-    Spratt, Steve Krawczyk, Yifeng Yang &  Daisuke Kihara"
+  text: 'The Computer Research Insistute Poster Presentation, April 5, 2007, 4-6pm,
+    Atrium of MSEE building, Purdue Univeresity, "Structure modeling of E. coli proteome:
+    Quality Evaluation ", Preston Spratt, Steve Krawczyk, Yifeng Yang &  Daisuke Kihara'
 - number: 39
-  text: ''
+  text: 2007 Undergraduate Research and Poster Symposium, April 4, 2007, College of
+    Science, Agriculture, Engineering, and Technology, Purdue University,
   notes:
   - text: '"Structure modeling of E. coli proteome: Homology models" by Steve Krawczyk,
       Preston Spratt, Yifeng Yang & D. Kihara'
@@ -1607,88 +1623,117 @@
       Spratt, Steve Krawczyk, Yifeng Yang & D. Kihara'
   - text: '"Benchmark of new amino acid similarity matrices on recognition of distant
       protein structures" by Yu-Hsuan Rex Cheng, Hao Chen & D. Kihara'
+  links:
+  - url: https://www.purdue.edu/science/Current_Students/research_day/
+    display: 2007 Undergraduate Research and Poster Symposium
 - number: 38
-  text: "Dept. of Biological Science Undergraduate Reserach Presentation, March 31,
-    2007, Lilly Hall, Purdue Univeresity,\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\"Structure
-    modeling of E. coli proteome: Quality Evaluation \",\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tPreston
-    Spratt, Steve Krawczyk, Yifeng Yang &  Daisuke Kihara"
+  text: 'Dept. of Biological Science Undergraduate Research Presentation, March 31,
+    2007, Lilly Hall, Purdue University,"Structure modeling of E. coli proteome: Quality
+    Evaluation ", Preston Spratt, Steve Krawczyk, Yifeng Yang &  Daisuke Kihara'
 - number: 37
-  text: "Nara Institute of Science and Technology, Nara, Japan, December 28, 2006,\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\"Advanced
+  text: Nara Institute of Science and Technology, Nara, Japan, December 28, 2006,"Advanced
     techniques for protein function prediction and protein tertiary structure search
-    for proteomics analyses\",\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tDaisuke Kihara"
+    for proteomics analyses", Daisuke Kihara
 - number: 36
-  text: "One-day course on bioinformatics , Graduate program, Kansai Medical University,
-    Osaka, Japan, December 25, 2006,\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\"Bioinformatics:
-    Introduction and advanced topics\",\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tDaisuke Kihara"
+  text: 'One-day course on bioinformatics , Graduate program, Kansai Medical University,
+    Osaka, Japan, December 25, 2006, "Bioinformatics: Introduction and advanced topics",
+    Daisuke Kihara'
 - number: 35
-  text: "Ajinomoto Life Science Institute, Kawasaki, Japan, December 22, 2006,\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\"Advanced
+  text: Ajinomoto Life Science Institute, Kawasaki, Japan, December 22, 2006, "Advanced
     techniques for protein function prediction and protein tertiary structure search
-    for proteomics analyses\",\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tDaisuke Kihara"
+    for proteomics analyses", Daisuke Kihara
 - number: 34
-  text: "<a href=\"http://predictioncenter.org/casp7/\" ,=\"\" target=\"blank&quot;\"
-    style=\"user-select: auto;\">Critical Assessment of Techniques for Protein Structure
-    Prediction (CASP7) November 26-30, 2006, Asilomar Conference Center, CA, Invited
-    talk in Function prediction category,\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tDaisuke Kihara"
+  text: Critical Assessment of Techniques for Protein Structure Prediction (CASP7)
+    November 26-30, 2006, Asilomar Conference Center, CA, Invited talk in Function
+    prediction category,Daisuke Kihara
+  links:
+  - url: http://predictioncenter.org/casp7/
+    display: 'Critical Assessment of Techniques for Protein Structure Prediction (CASP7) '
 - number: 33
-  text: "BMES2006: (Biomedical Engineering Society Annual Meeting 2006) \"Systems
-    Biology and Bioinformatics\" Track Oct. 12-14, 2006, Hyatt Regency Chicago, Chicago,
-    IL\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\"Computational techniques for genomics, proteomic,
-    structural and pathway data\" session, Oct. 12, session co-chair with Dr. Christina
-    Chan,\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\"Enhanced protein function prediction for
-    proteomics analysis\",\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tDaisuke Kihara (invited
-    talk)"
+  text: 'BMES2006: (Biomedical Engineering Society Annual Meeting 2006) "Systems Biology
+    and Bioinformatics" Track Oct. 12-14, 2006, Hyatt Regency Chicago, Chicago, IL
+    "Computational techniques for genomics, proteomic, structural and pathway data"
+    session, Oct. 12, session co-chair with Dr. Christina Chan, "Enhanced protein
+    function prediction for proteomics analysis", Daisuke Kihara (invited talk)'
   links:
   - url: http://www.bme.northwestern.edu/bmes2006/
     display: 'BMES2006: (Biomedical Engineering Society Annual Meeting 2006) "Systems
       Biology and Bioinformatics" Track'
 - number: 32
-  text: "Center for Comp. Biology & Bioinformatics Seminar Series, October. 6, 2006,\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tMedical
-    Science Building Rm326, 3:30-4:30, Indiana Univ. School of Medicine, Indianapolis,
-    IN,\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\"Predicting protein function from sequence
-    and structure\",\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tDaisuke Kihara (invited talk)"
+  text: Center for Comp. Biology & Bioinformatics Seminar Series, October. 6, 2006,
+    Medical Science Building Rm326, 3:30-4:30, Indiana Univ. School of Medicine, Indianapolis,
+    IN,"Predicting protein function from sequence and structure", Daisuke Kihara (invited
+    talk)
 - number: 31
-  text: "<a href=\"http://bioinformatics.burnham.org:8080/AFP/afp06/\" ,=\"\" target=\"blank\"
-    style=\"user-select: auto;\">The Second Automated Function Prediction Meeting,
-    August 30 - September 1 2006,\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tCal-(IT)2 buidling,
-    \ UC San Diego, CA,\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\"PFP: sequence-based annotation
-    of sequences and local sequence motifs with contextual GO term association\",\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tTroy
-    Hawkins, Stan Luban & Daisuke Kihara (poster)"
+  text: 'The Second Automated Function Prediction Meeting, August 30 - September 1
+    2006, Cal-(IT)2 buidling,  UC San Diego, CA,"PFP: sequence-based annotation of
+    sequences and local sequence motifs with contextual GO term association", Troy
+    Hawkins, Stan Luban & Daisuke Kihara (poster)'
+  links:
+  - url: http://bioinformatics.burnham.org:8080/AFP/afp06/
+    display: The Second Automated Function Prediction Meeting
 - number: 30
-  text: "Symposium on \"Protein motion for function and folding(temporal title)\",
-    September. 28-29, 2006,\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tInstitute for Protein Research,
-    Osaka University, Japan,\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\"Low-resolution and uncertainty
-    in protein function and structure prediction\",\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tDaisuke
-    Kihara (invited talk)"
+  text: Symposium on "Protein motion for function and folding(temporal title)", September.
+    28-29, 2006, Institute for Protein Research, Osaka University, Japan, "Low-resolution
+    and uncertainty in protein function and structure prediction", Daisuke Kihara
+    (invited talk)
 - number: 29
-  text: ''
-  notes: []
-- number: 28
-  text: ''
+  text: TeraGrid '06, June 12-15, 2006, Indianapolis, IN,
   notes:
-  - text: Non
-  - text: Non
-  - text: Non
-  - text: Non
-  - text: Non
-  - text: Non
-  - text: Non
-  - text: Non
-  - text: Non
-  - text: Non
-  - text: Non
+  - text: '"EMD: an ensemble DNA regulatory motif discovery algortihm for Grid computing.",
+      Yifeng D. Yang, Jianjun Hu & Daisuke Kihara'
+  links:
+  - url: http://www.teragrid.org/events/2006conference/
+    display: TeraGrid '06
+- number: 28
+  text: The Third Annual Indiana Bioinformatics Conference, May 19-20, 2006,Center
+    for Computational Biology and Bioinformatics, Indiana Univ. School of Medicine,
+  notes:
+  - text: '"Bridging geometric protein surface features and phylogenetic information
+      for rapid identification of protein-protein interaction interfaces(invited oral
+      presentation)", David La, Dennis Livesay & Daisuke Kihara'
+  - text: '"PFP: sequence-based annotation of sequences and local sequence motifs
+      with contextual GO term asssociation(invited oral presentation)", Troy Hawkins,
+      Stan Luban, & Daisuke Kihara'
+  - text: '"Template-based protein structure prediction with a reliability measure
+      for structural genomics era(poster)", Hao Chen, Yen Hock Tan, & Daisuke Kihara'
+  - text: '"Ligand binding site prediction with the visibility criteria(poster)",
+      Bin Li, S. Thruvekere, M. Agrawal, K. Ramani & Daisuke Kihara'
+  - text: '"Multi-resolution protein representation for fact protein structure searching(poster)",
+      Sael Lee, Bin Li, David La, Raiv Rustamov, & Daisuke Kihara'
+  - text: '"On the effect of long-range interactions on the secondary structure formation
+      of proteins(poster)", Daisuke Kihara'
+  - text: '"Coiled-coil structures in E. coli interactome (poster)", Stan Luban, Akiyasu
+      Yoshizawa & Daisuke Kihara'
+  - text: '"Neural network based protein domain prediction (poster)", Yen Hock Tan,
+      Otoniel Venezuela, Evans A. Tapia & Daisuke Kihara'
+  - text: '"Statistical potential-based amino acid similarity matrices for aligning
+      distantly related protein sequences (poster)", Yen Hock Tan, He Huang & Daisuke
+      Kihara'
+  - text: '"Accounting for natural flexibility in protein structure prediction comparisons(poster)",
+      Jairav Desai & Daisuke Kihara'
+  - text: '"EcoliPredict: bioinformatics prediction resource for EcoliHub (poster)",
+      Barry Wanner, Daisuke Kihara, Troy Hawkins & Yifeng D. Yang'
   links:
   - url: http://evolution.compbio.iupui.edu/BioInfoConf/
     display: The Third Annual Indiana Bioinformatics Conference
 - number: 27
-  text: ''
-  notes: []
-- number: 26
-  text: ''
+  text: American Society for Microbiology ASM-FEMS Conference on Protein Traffic in
+    Prokaryotes, , May 6-10, 2006, Crete, Greece,
   notes:
-  - text: Non
-  - text: Non
+  - text: '"EcoliPredict: Bioinformatics prediction resource for EcoliHub.", Barry
+      Wanner, Daisuke Kihara, Troy Hawkins & Yifeng D. Yang'
+- number: 26
+  text: Undergraduate Research Poster Presentation, April 11, 2006, College of Science,
+    Purdue Univ.,
+  notes:
+  - text: '"Use of Neural Network for Protein Domain Prediction", Yen Hock Tan & Daisuke
+      Kihara'
+  - text: '"Including Natural Protein Fexibility in Predicted Protein Structure Comparisons",
+      Jairav Desai & Daisuke Kihara'
 - number: 25
-  text: ''
+  text: '2006 Sigma Xi Graduate Studnet ReserachPoster Presentation, Feb. 14, 2006,
+    Stewart Center Rm 214, Purdue, Poster presentations:'
   notes:
   - text: '"Protein Structure-Sequence Alignment with a Reliability Measure "(H.Chen,
       D. Kihara),'
@@ -1707,12 +1752,12 @@
   - url: http://www.purdue.edu/research/sigmaxi/gsrpa.shtml
     display: 2006 Sigma Xi Graduate Studnet ReserachPoster Presentation
 - number: 24
-  text: "Bioinformatics Seminar Series, , January 24 (Tue), 2006,\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tMechanical
-    Engineering Building ME161, 4:30-5:30, Purdue University,\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\"Enhanced
-    Automated Function Prediction for Proteomics Analysis\",\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tDaisuke
-    Kihara"
+  text: Bioinformatics Seminar Series, , January 24 (Tue), 2006, Mechanical Engineering
+    Building ME161, 4:30-5:30, Purdue University, "Enhanced Automated Function Prediction
+    for Proteomics Analysis", Daisuke Kihara
 - number: 23
-  text: ''
+  text: 'The 16th International Conference on Genome Informatics, Dec. 19-21, 2005,
+    Yokohama, Japan, Poster presentations:'
   notes:
   - text: '"Dependence of the Accuracy of Protein Secondary Structure Prediction on
       Long-Range Interactions "(D. Kihara),'
@@ -1725,118 +1770,130 @@
   - url: http://giw.ims.u-tokyo.ac.jp/giw2005/
     display: The 16th International Conference on Genome Informatics
 - number: 22
-  text: "International Symposium \"From Genomics to Chemical Genomics: 10th Anniversary
-    of KEGG, Dec. 15-16, 2005,\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tPALULU Plaza, Kyoto,
-    Japan,\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t, \"Protein function prediction in the Structural
-    Genomics Era\",\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tDaisuke Kihara (invited talk)"
+  text: 'International Symposium "From Genomics to Chemical Genomics: 10th Anniversary
+    of KEGG, Dec. 15-16, 2005, PALULU Plaza, Kyoto, Japan, "Protein function prediction
+    in the Structural Genomics Era", Daisuke Kihara (invited talk)'
   links:
   - url: http://www.genome.jp/kegg/anniversary/
     display: 'International Symposium "From Genomics to Chemical Genomics: 10th Anniversary
       of KEGG'
 - number: 21
-  text: "International Symposium on Frontiers of Computational Science 2005, Dec.
-    12-13, 2005,\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tNoyori Conference Hall, Nagoya University,
-    Japan,\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t, \"Protein function prediction in the Proteomics
-    Era\",\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tDaisuke\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tKihara
-    (invited talk)"
+  text: International Symposium on Frontiers of Computational Science 2005, Dec. 12-13,
+    2005, Noyori Conference Hall, Nagoya University, Japan, "Protein function prediction
+    in the Proteomics Era",Daisuke Kihara (invited talk)
   links:
   - url: http://fcs.coe.nagoya-u.ac.jp/fcs2005/index_e.htm
     display: International Symposium on Frontiers of Computational Science 2005
 - number: 20
-  text: "Structural Biology Seminar, November 16, 2005,\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tDepartment
-    of Biological\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tSciences, Purdue University, \"Protein
-    function prediction methods beyond BLAST search\",\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tDaisuke
-    Kihara"
+  text: Structural Biology Seminar, November 16, 2005, Department of Biological Sciences,
+    Purdue University, "Protein function prediction methods beyond BLAST search",
+    Daisuke Kihara
 - number: 19
-  text: "Computer Research Institute Seminar, October 19, 2005,\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tComputing
-    Reserach Institute, Purdue University, \"Protein function prediction in Structural
-    Genomics Era\",\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tDaisuke Kihara"
+  text: Computer Research Institute Seminar, October 19, 2005, Computing Reserach
+    Institute, Purdue University, "Protein function prediction in Structural Genomics
+    Era", Kihara
   links:
   - url: https://engineering.purdue.edu/CSE/cse-fall2005.html
     display: Computer Research Institute Seminar
 - number: 18
-  text: ''
+  text: 16th Annual Argonne Symposium for Undergraduates in Science, Engineering and
+    Mathematics, November 4-5, 2005, Argonne National Laboratory
   notes:
-  - text: Non
-  - text: Non
+  - text: '"Evaluation and Development of Protein Function Prediction", Stan Luban'
+  - text: '"Using Neural Network in Protein Domain Prediction", Yen Hock Tan'
 - number: 17
-  text: "Mini-Workshop on Computational Studies on Proteins, September 8, 2005,\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tChildren's
-    Hospital Research Foundation, Cincinnati, Ohio, \"Protein function prediction\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tfrom
-    sequence and structure\", Daisuke Kihara (invited talk)"
+  text: Mini-Workshop on Computational Studies on Proteins, September 8, 2005, Children's
+    Hospital Research Foundation, Cincinnati, Ohio, "Protein function prediction from
+    sequence and structure", Daisuke Kihara (invited talk)
 - number: 16
-  text: "PULSe Retreat, August 20, 2005, John S. Wright Forestry Center at Martell\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tForest,
-    \"Computational Function Prediction\", Troy Hawkins, Stan Luban, Daisuke\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tKihara"
+  text: PULSe Retreat, August 20, 2005, John S. Wright Forestry Center at Martell
+    Forest, "Computational Function Prediction", Troy Hawkins, Stan Luban, Daisuke
+    Kihara
 - number: 15
-  text: "Biology Department New Graduate Students Orientation, August 12, 2005, Lilly\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tHall
-    of Life Sciences, Purdue University, \"Bioinformatics Research in Kihara Lab\",
-    Daisuke Kihara"
+  text: Biology Department New Graduate Students Orientation, August 12, 2005, Lilly
+    Hall of Life Sciences, Purdue University, "Bioinformatics Research in Kihara Lab",
+    Daisuke Kihara
 - number: 14
-  text: ''
+  text: 2005 Summer Undergraduate Research Fellowship (SURF) Poster Presentation,
+    August 2 2005, MSEE Atrium, Purdue University
   notes:
-  - text: Non
-  - text: Non
-  - text: Non
-  - text: Non
+  - text: '"Protein-Protein Interaction Data Assessment", Ei Ei Phyu'
+  - text: '"Comparative Study of Small RNA and Small Peptides in Complete Genome Sequences",
+      Stan Luban'
+  - text: '"BioQ: A 3D Querying Engine for Proteins", Athurva Goa'
+  - text: '"Comparison of Distantly Related Protein Sequence Alignments with Multiple
+      Amino Acid Similarity Matrices", Yen Hock Tan'
 - number: 13
-  text: "Marc/Aim Research Presentation, July 28 2005, Burton\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tMorgan
-    Center for Entrepreneurship, \"Protein Structure Prediction with ZDOCK\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t2.3\",
-    Luis Avila, Bin Li, Daisuke Kihara"
+  text: Marc/Aim Research Presentation, July 28 2005, Burton Morgan Center for Entrepreneurship,
+    "Protein Structure Prediction with ZDOCK 2.3", Luis Avila, Bin Li, Daisuke Kihara
 - number: 12
-  text: ''
+  text: ISMB, June 25-29 2005, Detroit, Michigan
   notes:
-  - text: Non
-  - text: Non
+  - text: '"The use of context-based functional association in automated protein function
+      prediction methods", Troy Hawkins, Daisuke Kihara'
+  - text: '"PFP: Automatic annotation of protein function by relative GO association
+      in multiple functional contexts", Troy Hawkins, Daisuke Kihara'
   links:
   - url: http://ffas.burnham.org/AFP/Program
     display: ISMB oral presentation program
 - number: 11
-  text: ''
+  text: Midwest Computational Structural Biology Workshop, April 30 – May 1, 2005,
+    Brook Lodge, Michigan State University, Augusta, Michigan
   notes:
-  - text: Non
-  - text: Non
+  - text: '"Voxelized Protein Model for Fast Protein Docking and Function Prediction",
+      Srinivasan Turuvekerel, Manish Agrawal, Karthik Ramani, Daisuke Kihara'
+  - text: '"Protein Structure-Sequence Alignment with a Reliability Measure", Hao
+      Chen, Daisuke Kihara'
 - number: 10
-  text: "Guest lecture at BIOL 517 (Molecular Biology: Proteins),\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tApril
-    13 2005, Lilly Hall of Life Sciences, Purdue University, \"Computational Protein
-    Structure\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tPrediction Methods\", Daisuke Kihara"
+  text: 'Guest lecture at BIOL 517 (Molecular Biology: Proteins), April 13 2005, Lilly
+    Hall of Life Sciences, Purdue University, "Computational Protein Structure Prediction
+    Methods", Daisuke Kihara'
 - number: 9
-  text: ''
+  text: Undergraduate Research Poster Presentation, College of Science & College of
+    Agriculture, April 11, 2005, PMU Faculty Lounges, Purdue University
   notes:
-  - text: Non
-  - text: Non
-  - text: Non
-  - text: Non
-  - text: Non
+  - text: '"Comparing Tertiary Structures of Protein Active Sites", Yuhao Lin'
+  - text: '"Comparative Study of Small RNA and Small Peptides in Complete Genome Sequences",
+      Stan Luban'
+  - text: '"Computer Graphics Program in Foreign Language Instruction", Ei Ei Phyu'
+  - text: '"Comparison of Distantly Related Protein Sequence Alignments with Multiple
+      Amino Acid Similarity Matrices", Yen Hock Tan'
+  - text: '"Structure-basis of protein-protein interaction", Brian Trisler'
   links:
   - url: http://www.cs.purdue.edu/research/ugrad/researchday-participants05.htm
     display: Department of Computer Science Purdue University news article
 - number: 8
-  text: "The thirteenth Annual Undergraduate Research Day, Dept of\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tBiological
-    Sciences, April 2, 2005, Lilly Hall of Life Sciences, Purdue\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tUniversity,
-    \"Comparative study of small RNA and small peptides in complete\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tgenome
-    sequences\", Stan Luban"
+  text: The thirteenth Annual Undergraduate Research Day, Dept of Biological Sciences,
+    April 2, 2005, Lilly Hall of Life Sciences, Purdue University, "Comparative study
+    of small RNA and small peptides in complete genome sequences", Stan Luban
 - number: 7
-  text: "Biochemistry Division Seminar, April 1 2005, \"Toward a better\n\t\t\t\t\t\t\t\t\t\t\t\t\t\ttemplate-based
-    protein structure prediction\", Daisuke Kihara"
+  text: Biochemistry Division Seminar, April 1 2005, "Toward a better template-based
+    protein structure prediction", Daisuke Kihara
 - number: 6
-  text: "Biology Honors Research (BIOL 497) Presentation,\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tMarch
-    31 2005 , Lilly Hall of Life Sciences, Purdue University, Stan Luban"
+  text: Biology Honors Research (BIOL 497) Presentation, March 31 2005 , Lilly Hall
+    of Life Sciences, Purdue University, Stan Luban
 - number: 5
-  text: "PULSe Graduate Students Recruitment, March 5 2005, Hansen Hall, Purdue\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tUniversity,
-    \"Protein Sequence-Structure Alignment with a Reliability Measure\", Hao\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tChen"
+  text: PULSe Graduate Students Recruitment, March 5 2005, Hansen Hall, Purdue University,
+    "Protein Sequence-Structure Alignment with a Reliability Measure", Hao Chen
 - number: 4
-  text: "CS department Graduate Student Recruitment, March 5 2005, Computer Science\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tBuilding,
-    Purdue University, \"Bioinformatics Research in Kihara group\", Daisuke\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tKihara"
+  text: CS department Graduate Student Recruitment, March 5 2005, Computer Science
+    Building, Purdue University, "Bioinformatics Research in Kihara group", Daisuke
+    Kihara
 - number: 3
-  text: "Biology Graduate Students Recruitment, February 26 2005,\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\"Research
-    in Kihara\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tBioinformatics Lab!\", Troy Hawkins"
+  text: Biology Graduate Students Recruitment, February 26 2005,"Research in Kihara
+    Bioinformatics Lab!", Troy Hawkins
 - number: 2
-  text: ''
+  text: Sigma Xi Graduate Student Research Poster Presentation, February 17 2005,
+    Steward Center, Purdue University
   notes:
-  - text: Non
-  - text: Non
-  - text: Non
+  - text: '"Protein Sequence-Structure Alignment with a Reliability Measure", Hao
+      Chen'
+  - text: '"A structured approach to computational protein function prediction", Troy
+      Hawkins'
+  - text: '"A novel method for constructing phylogenetic trees based on complete genome
+      sequences", Bin Li'
 - number: 1
-  text: "15th Annual Argonne Symposium for Undergraduates in Science,\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tEngineering
-    and Mathematics, November 5-6, 2004, Argonne National\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tLaboratory,
-    \"Improvement of Protein Sequence Alignments for Better Protein Structure\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tPrediction\",
-    Yen Hock Tan"
+  text: 15th Annual Argonne Symposium for Undergraduates in Science,Engineering and
+    Mathematics, November 5-6, 2004, Argonne National Laboratory, "Improvement of
+    Protein Sequence Alignments for Better Protein Structure Prediction", Yen Hock
+    Tan

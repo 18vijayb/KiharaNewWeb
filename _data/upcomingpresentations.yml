@@ -1,0 +1,35 @@
+- number: 295
+  text: 3 oral presentations at The Hitchhiker's Guide to the Biomolecular Galaxy
+    2021, May 12-13, 2021
+  notes:
+  - text: '"VESPER: Global and local cryo-EM map alignment and database search using
+      local density vectors", Genki Terashi et al.'
+  - text: '"Detecting protein and DNA/RNA structures in cryo-EM maps of intermediate
+      resolution using deep learning", Xiao Wang et al.'
+  - text: '"Modeling transmembrane protein interactions using topological and biophysical
+      principles", Daipayan Sarkar et al.'
+  links:
+  - url: http://hitchhikers.science.purdue.edu/2021/index.html
+    display: The Hitchhiker's Guide to the Biomolecular Galaxy 2021
+- number: 294
+  text: '"Deep-learning-assisted protein 3D structure modeling for medium-resolution
+    cryo-EM density maps", D. Kihara, 5th International Conference on Mathematical
+    and Computational Medicine, (Virtual and physical), June 7-11, 2021'
+- number: 293
+  text: '"The OC_Finder: A deep learning-based software for in vitro osteoclast counting",
+    Mizuho Kittaka, Xiao Wang, Yilin He, Yiwei Wang, Daisuke Kihara, Yasuyoshi Ueki,
+    2021 Annual Meeting of The American Society for Bone and Mineral Research, October
+    1-4, 2021'
+- number: 292
+  text: Seminar at Butler University, postponed to Fall 2020 or later
+- number: 291
+  text: Invited talk at the 4th International Symposium on Cryo-3D Image Analysis
+    2020, postponed to 2021
+  links:
+  - url: https://cryoem.bcm.edu/events/view_workshop/15
+    display: the 4th International Symposium on Cryo-3D Image Analysis 2020
+- number: 290
+  text: '2nd Princeton-Nature Conference: Frontiers in Electron Microscopy for the
+    Physical and Life Sciences, Princeton University, NJ, postponed to 2021'
+- number: 289
+  text: The Kuntz Symposium, ACS National Fall meeting, postponed to 2021
