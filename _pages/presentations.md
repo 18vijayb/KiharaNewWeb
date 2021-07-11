@@ -43,7 +43,10 @@ permalink: /presentations/
 
 ## Past Presentations
 
-<table id="publication_table" class="table table-striped table-hover">
+<div class="input-group">
+<input id="search_table" onkeyup="filterTable()" type="search" class="form-control" placeholder="Search by any keyword" />
+</div>
+<table id="presentation_table" class="table table-striped table-hover">
     <thead class="thead-light">
         <tr>
             <th scope="col">#</th>
@@ -74,3 +77,23 @@ permalink: /presentations/
         {% endfor %}
     </tbody>
 </table>
+<script>
+    function filterTable() {
+    var input, filter, table, tr, td, i, txtValue;
+    input = document.getElementById("search_table");
+    filter = input.value.toUpperCase();
+    table = document.getElementById("presentation_table");
+    tr = table.getElementsByTagName("tr");
+    for (i = 0; i < tr.length; i++) {
+        td = tr[i].getElementsByTagName("td")[1];
+        if (td) {
+            txtValue = td.textContent || td.innerText;
+            if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                tr[i].style.display = "";
+            } else {
+                tr[i].style.display = "none";
+            }
+        }           
+    }
+    }
+</script>

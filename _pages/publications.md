@@ -10,7 +10,7 @@ Publications
 ------------
 
 <div class="input-group">
-<input id="search_table" onkeyup="filterTable()" type="search" class="form-control" placeholder="Search by any keyword" />
+  <input id="search_table" onkeyup="filterTable()" type="search" class="form-control" placeholder="Search by any keyword" />
 </div>
 <table id="publication_table" class="table table-striped table-hover">
     <thead class="thead-light">
