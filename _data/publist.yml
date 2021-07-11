@@ -1,62 +1,67 @@
-- authors: Takaharu Mori, Genki Terashi, Daisuke Matsuoka, Daisuke Kihara, & Yuji Sugita
+- PublicationInformation: J. Chem. Inf. Model., in press, (2021)
+  abstract:
+    display: Abstract
+    url: http://www.ncbi.nlm.nih.gov/pubmed/34142833
+  authors: Takaharu Mori, Genki Terashi, Daisuke Matsuoka, Daisuke Kihara, & Yuji
+    Sugita
   number: 200
   title: Efficient flexible fitting refinement with automatic error fixing for de
-    novo structure modeling from cryo-EM density maps. J. Chem. Inf. Model., in press,
-    (2021)
+    novo structure modeling from cryo-EM density maps
   year: 2021
-  abstract: 
-    url: http://www.ncbi.nlm.nih.gov/pubmed/34142833
+- PublicationInformation: 'Frontiers in Molecular Biosciences, 8: 647915 (2021)'
+  abstract:
     display: Abstract
-- authors: Xiao Wang, Sean Flannery, & Daisuke Kihara
+    link: https://pubmed.ncbi.nlm.nih.gov/34113650/
+  authors: Xiao Wang, Sean Flannery, & Daisuke Kihara
   link:
     display: PDF
     url: http://www.frontiersin.org/articles/10.3389/fmolb.2021.647915/
-  abstract: 
-    link: https://pubmed.ncbi.nlm.nih.gov/34113650/
-    display: Abstract
   links:
-  - url: https://github.com/kiharalab/GNN_DOVE
-    display: GitHub page of GNN_DOVE
+  - display: GitHub page of GNN_DOVE
+    url: https://github.com/kiharalab/GNN_DOVE
   number: 199
-  title: 'Protein docking model evaluation by graph neural networks. Frontiers in
-    Molecular Biosciences, 8: 647915 (2021)'
+  title: Protein docking model evaluation by graph neural networks
   year: 2021
-- abstract:
+- PublicationInformation: Nucleic Acid Research, in press, (2021)
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/33963854
   authors: Charles Christoffer, Siyang Chen, Vijay Bharadwaj, Tunde Aderinwale, Vidhur
     Kumar, Matin Hormati, & Daisuke Kihara
   links:
-  - url: https://lzerd.kiharalab.org
-    display: LZerD Server
+  - display: LZerD Server
+    url: https://lzerd.kiharalab.org
   number: 198
-  title: LZerD webserver for pairwise and multiple protein-protein docking. Nucleic
-    Acid Research, in press, (2021)
+  title: LZerD webserver for pairwise and multiple protein-protein docking
   year: 2021
-- abstract:
+- PublicationInformation: Cell Stress & Chaperones, in press, (2021)
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/33942205
   authors: Anwesha Sanyal, Erica A. Zbornik, Ben G. Watson, Charles Christoffer, Jia
     Ma, Daisuke Kihara, & Seema Mattoo
   number: 197
   title: Kinetic and strutctural parameters governing Fic-mediated adenylylation/AMPylation
-    of the Hsp70 chaperone, BiP/GRP78. Cell Stress & Chaperones, in press, (2021)
+    of the Hsp70 chaperone, BiP/GRP78
   year: 2021
-- abstract:
+- PublicationInformation: 'Nature Communications, 12: 2302 (2021)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/33863902
-  authors: Xiao Wang, Eman Alnabati, Tunde W. Aderinwale, Sai Raghavendra Maddhuri Venkata Subramaniya, Genki Terashi, & Daisuke Kihara
+  authors: Xiao Wang, Eman Alnabati, Tunde W. Aderinwale, Sai Raghavendra Maddhuri
+    Venkata Subramaniya, Genki Terashi, & Daisuke Kihara
   link:
     display: PDF
     url: http://www.nature.com/articles/s41467-021-22577-3
   links:
-  - url: https://kiharalab.org/emsuites/emap2secplus.php
-    display: Emap2sec+
+  - display: Emap2sec+
+    url: https://kiharalab.org/emsuites/emap2secplus.php
   number: 196
-  title: 'Detecting protein and DNA/RNA structures in cryo-EM maps of intermediate
-    resolution using deep learning. Nature Communications, 12: 2302 (2021)'
+  title: Detecting protein and DNA/RNA structures in cryo-EM maps of intermediate
+    resolution using deep learning
   year: 2021
-- abstract:
+- PublicationInformation: PROTEOMICS, in press, (2021)
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/33860983
   authors: Nagib Ahsan, R.S.P. Rao, R.S. Wilson, U. Punyamurtula, F. Salvato, M. Petersen,
@@ -64,15 +69,16 @@
     B. Ramratnam
   number: 195
   title: Mass spectrometry-based proteomics platforms for better understanding of
-    SARS-CoV-2 induced pathogenesis and potential diagnostic approaches. PROTEOMICS,
-    in press, (2021)
+    SARS-CoV-2 induced pathogenesis and potential diagnostic approaches
   year: 2021
-- authors: Daisuke Kihara
+- PublicationInformation: 'Jikken Igaku (Experimental Medicine), 39: 906-908. (in
+    Japanese) (2021)'
+  authors: Daisuke Kihara
   number: '---'
-  title: 'Breakthrough in protein structure prediction - Alphafold2. Jikken Igaku
-    (Experimental Medicine), 39: 906-908. (in Japanese) (2021)'
+  title: Breakthrough in protein structure prediction - Alphafold2
   year: 2021
-- abstract:
+- PublicationInformation: 'Nature Communications, 12: 2090. (2021)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/33828103
   authors: Xusi Han#, Genki Terashi#, Charles Christoffer, Siyang Chen, & Daisuke
@@ -81,15 +87,15 @@
     display: PDF
     url: http://www.nature.com/articles/s41467-021-22401-y
   links:
-  - url: https://kiharalab.org/em-surfer/vesper.php
-    display: 'Web server: VESPER Server'
-  - url: http://www.github.com/kiharalab/vesper
-    display: 'Github: VESPER'
+  - display: 'Web server: VESPER Server'
+    url: https://kiharalab.org/em-surfer/vesper.php
+  - display: 'Github: VESPER'
+    url: http://www.github.com/kiharalab/vesper
   number: 194
-  title: 'VESPER: global and local cryo-EM map alignment using local density vectors.
-    Nature Communications, 12: 2090. (2021)'
+  title: 'VESPER: global and local cryo-EM map alignment using local density vectors'
   year: 2021
-- abstract:
+- PublicationInformation: 'Scientific Reports, 11: 7574 (2021)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/33828153
   authors: Aashish Jain, Genki Terashi, Yuki Kagaya, Sai Raghavendra Venkata Maddhuri
@@ -98,25 +104,27 @@
     display: PDF
     url: http://www.nature.com/articles/s41598-021-087204-z
   links:
-  - url: http://www.github.com/kiharalab/attentivedist
-    display: 'Github: AttentiveDist'
+  - display: 'Github: AttentiveDist'
+    url: http://www.github.com/kiharalab/attentivedist
   number: 193
-  title: 'Analyzing effect of quadraple multiple sequence alignments on deep learning
-    based protein inter-residue distance prediction. Scientific Reports, 11: 7574 (2021).'
+  title: Analyzing effect of quadraple multiple sequence alignments on deep learning
+    based protein inter-residue distance prediction
   year: 2021
-- abstract:
+- PublicationInformation: 'Bioinformatics, doi: 10.1093/bioinformatics/btab220 (2021)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/33787852
   authors: Sai Raghavendra Maddhuri Venkata Subramaniya, Genki Terashi, Aashish Jain,
     Yuki Kagaya, & Daisuke Kihara
   links:
-  - url: http://www.github.com/kiharalab/contactgan
-    display: 'GitHub: ContactGAN'
+  - display: 'GitHub: ContactGAN'
+    url: http://www.github.com/kiharalab/contactgan
   number: 192
-  title: 'Protein contact map refinement for improving protein structure prediction
-    using generative adversarial networks. Bioinformatics, doi: 10.1093/bioinformatics/btab220 (2021)'
+  title: Protein contact map refinement for improving protein structure prediction
+    using generative adversarial networks
   year: 2021
-- abstract:
+- PublicationInformation: 'Nature Methods, 18: 156-164 (2021)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/33542514
   authors: Catherine L. Lawson, ,,, Daisuke Kihara, ,,, Daipayan Sarkar , ,,, Genki
@@ -125,10 +133,11 @@
     display: PDF
     url: http://www.nature.com/articles/s41592-020-01051-w
   number: 191
-  title: 'Cryo-EM model validation recommendations based on outcomes of the 2019 EMDataResource
-    challenge. Nature Methods, 18: 156-164 (2021)'
+  title: Cryo-EM model validation recommendations based on outcomes of the 2019 EMDataResource
+    challenge
   year: 2021
-- abstract:
+- PublicationInformation: 'Human Mol. Genet., doi: 10.1093/hmg/ddab025, in press (2021)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/33517444
   authors: Swetha Ramadesikan, Lisette Skiba, Jennifer Lee, Kayalviszhi Madhivanan,
@@ -136,27 +145,30 @@
     Hazbinpress Daisuke Kihara, & R. Claudio Aguilar
   number: 190
   title: 'Genotype & phenotype in Lowe syndrome: Specific OCRL1 patient mutations
-    differentially impact cellular phenotypes. Human Mol. Genet., doi: 10.1093/hmg/ddab025,
-    in press (2021)'
+    differentially impact cellular phenotypes'
   year: 2021
-- abstract:
+- PublicationInformation: 'IEEE Trans Image Process., 30: 1639-1647 (2021)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/33347409
   authors: Xiao Wang, Daisuke Kihara, Jiebo Luo, & Guo-Jun Qi
   number: 189
   title: 'EnAET: A self-trained framework for semi-supervised learning with ensemble
-    transformations. IEEE Trans Image Process., 30: 1639-1647 (2021)'
+    transformations'
   year: 2021
-- abstract:
+- PublicationInformation: 'Seminars in Cancer Biol. 68: 84-91, (2021)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/31698087
   authors: Ramanathan Karuppasamy, Shanthi Veerappapillai, Sayoni Maiti, Woong-Hee
     Shin & Daisuke Kihara
   number: 188
   title: 'Current progress and future perspective of polypharmacology: From the view
-    of non-small cell lung cancer. Seminars in Cancer Biol. 68: 84-91, (2021)'
+    of non-small cell lung cancer'
   year: 2021
-- abstract:
+- PublicationInformation: 'Advances and Applications in Bioinformatics and Chemistry,
+    13: 11-25 (2020)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/33209039
   authors: Woong-Hee Shin, Keiko Kumazawa, Kenichiro Imai, Takatsugu Hirokawa, & Daisuke
@@ -165,17 +177,19 @@
     display: PDF
     url: http://www.dovepress.com/current-challenges-and-opportunities-in-designing-proteinndashprotein--peer-reviewed-article-AABC
   number: 187
-  title: 'Current challenges and opportunities in designing protein-protein interaction
-    targeted drugs. Advances and Applications in Bioinformatics and Chemistry, 13:
-    11-25 (2020)'
+  title: Current challenges and opportunities in designing protein-protein interaction
+    targeted drugs
   year: 2020
-- authors: Daisuke Kihara, Charles Christoffer, Siyang Chen, Vijay Bharadwaj, & Tunde
+- PublicationInformation: 'Jikken Igaku (Experimental Medicine), 38: 3271-3276 (in
+    Japanese) (2020)'
+  authors: Daisuke Kihara, Charles Christoffer, Siyang Chen, Vijay Bharadwaj, & Tunde
     Aderinwale
   number: 186
-  title: 'LZerD: Software for protein docking modeling. Jikken Igaku (Experimental
-    Medicine), 38: 3271-3276 (in Japanese) (2020)'
+  title: 'LZerD: Software for protein docking modeling'
   year: 2020
-- abstract:
+- PublicationInformation: 'Seibutsu Butsuri (Biophysics), (in Japanese), 61: 44-45
+    (2020)'
+  abstract:
     display: Abstract
     url: http://www.jstage.jst.go.jp/article/biophys/61/1/61_044/_article/-char/en
   authors: Daisuke Kihara
@@ -183,20 +197,20 @@
     display: PDF
     url: http://www.jstage.jst.go.jp/article/biophys/61/1/61_044/_article/-char/en
   number: '---'
-  title: 'Turning points in my career path. Seibutsu Butsuri (Biophysics), (in Japanese),
-    61: 44-45 (2020)'
+  title: Turning points in my career path
   year: 2020
-- abstract:
+- PublicationInformation: 'Computers & Graphics, 91: 279-289 (2020)'
+  abstract:
     display: Abstract
     url: http://www.sciencedirect.com/science/article/pii/S0097849320301126
   authors: I. Gubins, M.L. Chaillet, G.v.d. Schot, R.C. Veltkamp, F. Foerster, Y.
     Hao, X. Wan, X. Cui, F. Zhang, E. Moebel, Xiao Wang, Daisuke Kihara, X. Zeng,
     M. Xu, N.P. Nguyen, T. White, & F. Bunyak
   number: 185
-  title: 'SHREC2020: Classification in cryo-electron tomograms. Computers & Graphics,
-    91: 279-289 (2020)'
+  title: 'SHREC2020: Classification in cryo-electron tomograms'
   year: 2020
-- abstract:
+- PublicationInformation: 'Computers & Graphics, 91: 189-198 (2020)'
+  abstract:
     display: Abstract
     url: http://www.sciencedirect.com/science/article/pii/S0097849320301151
   authors: F. Langenfeld, Y. Peng, Y.-K. Lai, P.L. Rosin, Tunde Aderinwale, Genki
@@ -204,60 +218,67 @@
     F. Windal, M. Melkemi, A. Giachetti, S. Mylonas, A. Axenopoulos, P. Daras, E.
     Otu, R. Zwiggelaar, D. Hunter, Y. Liu, & M. Montes
   number: 184
-  title: 'SHREC2020: Multi-domain protein shape retrieval challenge. Computers & Graphics,
-    91: 189-198 (2020)'
+  title: 'SHREC2020: Multi-domain protein shape retrieval challenge'
   year: 2020
-- abstract:
+- PublicationInformation: 'Methods in Mol. Biol., 2165: 317-336 (2020)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/32621234
   authors: Genki Terashi, Yuhong Zha, & Daisuke Kihara
   number: 183
-  title: 'Protein structure modeling from cryo-EMmap using MAINMAST and MAINMAST-GUI
-    Plugin. Methods in Mol. Biol., 2165: 317-336 (2020)'
+  title: Protein structure modeling from cryo-EMmap using MAINMAST and MAINMAST-GUI
+    Plugin
   year: 2020
-- abstract:
+- PublicationInformation: 'Methods Mol. Biol., 2165: 231-244 (2020)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/32621228
   authors: Charles Christoffer & Daisuke Kihara
   number: 182
-  title: 'IDP-LZerD: Software for modeling disordered protein interactions. Methods
-    Mol. Biol., 2165: 231-244 (2020)'
+  title: 'IDP-LZerD: Software for modeling disordered protein interactions'
   year: 2020
-- abstract:
+- PublicationInformation: 'Curr. Opin. Struct. Biol., 64: 1-8 (2020)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/32599506
-  authors: Tunde Aderinwale, Charles W. Christoffer, Daipayan Sarkar, Eman Alnabati, & Daisuke Kihara
+  authors: Tunde Aderinwale, Charles W. Christoffer, Daipayan Sarkar, Eman Alnabati,
+    & Daisuke Kihara
   number: 181
-  title: 'Computational structure modeling for diverse categories of macromolecular
-    interactions. Curr. Opin. Struct. Biol., 64: 1-8 (2020)'
+  title: Computational structure modeling for diverse categories of macromolecular
+    interactions
   year: 2020
-- abstract:
+- PublicationInformation: '1 A resolution, condensed DNA, and host identity revision
+    to a Lysinibacillus. J. Mol. Biol., 432: 4139-4153 (2020)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/32454153
   authors: Brenda Gonzalez, Lyman Monroe, Kunpeng Li, Rui Yan, Elena Wright, Thomas
     Walter, Daisuke Kihara, Susan T. Weintraub, Julie A Thomas, Philip Serwer, & Wen
     Jiang
   number: 180
-  title: 'Phage G structure at 6.1 A resolution, condensed DNA, and host identity
-    revision to a Lysinibacillus. J. Mol. Biol., 432: 4139-4153 (2020)'
+  title: Phage G structure at 6.1 A resolution, condensed DNA, and host identity revision
+    to a Lysinibacillus
   year: 2020
-- abstract:
+- PublicationInformation: 'J. Chem. Inf. Model., 60: 2634-2643 (2020)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/32197044
   authors: Genki Terashi, Yuki Kagaya, & Daisuke Kihara
   links:
-  - url: http://kiharalab.org/mainmast_seg
-    display: MAINMASTseg
+  - display: MAINMASTseg
+    url: http://kiharalab.org/mainmast_seg
   number: 179
   title: 'MAINMASTseg: Automated map segmentation method for cryo-EM density with
-    symmetry. J. Chem. Inf. Model., 60: 2634-2643 (2020)'
+    symmetry'
   year: 2020
-- authors: Daisuke Kihara
+- PublicationInformation: 'Jikken Igaku (Experimental Medicine), 38: 866-871, (in
+    Japanese) (2020)'
+  authors: Daisuke Kihara
   number: 178
-  title: 'Trends in software developments of biomolecular structural modeling and
-    prediction. Jikken Igaku (Experimental Medicine), 38: 866-871, (in Japanese) (2020)'
+  title: Trends in software developments of biomolecular structural modeling and prediction
   year: 2020
-- abstract:
+- PublicationInformation: ''
+  abstract:
     display: Abstract
     url: https://arxiv.org/abs/1910.12995
   authors: Tuan Lai, Quan Huang Tran, Trung Bui, & Daisuke Kihara
@@ -265,30 +286,32 @@
     display: PDF
     url: https://arxiv.org/pdf/1910.12995.pdf
   links:
-  - url: http://2020.ieeeicassp.org
-    display: ICASSP 2020
+  - display: ICASSP 2020
+    url: http://2020.ieeeicassp.org
   number: 177
   title: A simple but effective BERT model for dialog state tracking on resource-limited
-    systems (2020).
+    systems (2020)
   year: 2020
-- abstract:
+- PublicationInformation: 'Methods in Mol. Biol., 2074: 95-112, (2020)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/31583633
   authors: Genki Terashi, Charles Christoffer & Daisuke Kihara
   links:
-  - url: http://kiharalab.org/proteindocking/pathlzerd.php
-    display: Path-LZerD
+  - display: Path-LZerD
+    url: http://kiharalab.org/proteindocking/pathlzerd.php
   number: 176
-  title: 'Path-LZerD: Predicting assembly order of multimeric protein complexes Methods
-    in Mol. Biol., 2074: 95-112, (2020)'
+  title: 'Path-LZerD: Predicting assembly order of multimeric protein complexes'
   year: 2020
-- authors: Genki Terashi, Sai Raghavendra Maddhuri Venkata Subramaniya & Daisuke Kihara
+- PublicationInformation: 'Jikken Igaku (Experimental Medicine), 38: 82-86, (in Japanese)
+    (2020)'
+  authors: Genki Terashi, Sai Raghavendra Maddhuri Venkata Subramaniya & Daisuke Kihara
   number: 175
-  title: 'Protein secondary structure detection in intermediate-resolution cryo-EM
-    maps using deep learning. Jikken Igaku (Experimental Medicine), 38: 82-86, (in
-    Japanese) (2020)'
+  title: Protein secondary structure detection in intermediate-resolution cryo-EM
+    maps using deep learning
   year: 2020
-- abstract:
+- PublicationInformation: Source Code for Biology and Medicine, 15:1, (2020)
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/32064000
   authors: Julian S. Deville, Daisuke Kihara, & Atilla Sit
@@ -296,36 +319,39 @@
     display: PDF
     url: https://scfbm.biomedcentral.com/articles/10.1186/s13029-020-0077-1
   links:
-  - url: http://github.com/kiharalab/2DKD
-    display: 2DKD code at Gihub
+  - display: 2DKD code at Gihub
+    url: http://github.com/kiharalab/2DKD
   number: 174
-  title: '2DKD: A toolkit for content-based local image search. Source Code for Biology
-    and Medicine, 15:1, (2020)'
+  title: '2DKD: A toolkit for content-based local image search'
   year: 2020
-- abstract:
+- PublicationInformation: 'Bioinformtics, 36: 2113-2118 (2020)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/31746961
-  authors: Xiao Wang, Genki Terashi, Charles Christoffer, Mengmeng Zhu, & Daisuke Kihara
+  authors: Xiao Wang, Genki Terashi, Charles Christoffer, Mengmeng Zhu, & Daisuke
+    Kihara
   links:
-  - url: http://github.com/kiharalab/DOVE
-    display: DOVE code at Gihub
-  - url: http://kiharalab.org/dove/
-    display: Dove webserver
+  - display: DOVE code at Gihub
+    url: http://github.com/kiharalab/DOVE
+  - display: Dove webserver
+    url: http://kiharalab.org/dove/
   number: 173
-  title: 'Protein docking model evaluation by 3D convolutional neural networks. Bioinformtics,
-    36: 2113-2118 (2020)'
+  title: Protein docking model evaluation by 3D convolutional neural networks
   year: 2020
-- abstract:
+- PublicationInformation: 'Proteins: Strucure, Function, and Bioinformtics, 88: 948-961
+    (2020)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/31697428
   authors: Charles Christoffer, Genki Terashi, Woong-Hee Shin, Tunde Aderinwale, Sai
     Raghavendra Maddhuri Venkata Subramaniya, Lenna Peterson, Jacob Verburgt, & Daisuke
     Kihara
   number: 172
-  title: 'Performance and enhancement of the LZerD protein asssembly pipeline in CAPRI
-    38-46. Proteins: Strucure, Function, and Bioinformtics, 88: 948-961 (2020)'
+  title: Performance and enhancement of the LZerD protein asssembly pipeline in CAPRI
+    38-46
   year: 2020
-- abstract:
+- PublicationInformation: 'Molecules, 25: 82, (2019)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/31878333
   authors: Eman Alnabati & Daisuke Kihara
@@ -333,10 +359,11 @@
     display: PDF
     url: https://www.mdpi.com/1420-3049/25/1/82
   number: 171
-  title: 'Advances in structure modeling methods in cryo-electon microscopy maps.
-    Molecules, 25: 82, (2019)'
+  title: Advances in structure modeling methods in cryo-electon microscopy maps
   year: 2019
-- abstract:
+- PublicationInformation: Latin American High Performance Computing Conference, 464-478,
+    (2019)
+  abstract:
     display: Abstract
     url: https://link.springer.com/chapter/10.1007/978-3-030-41005-6_32
   authors: Manuel Zumbado-Corrales, Luis Castillo-Valverde, Jose Salas-Bonilla, Julio
@@ -345,10 +372,10 @@
     display: PDF
     url: paper/emsegment_zumbado_highPcomputing2019.pdf
   number: 170
-  title: Matching of EM map segments to structurally-relevant Bio-molecular regions.
-    Latin American High Performance Computing Conference, 464-478, (2019)
+  title: Matching of EM map segments to structurally-relevant Bio-molecular regions
   year: 2019
-- abstract:
+- PublicationInformation: 'Scientific Reports, 9: 19585, (2019)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/31863054
   authors: Chiba S., ,,, Woong-Hee Shin, Daisuke Kihara,,, & Sekijima M.
@@ -356,10 +383,11 @@
     display: PDF
     url: https://www.nature.com/articles/s41598-019-55069-y
   number: 169
-  title: 'A prospective compound screening contest identified broader inhibitors for
-    Sirtuin 1. Scientific Reports, 9: 19585, (2019)'
+  title: A prospective compound screening contest identified broader inhibitors for
+    Sirtuin 1
   year: 2019
-- abstract:
+- PublicationInformation: 'Scientific Reports, 9: 17923, (2019)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/31784686
   authors: Aashish Jain & Daisuke Kihara
@@ -367,36 +395,41 @@
     display: PDF
     url: https://www.nature.com/articles/s41598-019-54405-6
   links:
-  - url: http://github.com/kiharalab/NNTox
-    display: NNTox code at Gihub
+  - display: NNTox code at Gihub
+    url: http://github.com/kiharalab/NNTox
   number: 168
-  title: 'NNTox: Gene ontology-based protein toxicity prediction using neural network. Scientific Reports, 9: 17923, (2019)'
+  title: 'NNTox: Gene ontology-based protein toxicity prediction using neural network'
   year: 2019
-- abstract:
+- PublicationInformation: 'Proteins: Structure, Function, and Bioinformatics, 87:
+    1200-1221 (2019)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/31612567
   authors: Mark F. Lensink,,, Charles Christoffer, Genki Terashi, Woong-Hee Shin,
-    Tunde Aderinwale, Sai Raghavendra Maddhuri Venkata Subramaniya, Daisuke Kihara ,,,, & Shoshana J Wodak
+    Tunde Aderinwale, Sai Raghavendra Maddhuri Venkata Subramaniya, Daisuke Kihara
+    ,,,, & Shoshana J Wodak
   link:
     display: PDF
     url: paper/casp13capri_proteins2019.pdf
   number: 167
   title: 'Blind prediction of homo- and hetero-protein complexes: The CASP13-CAPRI
-    experiment. Proteins: Structure, Function, and Bioinformatics, 87: 1200-1221 (2019)'
+    experiment'
   year: 2019
-- abstract:
+- PublicationInformation: 'Genome Biology, 20: 244, (2019)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/31744546
-  authors: Naihui Zhou,,, Aashish Jain,,,, Daisuke Kihara, ,,, Predrag Radivojac, & Iddo Friedberg
+  authors: Naihui Zhou,,, Aashish Jain,,,, Daisuke Kihara, ,,, Predrag Radivojac,
+    & Iddo Friedberg
   link:
     display: PDF
     url: https://www.biomedcentral.com/epdf/10.1186/s13059-019-1835-8
   number: 166
-  title: 'The CAFA challenge reports improved protein function prediction and new
-    functional annotations for hundreds of genes through experimental screens. Genome
-    Biology, 20: 244, (2019)'
+  title: The CAFA challenge reports improved protein function prediction and new functional
+    annotations for hundreds of genes through experimental screens
   year: 2019
-- abstract:
+- PublicationInformation: 'J. Computer-Aided Molecular Design, 33: 1083-1094, (2019)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/31506789
   authors: Woong-Hee Shin, Daisuke Kihara
@@ -404,10 +437,13 @@
     display: PDF
     url: paper/D3R_JCompAidMolDes2019.pdf
   number: 165
-  title: 'Predicting binding poses and affinity ranking in D3R Grand Challenge using
-    PL-ParchSurfer2.0. J. Computer-Aided Molecular Design, 33: 1083-1094, (2019)'
+  title: Predicting binding poses and affinity ranking in D3R Grand Challenge using
+    PL-ParchSurfer2.0.
   year: 2019
-- abstract:
+- PublicationInformation: The 2019 Conference on Empirical Methods in Natural Language
+    Processing and the 9th International Joint Conference on Natural Language Processing,
+    (2019)
+  abstract:
     display: Abstract
     url: https://arxiv.org/abs/1909.09696
   authors: Tuan Lai, Quan Huang Tran, Trung Bui, & Daisuke Kihara
@@ -415,14 +451,13 @@
     display: PDF
     url: https://arxiv.org/pdf/1909.09696.pdf
   links:
-  - url: http://www.aclweb.org/anthology/D19-1610/
-    display: EMNLP-IJCNLP
+  - display: EMNLP-IJCNLP
+    url: http://www.aclweb.org/anthology/D19-1610/
   number: 164
-  title: A gated self-attention memory network for answer selection. The 2019 Conference
-    on Empirical Methods in Natural Language Processing and the 9th International
-    Joint Conference on Natural Language Processing, (2019)
+  title: A gated self-attention memory network for answer selection
   year: 2019
-- abstract:
+- PublicationInformation: 'Nature Methods, 16: 911-917 (2019)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/31358979
   authors: Sai Raghavendra Maddhuri Venkata Subramaniya, Genki Terashi, & Daisuke
@@ -431,21 +466,22 @@
     display: PDF
     url: paper/emap2sec.pdf
   links:
-  - url: https://www.nature.com/nmeth/volumes/16/issues/9
-    display: Journal Cover Art
-  - url: http://go.nature.com/2LPynu2
-    display: Blog
-  - url: http://www.kiharalab.org/emap2sec/index.html
-    display: Emap2Sec page
-  - url: http://github.com/kiharalab/Emap2sec
-    display: 'Github: Emap2sec'
-  - url: https://codeocean.com/capsule/4439990/tree/v2
-    display: In CodeOcean
+  - display: Journal Cover Art
+    url: https://www.nature.com/nmeth/volumes/16/issues/9
+  - display: Blog
+    url: http://go.nature.com/2LPynu2
+  - display: Emap2Sec page
+    url: http://www.kiharalab.org/emap2sec/index.html
+  - display: 'Github: Emap2sec'
+    url: http://github.com/kiharalab/Emap2sec
+  - display: In CodeOcean
+    url: https://codeocean.com/capsule/4439990/tree/v2
   number: 163
-  title: 'Protein secondary structure detection in intermediate-resolution cyor-EM
-    maps using deep learning. Nature Methods, 16: 911-917 (2019)'
+  title: Protein secondary structure detection in intermediate-resolution cyor-EM
+    maps using deep learning
   year: 2019
-- abstract:
+- PublicationInformation: 'Medicinal Chemistry Research, 28: 1726-1739, (2019)'
+  abstract:
     display: Abstract
     url: http://link.springer.com/article/10.1007/s00044-019-02410-9
   authors: Ramanathan Karuppaswamy, Sayoni V. Shanthi, Woong-Hee Shin & Daisuke Kihara
@@ -453,11 +489,11 @@
     display: PDF
     url: paper/3DQSAR_ALK_MedChemRes2019.pdf
   number: 162
-  title: 'Implementationof Pharmacophore-based 3D QSAR model and scafford analysis
-    in order to excavate pristine ALK inhibitors. Medicinal Chemistry Research, 28:
-    1726-1739, (2019)'
+  title: Implementationof Pharmacophore-based 3D QSAR model and scafford analysis
+    in order to excavate pristine ALK inhibitors
   year: 2019
-- abstract:
+- PublicationInformation: 'Scientific Reports, 9: 8740 (2019)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/31217453
   authors: Ziyun Ding & Daisuke Kihara
@@ -465,21 +501,26 @@
     display: PDF
     url: https://www.nature.com/articles/s41598-019-45072-8
   number: 161
-  title: 'Computational identification of protein-protein interactions in model plan
-    proteomes. Scientific Reports, 9: 8740 (2019)'
+  title: Computational identification of protein-protein interactions in model plan
+    proteomes
   year: 2019
-- authors: Atilla Sit, Woong-Hee Shin, & Daisuke Kihara
+- PublicationInformation: 'Pattern Recognition, 93: 534-545 (2019)'
+  abstract:
+    display: Abstract
+    url: https://www.sciencedirect.com/science/article/pii/S0031320319301943
+  authors: Atilla Sit, Woong-Hee Shin, & Daisuke Kihara
   link:
     display: PDF
     url: https://www.sciencedirect.com/science/article/pii/S0031320319301943
-  abstract:
-    url: https://www.sciencedirect.com/science/article/pii/S0031320319301943
-    display: Abstract
   number: 160
-  title: 'Three-dimensional Krawtchouk descriptors for protein local surface shape
-    comparison. Pattern Recognition, 93: 534-545 (2019)'
+  title: Three-dimensional Krawtchouk descriptors for protein local surface shape
+    comparison
   year: 2019
-- authors: Ilja Gubins, Gijs van der Shot, Remo C. Veltkamp, Frierich Foerster, Xuefeng
+- PublicationInformation: 12th EG Workshop 3D Object Retrieval 2019, (2019)
+  abstract:
+    display: Abstract
+    url: https://diglib.eg.org/handle/10.2312/3dor20191061
+  authors: Ilja Gubins, Gijs van der Shot, Remo C. Veltkamp, Frierich Foerster, Xuefeng
     Du, Xiangrui Zeng, Zhenxi zhu, Lufan Chang, Min Xu, Emmanuel Moebel, Tuan M. Lai,
     Xusi Han, Genki Terashi, Daisuke Kihara, Benjamin A. Himes, Xiaohua Wan, Jingrong
     Zhang, Shan Gao, Yu Hao, Zhilong Lv, Zhidong, Yang, Zijun Ding, Xuefeng Cui, &
@@ -487,28 +528,25 @@
   link:
     display: PDF
     url: paper/shrec2019_cryoET.pdf
+  number: 159
+  title: 'SHREC''19 Track: Classification in cryo-electron tomograms'
+  year: 2019
+- PublicationInformation: 12th EG Workshop 3D Object Retrieval 2019, (2019)
   abstract:
     display: Abstract
-    url: https://diglib.eg.org/handle/10.2312/3dor20191061
-  number: 159
-  title: 'SHREC''19 Track: Classification in cryo-electron tomograms. 12th EG Workshop
-    3D Object Retrieval 2019, (2019)'
-  year: 2019
-- authors: Florent Langenfeld, Apostolos Axenopoulos, Halim Benhabiles, Petros Daras,
+    url: https://diglib.eg.org/handle/10.2312/3dor20191058
+  authors: Florent Langenfeld, Apostolos Axenopoulos, Halim Benhabiles, Petros Daras,
     Andrea Giachetti, Xusi Han, Karim Hammoudi, Daisuke Kihara, Tuan M. Lai , Mahmoud
     Melkemi, Stelios K. Mylonas, Genki Terashi , Yufan Wang, Feryal Windal, & Matthieu
     Montes
   link:
     display: PDF
     url: paper/shrec2019_proteinshape.pdf
-  abstract:
-    display: Abstract
-    url: https://diglib.eg.org/handle/10.2312/3dor20191058
   number: 158
-  title: SHREC'19 Protein shape retrieval contest. 12th EG Workshop 3D Object Retrieval
-    2019, (2019)
+  title: SHREC'19 Protein shape retrieval contest
   year: 2019
-- abstract:
+- PublicationInformation: PloS Computational Biology, 15(4):e1006969, (2019)
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/30978181
   authors: Xusi Han, Atilla Sit, Charles Christoffer, Siyang Chen, & Daisuke Kihara
@@ -516,22 +554,23 @@
     display: PDF
     url: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006969
   number: 157
-  title: A global map of the protein shape universe. PloS Computational Biology, 15(4):e1006969,
-    (2019)
+  title: A global map of the protein shape universe
   year: 2019
-- abstract:
+- PublicationInformation: 'Int. J. Biological Macromolecules, 132: 1140-1146 (2019)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/30978419
   authors: Melanie L'Enfant, Pricillia Kutudila, Catherine Rayon, Jean-Marc Domon,
-    Woong-Hee Shin, Daisuke Kihara, Anne Wadouachi, Jerome Pelloux, Gwladys Pourceau, & Corinne Pau-Roblot
+    Woong-Hee Shin, Daisuke Kihara, Anne Wadouachi, Jerome Pelloux, Gwladys Pourceau,
+    & Corinne Pau-Roblot
   link:
     display: PDF
     url: paper/pme_ijbm2019.pdf
   number: 156
-  title: 'Lactose derivatives as potential inhibitors of pectin methylesterases. Int.
-    J. Biological Macromolecules, 132: 1140-1146 (2019)'
+  title: Lactose derivatives as potential inhibitors of pectin methylesterases
   year: 2019
-- abstract:
+- PublicationInformation: 'J. Mol. Biol., 431: 1650-1670 (2019)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/30878482
   authors: Mauricio Macossay-Casillo, Giulio Marvelli, Mainak Guharoy, Aashish Jain,
@@ -541,9 +580,10 @@
     url: paper/balancing_idp_jmb2019.pdf
   number: 155
   title: 'The balancing act of intrincically disordered proteins: enabling functional
-    diversity while minimizing promiscuity. J. Mol. Biol., 431: 1650-1670 (2019)'
+    diversity while minimizing promiscuity'
   year: 2019
-- abstract:
+- PublicationInformation: 'Methods in Mol. Biol., 1958: 1-13 (2019)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/30945211
   authors: Woong-Hee Shin & Daisuke Kihara
@@ -551,9 +591,11 @@
     display: PDF
     url: paper/55YearsOfTheRossmannFold.pdf
   number: 154
-  title: '55 years of the Rossmann fold. Methods in Mol. Biol., 1958: 1-13 (2019)'
+  title: 55 years of the Rossmann fold
   year: 2019
-- abstract:
+- PublicationInformation: Intrinsically Disordered Proteins, Nicola Salvi (ed.), pp.
+    189-206, Elsevier, (2019)
+  abstract:
     display: Abstract
     url: http://www.sciencedirect.com/science/article/pii/B9780128163481000065
   authors: Charles W. Christoffer & Daisuke Kihara
@@ -561,11 +603,11 @@
     display: PDF
     url: paper/idplzerd_bookchapter.pdf
   number: 153
-  title: Modeling protein-protein interactions with intrisically disordered proteins.
-    Intrinsically Disordered Proteins, Nicola Salvi (ed.), pp. 189-206, Elsevier,
-    (2019).
+  title: Modeling protein-protein interactions with intrisically disordered proteins
   year: 2019
-- abstract:
+- PublicationInformation: 'Encyclopedia of Bioinformatics and Computational Biology,
+    3: 606-619 (2019)'
+  abstract:
     display: Abstract
     url: http://www.sciencedirect.com/science/article/pii/B9780128096338201489
   authors: Xusi Han, Woong-Hee Shin, Charles W. Christoffer, Genki Terashi, Lyman
@@ -574,10 +616,10 @@
     display: PDF
     url: paper/bioinfoencyc_strvariability2018.pdf
   number: 152
-  title: 'Study of the variability of the native protein structure. Encyclopedia of
-    Bioinformatics and Computational Biology, 3: 606-619 (2019)'
+  title: Study of the variability of the native protein structure
   year: 2019
-- abstract:
+- PublicationInformation: 'Bioinformatics, 35: 1388-1394 (2019)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/30192921
   authors: Ishita K. Khan, Aashish Jain, Reda Rawi, Halima Bensmail, & Daisuke Kihara
@@ -585,13 +627,14 @@
     display: PDF
     url: paper/igfp_bioinfo.pdf
   links:
-  - url: http://kiharalab.org/iGFP/
-    display: iGFP Code
+  - display: iGFP Code
+    url: http://kiharalab.org/iGFP/
   number: 151
-  title: 'Prediction of protein group function by iterative classification on functional
-    relevance network. Bioinformatics, 35: 1388-1394 (2019)'
+  title: Prediction of protein group function by iterative classification on functional
+    relevance network
   year: 2019
-- abstract:
+- PublicationInformation: 'Bioinformatics, 35: 753-759 (2019)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/30165572
   authors: Aashish Jain & Daisuke Kihara
@@ -599,13 +642,14 @@
     display: PDF
     url: paper/phylopfp_bioinfo.pdf
   links:
-  - url: http://kiharalab.org/phylo_pfp.php
-    display: Phylo-PFP Server
+  - display: Phylo-PFP Server
+    url: http://kiharalab.org/phylo_pfp.php
   number: 150
   title: 'Phylo-PFP: Improved automated protein function prediction using phylogenetic
-    distance of distantly related sequences. Bioinformatics, 35: 753-759 (2019)'
+    distance of distantly related sequences'
   year: 2019
-- abstract:
+- PublicationInformation: 'Current Drug Metabolism, 20: 229-235, (2019)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/30338736
   authors: Yi Xiong, Yanhua Qiao, Daisuke Kihara, Hui-Yuan Zhang, Xiaolei Zhu, & Dong-Qing
@@ -614,16 +658,18 @@
     display: PDF
     url: paper/p450-CurDrugMetab-2018.pdf
   number: 149
-  title: 'Survery of machine learning techniques for prediction of the isoform specificity
-    of cytochrome P450 substrates. Current Drug Metabolism, 20: 229-235, (2019)'
+  title: Survery of machine learning techniques for prediction of the isoform specificity
+    of cytochrome P450 substrates
   year: 2019
-- authors: Genki Terashi, & Daisuke Kihara
+- PublicationInformation: 'Jikken Igaku (Experimental Medicine), 36: 2767-2770 (in
+    Japanese) (2018)'
+  authors: Genki Terashi, & Daisuke Kihara
   number: 148
-  title: 'Protein tertiary structure modeling from cryo-EM density maps by tree graph
-    optimization. Jikken Igaku (Experimental Medicine), 36: 2767-2770 (in Japanese)
-    (2018)'
+  title: Protein tertiary structure modeling from cryo-EM density maps by tree graph
+    optimization
   year: 2018
-- abstract:
+- PublicationInformation: Proteomics, 18:e1800083, (2018)
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/30260564
   authors: Aashish Jain, Hareesh Gali, & Daisuke Kihara
@@ -632,9 +678,9 @@
     url: paper/moonlighting_proteomics.pdf
   number: 147
   title: Identification of moonlighting proteins in genomes using text mining techniques
-    Proteomics, 18:e1800083, (2018)
   year: 2018
-- abstract:
+- PublicationInformation: 'J. Proteome Research, 17: 3628-3643 (2018)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/30216071
   authors: Uma K. Aryal*, Ziyun Ding*,Victoria Hedrick, Tiago Jose Paschoal Sobreira,
@@ -643,13 +689,14 @@
     display: PDF
     url: paper/atcc_proteomeres2018.pdf
   links:
-  - url: http://github.com/kiharalab/MASQ_PPI/
-    display: MASQ_PPI Code for detecting PPIs from mass spec data
+  - display: MASQ_PPI Code for detecting PPIs from mass spec data
+    url: http://github.com/kiharalab/MASQ_PPI/
   number: 146
-  title: 'Analysis of protein complexes in the unicellular cyanobacterium Cyanothece
-    ATCC 51142. J. Proteome Research, 17: 3628-3643 (2018)'
+  title: Analysis of protein complexes in the unicellular cyanobacterium Cyanothece
+    ATCC 51142
   year: 2018
-- abstract:
+- PublicationInformation: 'J. Str. Biol., 204: 351-359, (2018)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/30075190
   authors: Genki Terashi & Daisuke Kihara
@@ -657,13 +704,13 @@
     display: PDF
     url: https://www.sciencedirect.com/science/article/pii/S1047847718301710?via%3Dihub
   links:
-  - url: http://kiharalab.org/mainmast/index.html
-    display: MAINMAST
+  - display: MAINMAST
+    url: http://kiharalab.org/mainmast/index.html
   number: 145
-  title: 'De novo main-chain modeling with MAINMAST in 2015/2016 EM Model Challenge.
-    J. Str. Biol., 204: 351-359, (2018)'
+  title: De novo main-chain modeling with MAINMAST in 2015/2016 EM Model Challenge
   year: 2018
-- abstract:
+- PublicationInformation: Current Protocols in Protein Science, e62, (2017)
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/29927082
   authors: Ziyun Ding & Daisuke Kihara
@@ -672,9 +719,10 @@
     url: paper/PPIreview-Ding_Kihara-2018-Curr_Protocols.pdf
   number: 144
   title: Recent computational methods for predicting protein-protein interactions
-    using various protein features. Current Protocols in Protein Science, e62, (2017)
+    using various protein features
   year: 2018
-- abstract:
+- PublicationInformation: 'Nature Communications, 9: 1618 (2018)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/29691408
   authors: Genki Terashi & Daisuke Kihara
@@ -682,13 +730,13 @@
     display: PDF
     url: https://www.nature.com/articles/s41467-018-04053-7
   links:
-  - url: http://kiharalab.org/mainmast/index.html
-    display: MAINMAST
+  - display: MAINMAST
+    url: http://kiharalab.org/mainmast/index.html
   number: 143
-  title: 'De novo main-chain modeling for EM maps using MAINMAST. Nature Communications,
-    9: 1618 (2018)'
+  title: De novo main-chain modeling for EM maps using MAINMAST
   year: 2018
-- abstract:
+- PublicationInformation: PLoS Comput. Biol., 14:e1005937 (2018)
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/29329283
   authors: Lenna X. Peterson, Yoichiro Togawa, Juan Esquivel-Rodriguez, Genki Terashi,
@@ -697,10 +745,10 @@
     display: PDF
     url: http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005937
   number: 142
-  title: Modeling the assembly order of multimeric heteroprotein complexes. PLoS Comput.
-    Biol., 14:e1005937 (2018)
+  title: Modeling the assembly order of multimeric heteroprotein complexes
   year: 2018
-- abstract:
+- PublicationInformation: 'Methods in Mol. Biol., 1807: 113-130, (2018)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/30030807
   authors: Ziyun Ding, Qing Wei, & Daisuke Kihara
@@ -708,10 +756,10 @@
     display: PDF
     url: paper/navigo_MiMB2018.pdf
   number: 141
-  title: 'Computing and visualizing gene function similarity and coherence with NaviGO.
-    Methods in Mol. Biol., 1807: 113-130, (2018)'
+  title: Computing and visualizing gene function similarity and coherence with NaviGO
   year: 2018
-- abstract:
+- PublicationInformation: 'Methods in Mol. Biol., 1762: 105-121, (2018)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/29594770
   authors: Woong-Hee Shin & Daisuke Kihara
@@ -719,10 +767,12 @@
     display: PDF
     url: paper/PL_PatchSurfer2_MiMB2018.pdf
   number: 140
-  title: 'Virtual ligand screening using PL-PatchSurfer2, a molecular surface-based
-    protein-ligand docking method. Methods in Mol. Biol., 1762: 105-121, (2018).'
+  title: Virtual ligand screening using PL-PatchSurfer2, a molecular surface-based
+    protein-ligand docking method
   year: 2018
-- abstract:
+- PublicationInformation: 'Proteins: Structure, Function, and Bioinformatics, 86 (Suppl
+    1): 311-320 (2018)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/28845596
   authors: Lenna X. Peterson, Woong-Hee Shin, Hyungrae Kim, & Daisuke Kihara
@@ -730,11 +780,12 @@
     display: PDF
     url: paper/capri37_LzerD2018.pdf
   number: 139
-  title: 'Improved performance in CAPRI round 37 using LZerD docking and template-based
-    modeling with combined scoring functions. Proteins: Structure, Function, and Bioinformatics,
-    86 (Suppl 1): 311-320 (2018)'
+  title: Improved performance in CAPRI round 37 using LZerD docking and template-based
+    modeling with combined scoring functions
   year: 2018
-- abstract:
+- PublicationInformation: 'Proteins: Structure, Function, and Bioinformatics, 86 (Supppl
+    1): 189-201, (2018)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/28833585
   authors: Genki Terashi & Daisuke Kihara
@@ -742,11 +793,12 @@
     display: PDF
     url: paper/refinement_CASP12_Proteins.pdf
   number: 138
-  title: 'Protein structure model refinement in CASP12 using short and long molecular
-    dynamics simulations in implicit solvent. Proteins: Structure, Function, and Bioinformatics,
-    86 (Supppl 1): 189-201, (2018)'
+  title: Protein structure model refinement in CASP12 using short and long molecular
+    dynamics simulations in implicit solvent
   year: 2018
-- abstract:
+- PublicationInformation: 'IEEE/ACM Transactions on Computational Biology and Bioinformatics,
+    15: 1247-1258 (2018)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/26415209
   authors: Satwica Yerneni, Ishita K Khan, Qing Wei, & Daisuke Kihara
@@ -754,14 +806,14 @@
     display: PDF
     url: paper/ias.pdf
   links:
-  - url: http://kiharalab.org/IAS/
-    display: IAS score
+  - display: IAS score
+    url: http://kiharalab.org/IAS/
   number: 137
   title: 'IAS: Interaction specific GO term associations for predicting protein-protein
-    interaction networks. IEEE/ACM Transactions on Computational Biology and Bioinformatics,
-    15: 1247-1258 (2018)'
+    interaction networks'
   year: 2018
-- abstract:
+- PublicationInformation: 'Scientific Reports, 7: 12038 (2017)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/28931921
   authors: S. Chiba, T. Ishida, K. Ikeda, M. Mochizuki, R. Teramoto, Y.H. Taguchi,
@@ -774,11 +826,11 @@
     display: PDF
     url: https://www.nature.com/articles/s41598-017-10275-4
   number: 136
-  title: 'An interative compound screening contest method for identifying target protein
-    inhibitors using the tyrosine-protein kinase Yes. Scientific Reports, 7: 12038
-    (2017)'
+  title: An interative compound screening contest method for identifying target protein
+    inhibitors using the tyrosine-protein kinase Yes
   year: 2017
-- abstract:
+- PublicationInformation: Current Protocols, 60:3.14.1-3.14.15 (2017)
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/29220075
   authors: Xusi Han, Qing Wei, & Daisuke Kihara
@@ -787,9 +839,10 @@
     url: paper/3DEMSurfer_CurrProtocol2017.pdf
   number: 135
   title: Protein 3D structure and electron microscopy map retrieval using 3D-SURFER2.0
-    and EM_SURFER. Current Protocols, 60:3.14.1-3.14.15 (2017)
+    and EM_SURFER
   year: 2017
-- abstract:
+- PublicationInformation: 'Methods, 131: 22-32 (2017)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/28802714
   authors: Woong-Hee Shin*, Charles Christoffer*, & Daisuke Kihara (*co-first author)
@@ -797,10 +850,11 @@
     display: PDF
     url: paper/comp_ppidrug_methods2017.pdf
   number: 134
-  title: 'In silico structure-based approaches to discover protein-protein interaction
-    targeting drugs. Methods, 131: 22-32 (2017)'
+  title: In silico structure-based approaches to discover protein-protein interaction
+    targeting drugs
   year: 2017
-- abstract:
+- PublicationInformation: 'Bioinformatics, 33: i83-i91 (2017), Presented at ISMB2017'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/28881966
   authors: Ishita K. Khan, Mansurul Bhuiyan, & Daisuke Kihara
@@ -808,13 +862,14 @@
     display: PDF
     url: https://doi.org/10.1093/bioinformatics/btx231
   links:
-  - url: http://kiharalab.org/DextMP/
-    display: DextMP
+  - display: DextMP
+    url: http://kiharalab.org/DextMP/
   number: 133
-  title: 'DextMP: deep dive into text for predicting moonlighting proteins. Bioinformatics,
-    33: i83-i91 (2017), Presented at ISMB2017.'
+  title: 'DextMP: deep dive into text for predicting moonlighting proteins'
   year: 2017
-- abstract:
+- PublicationInformation: Eurographics Workshop on 3D Object Retrieval, I. Pratikakis,
+    F. Dupont, & M. Ovsjanikov (Eds.) (2017)
+  abstract:
     display: Abstract
     url: http://diglib.eg.org/handle/10.2312/3dor20171055
   authors: Na Song, Daniela Craciun, Charles W. Christoffer, Xusi Han, Daisuke Kihara,
@@ -824,21 +879,23 @@
     display: PDF
     url: paper/Shrec2017_proteinshape.pdf
   number: 132
-  title: 'SHREC''17 Track: Protein shape retrieval. Eurographics Workshop on 3D Object
-    Retrieval, I. Pratikakis, F. Dupont, & M. Ovsjanikov (Eds.) (2017)'
+  title: 'SHREC''17 Track: Protein shape retrieval'
   year: 2017
-- abstract:
+- PublicationInformation: 'PLoS Computational Biol., 13: e1005485, (2017)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/28394890
-  authors: Lenna X. Peterson, Amitava Roy, Charles Christoffer, Genki Terashi, & Daisuke Kihara
+  authors: Lenna X. Peterson, Amitava Roy, Charles Christoffer, Genki Terashi, & Daisuke
+    Kihara
   link:
     display: PDF
     url: http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005485
   number: 131
-  title: 'Modeling disordered protein interactions from biophysical principles. PLoS
-    Computational Biol., 13: e1005485, (2017)'
+  title: Modeling disordered protein interactions from biophysical principles
   year: 2017
-- abstract:
+- PublicationInformation: 'Moonlighting Proteins: Novel Virulence Factors in Bacterial
+    Infections, B. Henderson (ed.) Chapter 2, pp. 21-44, Wiley-Blackwell (2017)'
+  abstract:
     display: Abstract
     url: http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118951115.html
   authors: Sayoni Das, Ishita Khan, Daisuke Kihara, & Christine Orengo
@@ -846,11 +903,10 @@
     display: PDF
     url: paper/sayoni_mpbookchapter.pdf
   number: 130
-  title: 'Exploring structure-function relationships in moonlighting proteins. Moonlighting
-    Proteins: Novel Virulence Factors in Bacterial Infections, B. Henderson (ed.)
-    Chapter 2, pp. 21-44, Wiley-Blackwell (2017)'
+  title: Exploring structure-function relationships in moonlighting proteins
   year: 2017
-- abstract:
+- PublicationInformation: 'BMC Bioinformatics, 18: 177 (2017)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/28320317
   authors: Qing Wei, Ishita Khan, Ziyun Ding, Satwica Yerneni, & Daisuke Kihara
@@ -858,13 +914,14 @@
     display: PDF
     url: http://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-017-1600-5
   links:
-  - url: http://kiharalab.org/web/navigo/
-    display: NaviGO Server
+  - display: NaviGO Server
+    url: http://kiharalab.org/web/navigo/
   number: 129
   title: 'NaviGO: Interactive tool for visualization and funtional similarity and
-    coherence analysis with gene ontology. BMC Bioinformatics, 18: 177 (2017)'
+    coherence analysis with gene ontology'
   year: 2017
-- abstract:
+- PublicationInformation: 'Structure, 25: 592-602 (2017)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/28262392
   authors: Lyman Monroe*, Genki Terashi*, & Daisuke Kihara (* co-first authors)
@@ -872,10 +929,10 @@
     display: PDF
     url: http://www.cell.com/structure/fulltext/S0969-2126(17)30035-7
   number: 128
-  title: 'Variability of protein structure models from electron microscopy. Structure,
-    25: 592-602 (2017)'
+  title: Variability of protein structure models from electron microscopy
   year: 2017
-- abstract:
+- PublicationInformation: 'Scientific Reports, 7: 40629 (2017)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/28074879
   authors: Woong-Hee Shin, Xuejiao Kang, Jian Zhang, & Daisuke Kihara
@@ -883,13 +940,14 @@
     display: PDF
     url: http://www.nature.com/articles/srep40629
   links:
-  - url: http://kiharalab.org/gmq
-    display: GMQ program
+  - display: GMQ program
+    url: http://kiharalab.org/gmq
   number: 127
-  title: 'Prediction of local quality of protein structure models considering spatial
-    neighbors in graphical models. Scientific Reports, 7: 40629 (2017)'
+  title: Prediction of local quality of protein structure models considering spatial
+    neighbors in graphical models
   year: 2017
-- abstract:
+- PublicationInformation: 'Methods in Molecular Biology, 1529: 279-289 (2017)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/27914057
   authors: Qing Wei, David La, & Daisuke Kihara
@@ -897,13 +955,14 @@
     display: PDF
     url: paper/bindMLserver_MetMolBiol.pdf
   links:
-  - url: http://kiharalab.org/bindml
-    display: BindML server
+  - display: BindML server
+    url: http://kiharalab.org/bindml
   number: 126
   title: 'BindML/BindML+: Detecting protein-protein interface propensity from amino
-    acid substitution patterns. Methods in Molecular Biology, 1529: 279-289 (2017)'
+    acid substitution patterns'
   year: 2017
-- abstract:
+- PublicationInformation: 'Methods in Mol. Biol., 1484: 175-186 (2017)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/27787827
   authors: Lenna X. Peterson, Michal Jamroz, Andrzej Kolinski, & Daisuke Kihara
@@ -911,13 +970,13 @@
     display: PDF
     url: paper/flexpred_server.pdf
   links:
-  - url: http://kiharalab.org/flexPred/
-    display: FlexPred Server
+  - display: FlexPred Server
+    url: http://kiharalab.org/flexPred/
   number: 125
-  title: 'Predicting real-valued protein residue fluctuation using FlexPred. Methods
-    in Mol. Biol., 1484: 175-186 (2017)'
+  title: Predicting real-valued protein residue fluctuation using FlexPred
   year: 2017
-- abstract:
+- PublicationInformation: 'J. Proteome Res., 16: 470-480. (2017)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/28152599
   authors: Lingfei Zeng*, Woong-Hee Shin*, Xiaolei Zhu, Sung Hoon Park, Chiwook Park,
@@ -926,10 +985,12 @@
     display: PDF
     url: paper/nadbinding_JProteomeR2017.pdf
   number: 124
-  title: 'Dicovery of NAD-binding proteins inthe E.coli proteome using combined energetic-based
-    and structural-bioinformatics-based approach. J. Proteome Res., 16: 470-480. (2017)'
+  title: Dicovery of NAD-binding proteins inthe E.coli proteome using combined energetic-based
+    and structural-bioinformatics-based approach
   year: 2017
-- abstract:
+- PublicationInformation: 'Proteins: Structure Function, and Bioinformatics, 85: 513-527
+    (2017)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/27654025
   authors: Lenna X. Peterson, Hyungrae Kim, Juan Esquivel-Rodriguez, Amitava Roy,
@@ -938,11 +999,11 @@
     display: PDF
     url: paper/capri30_35_proteins.pdf
   number: 123
-  title: 'Human and server docking prediction for CAPRI Round 30-35 using LZerD with
-    combined scoring functions. Proteins: Structure Function, and Bioinformatics,
-    85: 513-527 (2017)'
+  title: Human and server docking prediction for CAPRI Round 30-35 using LZerD with
+    combined scoring functions
   year: 2017
-- abstract:
+- PublicationInformation: Methods in Mol. Biol., 1611:45-47. (2017)
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/28451971
   authors: Ishita K. Khan, Joshua McGraw, & Daisuke Kihara
@@ -950,13 +1011,13 @@
     display: PDF
     url: paper/mpfit_MiMB2017.pdf
   links:
-  - url: http://kiharalab.org/MPprediction/
-    display: MPFit
+  - display: MPFit
+    url: http://kiharalab.org/MPprediction/
   number: 122
-  title: 'MPFit: Computational tool for predicting moonlighting proteins. Methods
-    in Mol. Biol., 1611:45-47. (2017)'
+  title: 'MPFit: Computational tool for predicting moonlighting proteins'
   year: 2017
-- abstract:
+- PublicationInformation: Methods in Mol. Biol., 1611:1-14 (2017)
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/28451967
   authors: Qing Wei, Joshua McGraw, Ishita K. Khan, & Daisuke Kihara
@@ -964,17 +1025,17 @@
     display: PDF
     url: paper/pfpesg_MiMB2017.pdf
   links:
-  - url: http://kiharalab.org/pfp.php
-    display: PL-PatchSurfer2
-  - url: http://kiharalab.org/esg.php
-    display: ESG
-  - url: http://kiharalab.org/web/navigo/
-    display: NaviGO
+  - display: PL-PatchSurfer2
+    url: http://kiharalab.org/pfp.php
+  - display: ESG
+    url: http://kiharalab.org/esg.php
+  - display: NaviGO
+    url: http://kiharalab.org/web/navigo/
   number: 121
-  title: Using PFP and ESG protein function prediction webservers. Methods in Mol.
-    Biol., 1611:1-14 (2017)
+  title: Using PFP and ESG protein function prediction webservers
   year: 2017
-- abstract:
+- PublicationInformation: 'J. Chem. Inf. Model, 56: 1676-1691 (2016)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/27500657
   authors: Woong-Hee Shin, Charles Christoffer, Jibo Wang, & Daisuke Kihara
@@ -982,14 +1043,14 @@
     display: PDF
     url: paper/plpatchsurfer2_jcim.pdf
   links:
-  - url: http://kiharalab.org/plps2/
-    display: PL-PatchSurfer2
+  - display: PL-PatchSurfer2
+    url: http://kiharalab.org/plps2/
   number: 120
   title: 'PL-PatchSurfer2: Improved local surface matching-based virtual screening
-    method that is tolerant to target and ligand structure variation. J. Chem. Inf.
-    Model, 56: 1676-1691 (2016)'
+    method that is tolerant to target and ligand structure variation'
   year: 2016
-- abstract:
+- PublicationInformation: 'Scientific Reports, 6: 31725. (2016)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/27552989
   authors: Meghana Chitale, Ishita K. Khan, & Daisuke Kihara
@@ -997,29 +1058,30 @@
     display: PDF
     url: http://www.nature.com/articles/srep31725
   links:
-  - url: http://kiharalab.org/gomep
-    display: GO-MEP
+  - display: GO-MEP
+    url: http://kiharalab.org/gomep
   number: 119
-  title: 'Missing gene identification using functional coherence scores. Scientific
-    Reports, 6: 31725. (2016)'
+  title: Missing gene identification using functional coherence scores
   year: 2016
-- authors: Abram Magner, Daisuke Kihara, & Wojciech Szpankowski
+- PublicationInformation: 'Proceedings of the IEEE, 105: 286-306 (2016)'
+  authors: Abram Magner, Daisuke Kihara, & Wojciech Szpankowski
   link:
     display: PDF
     url: paper/study_boltzmannchannel.pdf
   number: 118
-  title: 'A study of the Boltzmann sequence-structure channel. Proceedings of the
-    IEEE, 105: 286-306 (2016)'
+  title: A study of the Boltzmann sequence-structure channel
   year: 2016
-- authors: ''
+- PublicationInformation: 2016 IEEE International Symposium on Information Theory
+    (ISIT 2016), 255-259 (2016)
+  authors: ''
   link:
     display: PDF
     url: paper/isit2016_boltzmannchannel.pdf
   number: '---'
-  title: The Boltzmann sequence-structure channel. 2016 IEEE International Symposium
-    on Information Theory (ISIT 2016), 255-259 (2016)
+  title: The Boltzmann sequence-structure channel
   year: 2016
-- abstract:
+- PublicationInformation: 'Genome Biology, 17: 184 (2016)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/27604469
   authors: Yuxiang Jian,,,, Samuel Chapman, Dukka BKC, Ishita K Khan, Daisuke Kihara,,,,
@@ -1028,10 +1090,11 @@
     display: PDF
     url: http://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-1037-6
   number: 117
-  title: 'An expanded evaluation of protein function prediction methods shows an improvement
-    in accuracy. Genome Biology, 17: 184 (2016)'
+  title: An expanded evaluation of protein function prediction methods shows an improvement
+    in accuracy
   year: 2016
-- abstract:
+- PublicationInformation: 'J. Comp. Chem., 37: 1861-1865. (2016)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/27232548
   authors: Laura Kingsley, Juan Esquivel-Rodriguez, Ying Yang, Daisuke Kihara, Markus
@@ -1040,10 +1103,12 @@
     display: PDF
     url: paper/Kingsley_et_al-2016-JCompChem.pdf
   number: 116
-  title: 'Ranking protein-protein docking results using steered molecular dynamics
-    and potential of mean force calculations. J. Comp. Chem., 37: 1861-1865. (2016)'
+  title: Ranking protein-protein docking results using steered molecular dynamics
+    and potential of mean force calculations
   year: 2016
-- abstract:
+- PublicationInformation: 'Bioinformatics, 32: i314-i321 (2016) Presented at ISMB
+    2016'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/27307633
   authors: Michal Jamroz, Andrzej Kolinski, & Daisuke Kihara
@@ -1051,13 +1116,13 @@
     display: PDF
     url: paper/flexscore.pdf
   links:
-  - url: https://bitbucket.org/mjamroz/flexscore
-    display: FlexScore
+  - display: FlexScore
+    url: https://bitbucket.org/mjamroz/flexscore
   number: 115
-  title: 'Ensemble-based evaluation for protein structure models. Bioinformatics,
-    32: i314-i321 (2016) Presented at ISMB 2016'
+  title: Ensemble-based evaluation for protein structure models
   year: 2016
-- abstract:
+- PublicationInformation: 'Bioinformatics, 32: 2281-2288. (2016)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/27153604
   authors: Ishita K. Khan & Daisuke Kihara
@@ -1065,13 +1130,14 @@
     display: PDF
     url: paper/moonlighting_bioinfo2016.pdf
   links:
-  - url: http://kiharalab.org/MPprediction/
-    display: MPFit
+  - display: MPFit
+    url: http://kiharalab.org/MPprediction/
   number: 114
-  title: 'Genome-scale prediction of moonlighting proteins using diverse protein association
-    information. Bioinformatics, 32: 2281-2288. (2016)'
+  title: Genome-scale prediction of moonlighting proteins using diverse protein association
+    information
   year: 2016
-- abstract:
+- PublicationInformation: 'Biochemistry, 55: 1711-1723. (2016)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/26919584
   authors: Nathan Gardner, Lyman Monroe, Daisuke Kihara, & Chiwook Park
@@ -1079,10 +1145,12 @@
     display: PDF
     url: paper/dPGM_Biochem2016.pdf
   number: 113
-  title: 'Energetic coupling between ligand binding and dimerization in E. coli phosphoglycerate
-    mutase. Biochemistry, 55: 1711-1723. (2016)'
+  title: Energetic coupling between ligand binding and dimerization in E. coli phosphoglycerate
+    mutase
   year: 2016
-- abstract:
+- PublicationInformation: 'Proteins: Structure, Function, and Bioinformatics, 84 Suppl
+    1: 323-348 (2016)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/27122118
   authors: MF Lensink, S Velankar, A Kryshtafovych, S-Y Huang, D Schneidman-Duhovny,
@@ -1104,10 +1172,10 @@
     url: paper/CAPRI-CASP2016_Proteins.pdf
   number: 112
   title: 'Prediction of homoprotein and heteroprotein complexes by protein docking
-    and template-based modeling: a CASP-CAPRI experiment Proteins: Structure, Function,
-    and Bioinformatics, 84 Suppl 1: 323-348 (2016)'
+    and template-based modeling: a CASP-CAPRI experiment'
   year: 2016
-- abstract:
+- PublicationInformation: 'Methods, 93: 1-2, (2016)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/26778120
   authors: Daisuke Kihara
@@ -1115,9 +1183,10 @@
     display: PDF
     url: paper/functionpred_Methodseditorial.pdf
   number: '---'
-  title: 'Computational protein function predictions. Methods, 93: 1-2, (2016)'
+  title: Computational protein function predictions
   year: 2016
-- abstract:
+- PublicationInformation: 'Methods, 93: 41-50, (2016)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/26427548
   authors: Woong-Hee Shin, Mark G. Bures, & Daisuke Kihara
@@ -1126,9 +1195,10 @@
     url: paper/patchsurfers_methods.pdf
   number: 111
   title: 'PatchSurfers: Two methods for local molecular property-based binding ligand
-    prediction. Methods, 93: 41-50, (2016)'
+    prediction'
   year: 2016
-- abstract:
+- PublicationInformation: 'J. Chem. Info. Model., 56: 1088-1099 (2015)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/26691286
   authors: Xiaolei Zhu, Woong-Hee Shin, Hyungrae Kim, & Daisuke Kihara
@@ -1136,11 +1206,12 @@
     display: PDF
     url: paper/csar2014.pdf
   number: 110
-  title: 'Combined approach of Patch-Surfer and PL-PatchSurfer for protein-ligand
-    binding prediction in CSAR 2013 and 2014. J. Chem. Info. Model., 56: 1088-1099
-    (2015)'
+  title: Combined approach of Patch-Surfer and PL-PatchSurfer for protein-ligand binding
+    prediction in CSAR 2013 and 2014
   year: 2016
-- abstract:
+- PublicationInformation: 'Proteins: Structure, Function, and Bioinformatics, 84 Suppl
+    1: 105-117(2016)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/26344195
   authors: Hyung-Rae Kim, & Daisuke Kihara
@@ -1148,10 +1219,11 @@
     display: PDF
     url: paper/KimKihara_casp11.pdf
   number: 109
-  title: 'Protein structure prediction using residue- and fragment-environment potentials
-    in CASP11. Proteins: Structure, Function, and Bioinformatics, 84 Suppl 1: 105-117(2016)'
+  title: Protein structure prediction using residue- and fragment-environment potentials
+    in CASP11
   year: 2016
-- abstract:
+- PublicationInformation: 'GigaScience, 4: 43 (2015)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/26380077
   authors: Ishita K Khan*, Qing Wei*, Samuel Chapman, Dukka BKC, & Daisuke Kihara
@@ -1161,9 +1233,10 @@
     url: http://www.academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0083-4
   number: 108
   title: 'The PFP and ESG protein function prediction methods in 2014: Effect of database
-    updates and ensemble approaches. GigaScience, 4: 43 (2015)'
+    updates and ensemble approaches'
   year: 2015
-- abstract:
+- PublicationInformation: 'J. Biol. Chem, 290: 23320-23335 (2015)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/26183897
   authors: Fabien Senechal, Melanie L'Enfant, Jean-Marc Domon, Emeline Rosiau, Marie-Jeanne
@@ -1176,10 +1249,10 @@
     url: paper/pme_JBC2015.pdf
   number: 107
   title: 'Tuning of pectine methylesterification: PECTIN METHYLESTERASE INHIBITOR
-    7 modulates the processive activity of co-expressed PME3 in a pH-dependent manner.
-    J. Biol. Chem, 290: 23320-23335 (2015)'
+    7 modulates the processive activity of co-expressed PME3 in a pH-dependent manner'
   year: 2015
-- abstract:
+- PublicationInformation: 'Molecules, 20: 12841-12862 (2015)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/26193243
   authors: Woong-Hee Shin, Xiaolei Zhu, Mark Gregory Bures, & Daisuke Kihara
@@ -1187,24 +1260,26 @@
     display: PDF
     url: http://www.mdpi.com/1420-3049/20/7/12841
   number: 106
-  title: 'Three-dimensional compound comparison methods and their application in drug
-    discovery. Molecules, 20: 12841-12862 (2015)'
+  title: Three-dimensional compound comparison methods and their application in drug
+    discovery
   year: 2015
-- abstract:
+- PublicationInformation: BMC Bioinformatics, 16:181 (2015)
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/26025554
-  authors: Juan Esquivel-Rodriguez, Yi Xiong, Xusi Han, Shuomeng Gang, Charles Christoffer, & Daisuke Kihara
+  authors: Juan Esquivel-Rodriguez, Yi Xiong, Xusi Han, Shuomeng Gang, Charles Christoffer,
+    & Daisuke Kihara
   link:
     display: PDF
     url: http://www.biomedcentral.com/1471-2105/16/181
   links:
-  - url: http://kiharalab.org/em-surfer/
-    display: EM-SURFER server
+  - display: EM-SURFER server
+    url: http://kiharalab.org/em-surfer/
   number: 105
-  title: Navigating 3D Electron Microscopy Maps with EM-SURFER. BMC Bioinformatics,
-    16:181 (2015).
+  title: Navigating 3D Electron Microscopy Maps with EM-SURFER
   year: 2015
-- abstract:
+- PublicationInformation: 'Scientific Reports 5: 8166 (2015)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/25703447
   authors: Abram Magner, Wojciech Szpankowski, & Daisuke Kihara
@@ -1212,10 +1287,10 @@
     display: PDF
     url: http://www.nature.com/srep/2015/150223/srep08166/full/srep08166.html
   number: 104
-  title: 'On the origin of protein superfamilies and superfolds. Scientific Reports
-    5: 8166 (2015)'
+  title: On the origin of protein superfamilies and superfolds
   year: 2015
-- abstract:
+- PublicationInformation: 'Science 347: 71-74 (2015)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/25554786
   authors: Yue Liu, Ju Sheng, Andrei Fokine, Geng, Meng, Woong-Hee Shin, Feng, Long,
@@ -1224,10 +1299,11 @@
     display: PDF
     url: paper/Science-2015-Liu-71-4.pdf
   number: 103
-  title: 'Structure and inhibition of EV-D68, a virus that causes respiratory illness
-    in children. Science 347: 71-74 (2015)'
+  title: Structure and inhibition of EV-D68, a virus that causes respiratory illness
+    in children
   year: 2015
-- abstract:
+- PublicationInformation: 'Bioinformatics 31: 707-713 (2015)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/25359888
   authors: Xiaolei Zhu, Yi Xiong, & Daisuke Kihara
@@ -1235,13 +1311,13 @@
     display: PDF
     url: paper/patchsurfer2.0_bioinfo.pdf
   links:
-  - url: http://kiharalab.org/patchsurfer2.0/
-    display: Parch-Surfer2.0 server
+  - display: Parch-Surfer2.0 server
+    url: http://kiharalab.org/patchsurfer2.0/
   number: 102
-  title: 'Large-scale binding ligand prediction by improved patch-based method Patch-Surfer2.0.
-    Bioinformatics 31: 707-713 (2015)'
+  title: Large-scale binding ligand prediction by improved patch-based method Patch-Surfer2.0
   year: 2015
-- abstract:
+- PublicationInformation: 'Bioinformatics 31: 271-272 (2015)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/25273111
   authors: Ishita K. Khan*, Qing Wei*, & Daisuke Kihara (* equal contribution)
@@ -1249,16 +1325,16 @@
     display: PDF
     url: paper/pfpesg_server.pdf
   links:
-  - url: http://kiharalab.org/pfp.php
-    display: PFP server
-  - url: http://kiharalab.org/esg.php
-    display: ESG server
-
+  - display: PFP server
+    url: http://kiharalab.org/pfp.php
+  - display: ESG server
+    url: http://kiharalab.org/esg.php
   number: 101
   title: 'PFP/ESG: automated protein function prediction servers enhanced with Gene
-    Ontology visualizatoin tool. Bioinformatics 31: 271-272 (2015)'
+    Ontology visualizatoin tool'
   year: 2015
-- abstract:
+- PublicationInformation: 'Nuc. Acid Research, 43: D606-D617 (2015)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/25399415
   authors: Yuka Otsuka, Ai Muto, Rikiya Takeuchi, Chihiro Okada, Motokazu Ishikawa,
@@ -1270,13 +1346,13 @@
     display: PDF
     url: http://nar.oxfordjournals.org/content/43/D1/D606.long
   links:
-  - url: http://ecoli.naist.jp/GB/
-    display: GenoBase
+  - display: GenoBase
+    url: http://ecoli.naist.jp/GB/
   number: 100
-  title: 'GenoBase: comprehensive resource database of Escherichia coli K-12. Nuc.
-    Acid Research, 43: D606-D617 (2015)'
+  title: 'GenoBase: comprehensive resource database of Escherichia coli K-12'
   year: 2015
-- abstract:
+- PublicationInformation: 'Biology Direct. 9: 30 (2014)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/25497125
   authors: Ishita K. Khan, Yuqian Chen, Tiange Dong, Xioawei Hong, Rikiya Takeuchi,
@@ -1285,10 +1361,10 @@
     display: PDF
     url: http://www.biologydirect.com/content/9/1/30
   number: 99
-  title: 'Genome-scale identification and characterization of moonlighting proteins.
-    Biology Direct. 9: 30 (2014)'
+  title: Genome-scale identification and characterization of moonlighting proteins
   year: 2014
-- abstract:
+- PublicationInformation: 'Biochem. Soc. Trans. 42: 1780-1785 (2014)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/25399606
   authors: Ishita K. Khan & Daisuke Kihara
@@ -1296,10 +1372,10 @@
     display: PDF
     url: paper/compmoonlighting_review2014.pdf
   number: 98
-  title: 'Computational characterization of moonlighting proteins. Biochem. Soc. Trans.
-    42: 1780-1785 (2014)'
+  title: Computational characterization of moonlighting proteins
   year: 2014
-- abstract:
+- PublicationInformation: 'Plant Cell, 26: 3867-3882 (2014)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/25293756
   authors: Hall, & Daniel B. Szymanski
@@ -1307,10 +1383,10 @@
     display: PDF
     url: http://www.plantcell.org/content/26/10/3867.long
   number: 97
-  title: 'A proteomic strategy for global analysis of plant protein complexes. Plant
-    Cell, 26: 3867-3882 (2014)'
+  title: A proteomic strategy for global analysis of plant protein complexes
   year: 2014
-- abstract:
+- PublicationInformation: 'Int. J. Molecular Science, 15: 15122-15145 (2014)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/25167137
   authors: Bingjie Hu, Xiaolei Zhu, Lyman Monroe, Mark G. Bures, & Daisuke Kihara
@@ -1319,9 +1395,11 @@
     url: http://www.mdpi.com/1422-0067/15/9/15122
   number: 96
   title: 'PL-PatchSurfer: A novel molecular local surface-based method for exploring
-    protein-ligand interactions. Int. J. Molecular Science, 15: 15122-15145 (2014)'
+    protein-ligand interactions'
   year: 2014
-- abstract:
+- PublicationInformation: 'Proteins: Structure, Function, and Bioinformatics, 82:
+    3255-3272 (2014)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/25132526
   authors: Hyung-Rae Kim & Daisuke Kihara
@@ -1329,24 +1407,25 @@
     display: PDF
     url: paper/prescoscore-Proteins2014.pdf
   number: 95
-  title: 'Detecting local residue environment similarity for recognizing near-native
-    structure models. Proteins: Structure, Function, and Bioinformatics, 82: 3255-3272
-    (2014)'
+  title: Detecting local residue environment similarity for recognizing near-native
+    structure models
   year: 2014
-- abstract:
+- PublicationInformation: 'Plant Cell, 26: 2996-3009 (2014)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/25012190
-  authors: Anna T. Olek, Catherine Rayon, Lee Makowski, Hyung Rae Kim, Peter
-          Ciesielski, John Badger, Lake N. Paul, Subhangi Ghosh, Daisuke Kihara,
-          Michael Crowley, Michael E. Himmel, Jeffrey T. Bolin, & Nicholas C.
-          Carpita
+  authors: Anna T. Olek, Catherine Rayon, Lee Makowski, Hyung Rae Kim, Peter Ciesielski,
+    John Badger, Lake N. Paul, Subhangi Ghosh, Daisuke Kihara, Michael Crowley, Michael
+    E. Himmel, Jeffrey T. Bolin, & Nicholas C. Carpita
   link:
     display: PDF
     url: http://www.plantcell.org/content/26/7/2996.long
   number: 94
-  title: 'The structure of the catalytic domain of a plant cellulose synthase and assembly into dimers. Plant Cell, 26: 2996-3009 (2014)'
+  title: The structure of the catalytic domain of a plant cellulose synthase and assembly
+    into dimers
   year: 2014
-- abstract:
+- PublicationInformation: 'IEEE Transactions on Image Processing, 23: 2369-2379 (2014)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/24718574
   authors: Atilla Sit & Daisuke Kihara
@@ -1354,10 +1433,11 @@
     display: PDF
     url: paper/localKrawtchouk_IEEETransImageProc.pdf
   number: 93
-  title: 'Comparison of Image Patches Using Local Moment Invariants. IEEE Transactions
-    on Image Processing, 23: 2369-2379 (2014)'
+  title: Comparison of Image Patches Using Local Moment Invariants
   year: 2014
-- abstract:
+- PublicationInformation: 'Proteins: Structure, Function, and Bioinformatics, 82:
+    1971-1984 (2014)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/24619909
   authors: Assessment of protein side-chain conformation prediction accuracy
@@ -1365,9 +1445,11 @@
     display: PDF
     url: paper/sidechain-Peterson-Proteins2014.pdf
   number: 92
-  title: 'Assessment of protein side-chain conformation prediction accuracy in different residue environments. Proteins: Structure, Function, and Bioinformatics,  82: 1971-1984 (2014)'
+  title: Assessment of protein side-chain conformation prediction accuracy in different
+    residue environments
   year: 2014
-- abstract:
+- PublicationInformation: 'Bioinformatics, 30: 148-149 (2014)'
+  abstract:
     display: Abstract
     url: http://bioinformatics.oxfordjournals.org/content/30/1/148.extract
   authors: Jim Cavalcoli, Lonnie Welch, Bruce Aronow, Sorin Draghici, & Daisuke Kihara
@@ -1376,10 +1458,10 @@
     url: paper/GLBIO2014_bioinformatics.pdf
   number: '---'
   title: 'The International Society of Computational Biology presents: the Great Lakes
-    Bioinformatics Conference, May 16-18, 2014, Cincinnati, Ohio. Bioinformatics,
-    30: 148-149 (2014)'
+    Bioinformatics Conference, May 16-18, 2014, Cincinnati, Ohio'
   year: 2014
-- abstract:
+- PublicationInformation: 'Genetic Epidemiology, 38: 60-71 (2014)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/24272960
   authors: Sungho Won, Min-Seok Kwon, Manuel Mattheisen, Suyeon Park, Changsoon Park,
@@ -1389,10 +1471,11 @@
     display: PDF
     url: paper/genexgene_swonetal.pdf
   number: 91
-  title: 'Efficient strategy for detecting gene x gene joint action and its application
-    in schizophrenia. Genetic Epidemiology, 38: 60-71 (2014)'
+  title: Efficient strategy for detecting gene x gene joint action and its application
+    in schizophrenia
   year: 2014
-- abstract:
+- PublicationInformation: 'Methods in Molecular Biology, 1137: 209-234 (2014)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/24573484
   authors: Juan Esquivel-Rodriguez, Vianney Filos-Gonzalez, Bin Li, & Daisuke Kihara
@@ -1400,10 +1483,10 @@
     display: PDF
     url: paper/lzerd_springer.pdf
   number: 90
-  title: 'Pairwise and multimeric protein-protein docking using the LZerD program
-    suite. Methods in Molecular Biology, 1137: 209-234 (2014)'
+  title: Pairwise and multimeric protein-protein docking using the LZerD program suite
   year: 2014
-- abstract:
+- PublicationInformation: 'Methods in Molecular Biology, 1137: 105-117 (2014)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/24573477
   authors: Yi Xiong, Juan Esquivel-Rodriguez, Lee Sael, & Daisuke Kihara
@@ -1411,10 +1494,13 @@
     display: PDF
     url: paper/3d-surfer2.0_springer.pdf
   number: 89
-  title: '3D-SURFER 2.0. Web platform for real-time search and characterization of
-    protein surfaces. Methods in Molecular Biology, 1137: 105-117 (2014)'
+  title: 3D-SURFER 2.0. Web platform for real-time search and characterization of
+    protein surfaces.
   year: 2014
-- abstract:
+- PublicationInformation: Biological Data Mining and Its Applications in Healthcare,
+    X.-L. Li, S.-K. Ng, & J.T.L. Wang (eds), Chapter 9, pp.237-261, World Scientific,
+    New Jersey, USA (2014)
+  abstract:
     display: Abstract
     url: http://www.worldscientific.com/doi/abs/10.1142/9789814551014_0009
   authors: Yi Xiong, Dan Syzmanski, & Daisuke Kihara
@@ -1422,11 +1508,10 @@
     display: PDF
     url: paper/chap9_humanPPI.pdf
   number: 88
-  title: Characterization and prediction of human protein-protein interactions. Biological
-    Data Mining and Its Applications in Healthcare, X.-L. Li, S.-K. Ng, & J.T.L. Wang
-    (eds), Chapter 9, pp.237-261, World Scientific, New Jersey, USA (2014)
+  title: Characterization and prediction of human protein-protein interactions
   year: 2014
-- abstract:
+- PublicationInformation: 'J. Mol. Biology, 426: 1019-1038(2013)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/24126213
   authors: Victor Padilla-Sanchez, Song Gao, Hyung Rae Kim, Daisuke Kihara, Lei Sun,
@@ -1435,10 +1520,11 @@
     display: PDF
     url: paper/phageT4_kimkihara_rossmannrao2013.pdf
   number: 87
-  title: 'Structure-Function Analysis of the DNA Translocating Portal of the Bacteriophage
-    T4 Packaging Machine. J. Mol. Biology, 426: 1019-1038(2013)'
+  title: Structure-Function Analysis of the DNA Translocating Portal of the Bacteriophage
+    T4 Packaging Machine
   year: 2013
-- abstract:
+- PublicationInformation: 'J. Structural Biology, 184: 93-102 (2013)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/23796504
   authors: Juan Esquivel-Rodriguez & Daisuke Kihara
@@ -1446,10 +1532,11 @@
     display: PDF
     url: paper/EMstrconstruction_JStrB.pdf
   number: 86
-  title: 'Computational methods for constructing protein structure models from 3D
-    electron microscopy maps. J. Structural Biology, 184: 93-102 (2013)'
+  title: Computational methods for constructing protein structure models from 3D electron
+    microscopy maps
   year: 2013
-- abstract:
+- PublicationInformation: 'Proteins, 81: 1980-1987 (2013)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/23843247
   authors: Moretti R, Fleishman SJ, Agius R, Torchala M, Bates PA, Kastritis PL, Rodrigues
@@ -1466,10 +1553,12 @@
     display: PDF
     url: paper/moretti_communityPPI_2013.pdf
   number: 85
-  title: 'Community-wide evaluation of methods for predicting the effect of mutations
-    on protein-protein interactions, Proteins, 81: 1980-1987 (2013)'
+  title: Community-wide evaluation of methods for predicting the effect of mutations
+    on protein-protein interactions
   year: 2013
-- abstract:
+- PublicationInformation: In silico Drug Discovery and Design Techniques. M. Lill
+    (eds), Future Science, London, UK, Chapter 16, pp. 204-220 (2013)
+  abstract:
     display: Abstract
     url: http://www.futuremedicine.com/doi/abs/10.4155/ebo.13.165
   authors: Yi Xiong*, Xiaolei Zhu*, & Daisuke Kihara (* equal contribution)
@@ -1477,10 +1566,10 @@
     display: PDF
     url: paper/bindingsite_identification.pdf
   number: 84
-  title: Ligand binding site identification. In silico Drug Discovery and Design Techniques.
-    M. Lill (eds), Future Science, London, UK, Chapter 16, pp. 204-220 (2013)
+  title: Ligand binding site identification
   year: 2013
-- abstract:
+- PublicationInformation: 'Nature Methods, 10: 221-227(2013)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/23353650
   authors: Radivojac P, Clark WT, Oron TR, Schnoes AM, Wittkop T, Sokolov A, Graim
@@ -1501,10 +1590,10 @@
     display: PDF
     url: paper/cafa_natmethods2013.pdf
   number: 83
-  title: 'A large-scale evaluation of computational protein function prediction. Nature
-    Methods, 10: 221-227(2013)'
+  title: A large-scale evaluation of computational protein function prediction
   year: 2013
-- abstract:
+- PublicationInformation: 'BMC Bioinformatics, 14 Suppl 3: S2 (2013)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/23514353
   authors: Meghana Chitale*, Ishita K. Khan*, & Daisuke Kihara (* equal contribution)
@@ -1512,10 +1601,12 @@
     display: PDF
     url: http://www.biomedcentral.com/1471-2105/14/S3/S2
   number: 82
-  title: 'In-depth performance evaluation of PFP and ESG sequence-based function prediction
-    methods in CAFA 2011 experiment. BMC Bioinformatics, 14 Suppl 3: S2 (2013)'
+  title: In-depth performance evaluation of PFP and ESG sequence-based function prediction
+    methods in CAFA 2011 experiment
   year: 2013
-- abstract:
+- PublicationInformation: 'Proteins: Structure, Function, and Bioinformatics, 81:
+    805-818 (2013)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/23239312
   authors: David La, Misun Kong, William Hoffman, YounIm Choi & Daisuke Kihara
@@ -1523,13 +1614,14 @@
     display: PDF
     url: paper/bindMLplus.pdf
   links:
-  - url: http://kiharalab.org/bindml/plus/
-    display: BindML+ server
+  - display: BindML+ server
+    url: http://kiharalab.org/bindml/plus/
   number: 81
-  title: 'Predicting permanent and transient protein-protein interfaces. Proteins:
-    Structure, Function, and Bioinformatics, 81: 805-818 (2013)'
+  title: Predicting permanent and transient protein-protein interfaces
   year: 2013
-- abstract:
+- PublicationInformation: Handbook of Biological Knowledge Discovery, Mourad Elloumi
+    & Albert Y. Zomaya(eds.), Chapter 9, pp.191-222, Wiley (2013)
+  abstract:
     display: Abstract
     url: http://onlinelibrary.wiley.com/doi/10.1002/9781118617151.ch09/summary
   authors: Mingjie Tang*, Kean Ming Tan*, Xin Lu Tan, Lee Sael, Meghana Chitale, Juan
@@ -1538,11 +1630,10 @@
     display: PDF
     url: paper/ch9_graphmodel_prediction.pdf
   number: 80
-  title: Graphical models for protein function and structure predictions., Handbook
-    of Biological Knowledge Discovery, Mourad Elloumi & Albert Y. Zomaya(eds.), Chapter
-    9, pp.191-222, Wiley (2013)
+  title: Graphical models for protein function and structure predictions
   year: 2013
-- abstract:
+- PublicationInformation: 'BMC Bioinformatics, 13: 292 (2012)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/23140471
   authors: Chao Yuan, Hao Chen, & Daisuke Kihara
@@ -1550,10 +1641,10 @@
     display: PDF
     url: http://www.biomedcentral.com/1471-2105/13/292
   number: 79
-  title: 'Effective inter-residue contact definitions for accurate protein fold recognition.
-    BMC Bioinformatics, 13: 292 (2012)'
+  title: Effective inter-residue contact definitions for accurate protein fold recognition
   year: 2012
-- abstract:
+- PublicationInformation: 'BMC Proceedings, 6 Suppl 7: S4 (2012)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/23173833
   authors: Juan Esquivel-Rodriguez, & Daisuke Kihara
@@ -1561,10 +1652,11 @@
     display: PDF
     url: http://www.biomedcentral.com/1753-6561/6/S7/S4
   number: 78
-  title: 'Effect of conformation sampling strategies in genetic algorithm for multiple
-    protein docking. BMC Proceedings, 6 Suppl 7: S4 (2012)'
+  title: Effect of conformation sampling strategies in genetic algorithm for multiple
+    protein docking
   year: 2012
-- abstract:
+- PublicationInformation: 'BMC Proceedings, 6 Suppl 7: S5 (2012)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/22962465
   authors: Ishita Khan, Meghana Chitale, Catherine Rayon, & Daisuke Kihara
@@ -1572,32 +1664,35 @@
     display: PDF
     url: http://www.biomedcentral.com/1753-6561/6/S7/S5
   number: 77
-  title: 'Evaluation of function predictions by PFP, ESG,and PSI-BLAST for moonlighting
-    proteins. BMC Proceedings, 6 Suppl 7: S5 (2012)'
+  title: Evaluation of function predictions by PFP, ESG,and PSI-BLAST for moonlighting
+    proteins
   year: 2012
-- abstract:
+- PublicationInformation: 'Bioinformatics, 28: i440-i450 (2012)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/22962465
-  authors: Mario Abdel Messih, Meghana Chitale, Vladimir B. Bajic, Daisuke Kihara*, & Xin Gao* (* co-corresponding authors)
+  authors: Mario Abdel Messih, Meghana Chitale, Vladimir B. Bajic, Daisuke Kihara*,
+    & Xin Gao* (* co-corresponding authors)
   link:
     display: PDF
     url: http://bioinformatics.oxfordjournals.org/content/28/18/i444
   number: 76
-  title: 'Protein domain recurrence and order can enhance prediction of protein functions.
-    Bioinformatics, 28: i440-i450 (2012)'
+  title: Protein domain recurrence and order can enhance prediction of protein functions
   year: 2012
-- abstract:
+- PublicationInformation: 'Proteins: Structure, Function, and Bioinformatics, 80:
+    1818-1833 (2012)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/22488467
-  authors: 'Juan Esquivel-Rodriguez, Yifeng D. Yang, & Daisuke Kihara '
+  authors: Juan Esquivel-Rodriguez, Yifeng D. Yang, & Daisuke Kihara
   link:
     display: PDF
     url: paper/multi_LZerD.pdf
   number: 75
-  title: 'Multi-LZerD: Multiple protein docking for asymmetric complexes. Proteins:
-    Structure, Function, and Bioinformatics, 80: 1818-1833 (2012)'
+  title: 'Multi-LZerD: Multiple protein docking for asymmetric complexes'
   year: 2012
-- abstract:
+- PublicationInformation: 'J Phys Chem B, 116: 6854-6861 (2012)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/22417139
   authors: Juan Esquivel-Rodriguez & Daisuke Kihara
@@ -1605,10 +1700,11 @@
     display: PDF
     url: paper/emlzerd.pdf
   number: 74
-  title: 'Fitting multimeric protein complexes into electron microscopy maps using
-    3D Zernike descriptors. J Phys Chem B, 116: 6854-6861 (2012)'
+  title: Fitting multimeric protein complexes into electron microscopy maps using
+    3D Zernike descriptors
   year: 2012
-- abstract:
+- PublicationInformation: 'Protein Science, 21: 686-696(2012)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/22374910
   authors: Elwood A. Mullins,Courtney M. Starks, Julie A. Francois, Lee Sael, Daisuke
@@ -1617,25 +1713,27 @@
     display: PDF
     url: paper/formylcoA.pdf
   number: 73
-  title: 'Formyl-coenzyme A (CoA):oxalate CoA-transferase from the acidophile Acetobacter
-    aceti has a distinctive electrostatic surface and inherent acid stability. Protein
-    Science, 21: 686-696(2012)'
+  title: Formyl-coenzyme A (CoA):oxalate CoA-transferase from the acidophile Acetobacter
+    aceti has a distinctive electrostatic surface and inherent acid stability
   year: 2012
-- abstract:
+- PublicationInformation: 'Proteins: Structure, Function, and Bioinformatics, 80:
+    1425-1435 (2012)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/22328193
-  authors: 'Michal Jamroz, Andrzej Kolinski, & Daisuke Kihara '
+  authors: Michal Jamroz, Andrzej Kolinski, & Daisuke Kihara
   link:
     display: PDF
     url: paper/flexpred.pdf
   links:
-  - url: http://kiharalab.org/flexPred/
-    display: flexPred server
+  - display: flexPred server
+    url: http://kiharalab.org/flexPred/
   number: 72
-  title: 'Structural features that predict real-value fluctuations of globular proteins.
-    Proteins: Structure, Function, and Bioinformatics, 80: 1425-1435 (2012)'
+  title: Structural features that predict real-value fluctuations of globular proteins
   year: 2012
-- abstract:
+- PublicationInformation: 'Journal of Structural and Functional Genomics, 13: 111-123
+    (2012)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/22270458
   authors: Lee Sael*, Meghana Chitale*, & Daisuke Kihara (* equal contribution)
@@ -1643,10 +1741,10 @@
     display: PDF
     url: paper/strseq_function_JSFG2012.pdf
   number: 71
-  title: 'Structure- and sequence-based function prediction for non-homologous proteins.
-    Journal of Structural and Functional Genomics, 13: 111-123 (2012)'
+  title: Structure- and sequence-based function prediction for non-homologous proteins
   year: 2012
-- abstract:
+- PublicationInformation: BMC Bioinformatics, 13:7 (2012)
+  abstract:
     display: Abstract
     url: http://www.biomedcentral.com/1471-2105/13/7/abstract
   authors: Bin Li & Daisuke Kihara
@@ -1654,12 +1752,13 @@
     display: PDF
     url: http://www.biomedcentral.com/1471-2105/13/7/
   links:
-  - url: http://kiharalab.org/PI-LZerD/
-    display: PI-LZerD software
+  - display: PI-LZerD software
+    url: http://kiharalab.org/PI-LZerD/
   number: 70
-  title: Protein Docking Prediction Using Predicted Protein-Protein Interface. BMC Bioinformatics, 13:7 (2012).
+  title: Protein Docking Prediction Using Predicted Protein-Protein Interface
   year: 2012
-- abstract:
+- PublicationInformation: 'Proteins: Str Funct. Bioinformatics, 80: 1177-1195 (2012)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/22275074
   authors: Lee Sael & Daisuke Kihara
@@ -1667,9 +1766,12 @@
     display: PDF
     url: paper/PatchSurfer_Proteins.pdf
   number: 69
-  title: 'Detecting Local Ligand-Binding Site Similarity in Non-Homologous Proteins by Surface Patch Comparison, Proteins: Str. Funct. Bioinformatics, 80: 1177-1195 (2012)'
+  title: Detecting Local Ligand-Binding Site Similarity in Non-Homologous Proteins
+    by Surface Patch Comparison
   year: 2012
-- abstract:
+- PublicationInformation: BMC Bioinformatics, 13:S6 (2012) (Best paper award at GLBIO
+    2011, ISMB)
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/22536869
   authors: Evaluation of multiple protein docking structures using correctly predicted
@@ -1678,20 +1780,24 @@
     display: PDF
     url: http://www.biomedcentral.com/1471-2105/13/S2/S6
   number: 68
-  title: ', BMC Bioinformatics, 13:S6 (2012) (Best paper award at GLBIO 2011, ISMB)'
+  title: Evaluation of multiple protein docking structures using correctly predicted
+    pairwise subunits
   year: 2012
-- abstract:
+- PublicationInformation: BMC Bioinformatics, 13:S7(2012)
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/22536870
-  authors: 'Lee Sael & Daisuke Kihara'
+  authors: Lee Sael & Daisuke Kihara
   link:
     display: PDF
     url: http://www.biomedcentral.com/1471-2105/13/S2/S7
   number: 67
   title: Constructing patch-based ligand-binding pocket database for predicting function
-    of proteins, BMC Bioinformatics, 13:S7(2012)
+    of proteins
   year: 2012
-- abstract:
+- PublicationInformation: 'Proteins: Structure, Function, and Bioinformatics, 80:
+    126-141 (2012)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/21989996
   authors: David La & Daisuke Kihara
@@ -1699,14 +1805,14 @@
     display: PDF
     url: paper/bindML.pdf
   links:
-  - url: http://kiharalab.org/bindml
-    display: BindML server
+  - display: BindML server
+    url: http://kiharalab.org/bindml
   number: 66
-  title: 'A novel method for protein-protein interaction site prediction using phylogenetic
-    substitution models., Proteins: Structure, Function, and Bioinformatics, 80: 126-141
-    (2012)'
+  title: A novel method for protein-protein interaction site prediction using phylogenetic
+    substitution models
   year: 2012
-- abstract:
+- PublicationInformation: 'American Journal of Molecular Biology, 1: 140-155 (2011)'
+  abstract:
     display: Abstract
     url: http://www.scirp.org/Journal/PaperInformation.aspx?paperID=7779
   authors: Zhonglian Huang, Priyanka Surana, Daisuke Kihara, Richard Meilan, & Keith
@@ -1715,11 +1821,11 @@
     display: PDF
     url: paper/JnCML_AJMB2011.pdf
   number: 65
-  title: 'JnCML-like, an EF-hand motif-containing gene seasonally upregulated in the
-    transition zone of black walnut (Juglans nigra L.)., American Journal of Molecular
-    Biology, 1: 140-155 (2011)'
+  title: JnCML-like, an EF-hand motif-containing gene seasonally upregulated in the
+    transition zone of black walnut (Juglans nigra L.).
   year: 2011
-- abstract:
+- PublicationInformation: BMC Bioinformatics, 12:373 (2011)
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/21929787
   authors: Meghana Chitale, Shriphani Palakodety & Daisuke Kihara
@@ -1728,9 +1834,10 @@
     url: http://www.biomedcentral.com/1471-2105/12/373
   number: 64
   title: Quantification of protein group coherence and pathway assignment using functional
-    association., BMC Bioinformatics, 12:373 (2011)
+    association
   year: 2011
-- abstract:
+- PublicationInformation: 'J. Mol. Biol, 414: 289-302(2011)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/22001016
   authors: SJ Fleishman, TA Whitehead, E-M Strauch, JE Corn, S Qin, H-X Zhou, JC Mitchell,
@@ -1749,10 +1856,11 @@
     display: PDF
     url: paper/communitywidecapri_JMB2011.pdf
   number: 63
-  title: 'Community wide asssessment of protein-interface modeling using a protein
-    design based benchmark., J. Mol. Biol, 414: 289-302(2011)'
+  title: Community wide asssessment of protein-interface modeling using a protein
+    design based benchmark
   year: 2011
-- abstract:
+- PublicationInformation: 'Curr. Protein and Peptide Science, 12: 520-530 (2011)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/21787306
   authors: Daisuke Kihara, Lee Sael, Rayan Chikhi, & Juan Esquivel-Rodriguez
@@ -1760,11 +1868,11 @@
     display: PDF
     url: paper/surface3dzd_cpps2011.pdf
   number: 62
-  title: 'Molecular surface representation using 3D Zernike descriptors for protein
-    shape comparison and docking., Curr. Protein and Peptide Science, 12: 520-530
-    (2011)'
+  title: Molecular surface representation using 3D Zernike descriptors for protein
+    shape comparison and docking
   year: 2011
-- abstract:
+- PublicationInformation: 'J. Cellular Biochemistry, 112: 2992-3001 (2011)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/21678469
   authors: Daitoku Sakamuro
@@ -1772,10 +1880,10 @@
     display: PDF
     url: paper/sakamuro_Bin1_JCB2011.pdf
   number: 61
-  title: 'Identification of a novel effector domain of BIN1 for cancer suppression.,
-    J. Cellular Biochemistry, 112: 2992-3001 (2011)'
+  title: Identification of a novel effector domain of BIN1 for cancer suppression
   year: 2011
-- abstract:
+- PublicationInformation: PLoS ONE, 6:e20694 (2011)
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/21738582
   authors: Balamurugan Jagadeesan, Amy E. Fleishman Littlejohn, Mary Anne Amalaradjou,
@@ -1785,9 +1893,10 @@
     url: http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0020694
   number: 60
   title: N-terminal Gly224-Gly411 Domain in Listeria Adhesion Protein Interacts with
-    Host Receptor Hsp60., PLoS ONE, 6:e20694 (2011)
+    Host Receptor Hsp60
   year: 2011
-- abstract:
+- PublicationInformation: 'J. Mol. Biol., 408: 147-162 (2011)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/21338610
   authors: Pei-Fen Liu, Daisuke Kihara, & Chiwook Park
@@ -1795,59 +1904,64 @@
     display: PDF
     url: paper/energybased_proteinligand_JMB11.pdf
   number: 59
-  title: 'Energetics-based discovery of protein-ligand interactions on a proteomics
-    scale., J. Mol. Biol., 408: 147-162 (2011)'
+  title: Energetics-based discovery of protein-ligand interactions on a proteomics
+    scale
   year: 2011
-- abstract:
+- PublicationInformation: Protein function prediction for omics era, D. Kihara ed.,
+    Chapter 1, pp. 1-17, Springer. (2011)
+  abstract:
     display: Abstract
     url: http://www.springer.com/biomed/book/978-94-007-0880-8
-  authors: 'Meghana Chitale & Daisuke Kihara '
+  authors: Meghana Chitale & Daisuke Kihara
   link:
     display: PDF
     url: paper/chap1_omics_era.pdf
   number: 58
-  title: 'Computational protein function prediction: Framework and challenges., Protein
-    function prediction for omics era, D. Kihara ed., Chapter 1, pp. 1-17, Springer.
-    (2011)'
+  title: 'Computational protein function prediction: Framework and challenges'
   year: 2011
-- abstract:
+- PublicationInformation: Protein function prediction for omics era, D. Kihara ed.,
+    Chapter 2, pp. 19-34, Springer.(2011)
+  abstract:
     display: Abstract
     url: http://www.springer.com/biomed/book/978-94-007-0880-8
-  authors: 'Meghana Chitale & Daisuke Kihara '
+  authors: Meghana Chitale & Daisuke Kihara
   link:
     display: PDF
     url: paper/chap2_omics_era.pdf
   number: 57
   title: Enhanced sequence-based function prediction methods and application to functional
-    similairty networks., Protein function prediction for omics era, D. Kihara ed.,
-    Chapter 2, pp. 19-34, Springer.(2011)
+    similairty networks
   year: 2011
-- abstract:
+- PublicationInformation: Protein function prediction for omics era, D. Kihara ed.,
+    Chapter 8, pp. 145-163, Springer. (2011)
+  abstract:
     display: Abstract
     url: http://www.springer.com/biomed/book/978-94-007-0880-8
-  authors: 'Rayan Chikhi, Lee Sael, & Daisuke Kihara '
+  authors: Rayan Chikhi, Lee Sael, & Daisuke Kihara
   link:
     display: PDF
     url: paper/chap8_omics_era.pdf
   number: 56
-  title: Protein binding ligand prediction using moment-based methods., Protein function
-    prediction for omics era, D. Kihara ed., Chapter 8, pp. 145-163, Springer. (2011)
+  title: Protein binding ligand prediction using moment-based methods
   year: 2011
-- abstract:
+- PublicationInformation: 'Proteins: Str. Funct. Bioinformatics, 79: 315-334. (2011)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/21058297
-  authors: 'Hao Chen & Daisuke Kihara '
+  authors: Hao Chen & Daisuke Kihara
   link:
     display: PDF
     url: paper/suprb.pdf
   links:
-  - url: http://www.kiharalab.org/suprb/
-    display: SUPRB threading program
+  - display: SUPRB threading program
+    url: http://www.kiharalab.org/suprb/
   number: 55
-  title: 'Effect of using suboptimal alignments in template-based protein structure
-    prediction., Proteins: Str. Funct. Bioinformatics, 79: 315-334. (2011)'
+  title: Effect of using suboptimal alignments in template-based protein structure
+    prediction
   year: 2011
-- abstract:
+- PublicationInformation: International Journal of Molecular Sciences, 11:5009-5026.
+    (2010)
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/21614188
   authors: Lee Sael & Daisuke Kihara
@@ -1856,9 +1970,10 @@
     url: http://www.mdpi.com/1422-0067/11/12/5009/
   number: 54
   title: Binding ligand prediction for proteins using partial matching of local surface
-    patches., International Journal of Molecular Sciences, 11:5009-5026. (2010)
+    patches
   year: 2010
-- abstract:
+- PublicationInformation: BMC Bioinformatics 11:S2. (2010) (Best Paper Award at GIW2010)
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/21172052
   authors: Lee Sael & Daisuke Kihara
@@ -1867,18 +1982,19 @@
     url: http://www.biomedcentral.com/1471-2105/11/S11/S2
   number: 53
   title: Protein surface representation for application to comparing low-resolution
-    protein structure data., BMC Bioinformatics 11:S2. (2010) (Best Paper Award at
-    GIW2010)
+    protein structure data
   year: 2010
-- authors: Daisuke Kihara
+- PublicationInformation: 'Seibutsu Butsuri (Biophysics), (in Japanese) 50: 258-259,
+    (2010)'
+  authors: Daisuke Kihara
   link:
     display: PDF
     url: paper/biophys_letter2010.pdf
   number: '---'
-  title: 'Letter from Abroad: Research activity in Kihara Lab at Purdue University,
-    Seibutsu Butsuri (Biophysics), (in Japanese) 50: 258-259, (2010).'
+  title: 'Letter from Abroad: Research activity in Kihara Lab at Purdue University'
   year: 2010
-- abstract:
+- PublicationInformation: 'PEDS Protein Engineering Design & Selection, 23: 617-632.(2010)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/20525730
   authors: Yifeng D Yang, Preston Spratt, Hao Chen, Changsoon Park & Daisuke Kihara
@@ -1886,13 +2002,13 @@
     display: PDF
     url: paper/subaqua_peds2010.pdf
   links:
-    - url: http://kiharalab.org/SubAqua/
-      display: Sub-AQUA server
+  - display: Sub-AQUA server
+    url: http://kiharalab.org/SubAqua/
   number: 52
-  title: 'Sub-AQUA: Real-Value Quality Assessment of Protein Structure Models., PEDS
-    Protein Engineering Design & Selection, 23: 617-632.(2010).'
+  title: 'Sub-AQUA: Real-Value Quality Assessment of Protein Structure Models'
   year: 2010
-- abstract:
+- PublicationInformation: BMC Bioinformatics, 11:265.(2010)
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/20482861
   authors: Troy Hawkins*, Meghana Chitale* & Daisuke Kihara (* equal contribution)
@@ -1901,10 +2017,10 @@
     url: http://www.biomedcentral.com/1471-2105/11/265
   number: 51
   title: Functional enrichment analyses and construction of functional similarity
-    networks with high confidence function prediction by PFP., BMC Bioinformatics,
-    11:265.(2010).
+    networks with high confidence function prediction by PFP
   year: 2010
-- abstract:
+- PublicationInformation: 'Proteins: Structure, Function, and Bioinformatics, 78:2007-2028.(2010)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/20455259
   authors: Rayan Chikhi, Lee Sael & Daisuke Kihara
@@ -1912,10 +2028,11 @@
     display: PDF
     url: paper/rayansaeldk_2010.pdf
   number: 50
-  title: 'Real-time ligand binding pocket database search using local surface descriptors.,
-    Proteins: Structure, Function, and Bioinformatics, 78:2007-2028.(2010).'
+  title: Real-time ligand binding pocket database search using local surface descriptors
   year: 2010
-- abstract:
+- PublicationInformation: Andrzej Kolinski (ed.) , Springer-Verlag, Chapter 13, pp.295-314.
+    (2010)
+  abstract:
     display: Abstract
     url: http://www.springer.com/new+%26+forthcoming+titles+(default)/book/978-1-4419-6888-3
   authors: Error estimation of template-based protein structure models.
@@ -1924,10 +2041,11 @@
     url: paper/errorestimation_TBMmodels.pdf
   number: 49
   title: 'Multiscale approaches to protein modeling: structure prediction, dynamics,
-    thermodynamics and macromolecular assemblies. Andrzej Kolinski (ed.) , Springer-Verlag,
-    Chapter 13, pp.295-314. (2010).'
+    thermodynamics and macromolecular assemblies'
   year: 2010
-- abstract:
+- PublicationInformation: International Journal of Knowledge Discovery in Bioinformatics,
+    1, 32-47 (2010)
+  abstract:
     display: Abstract
     url: http://www.igi-global.com/Bookstore/Article.aspx?TitleId=40970
   authors: Lee Sael & Daisuke Kihara
@@ -1936,9 +2054,10 @@
     url: paper/SaelKihara_IJKDB.pdf
   number: 48
   title: Characterization and classification of local protein surfaces using self-organizing
-    map, International Journal of Knowledge Discovery in Bioinformatics, 1, 32-47.(2010).
+    map
   year: 2010
-- abstract:
+- PublicationInformation: J. Cheminformatics, 1:19(2009)
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/20150998
   authors: Vishwesh Venkatraman, Padmasini R Chakravarthy & Daisuke Kihara
@@ -1946,24 +2065,24 @@
     display: PDF
     url: paper/ligandscreening_Cheminfo09.pdf
   number: 47
-  title: Application of 3D Zernike descriptors to shape-based ligand similarity searching,
-    J. Cheminformatics, 1:19(2009).
+  title: Application of 3D Zernike descriptors to shape-based ligand similarity searching
   year: 2009
-- abstract:
+- PublicationInformation: BMC Bioinformatics, 10:407(2009)
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/20003235
   authors: Vishwesh Venkatraman, Yifeng D Yang, Lee Sael & Daisuke Kihara
   link:
     display: PDF
     url: paper/LZerD_BMCBioinfo09.pdf
-  links: 
-  - url: paper/lzerd_Suppl.pdf
-    display: Supplementary Data
+  links:
+  - display: Supplementary Data
+    url: paper/lzerd_Suppl.pdf
   number: 46
-  title: Protein-protein docking using region-based 3D Zernike descriptors, BMC Bioinformatics,
-    10:407(2009).
+  title: Protein-protein docking using region-based 3D Zernike descriptors
   year: 2009
-- abstract:
+- PublicationInformation: 'Bioinformatics, 25: 2843-2844 (2009)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/19759195
   authors: David La*, Juan Esquivel-Rodriguez*, Vishwesh Venkatraman, Bin Li, Lee
@@ -1972,10 +2091,10 @@
     display: PDF
     url: paper/3d-surfer.pdf
   number: 45
-  title: '3D-SURFER: software for high throughput surface comparison and analysis,
-    Bioinformatics, 25: 2843-2844 (2009).'
+  title: '3D-SURFER: software for high throughput surface comparison and analysis'
   year: 2009
-- abstract:
+- PublicationInformation: 'Cell Biochemistry and Biophysics 54: 23-32 (2009)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/19521674?ordinalpos=1&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVDocSum
   authors: Vishwesh Venkatraman, Lee Sael & Daisuke Kihara
@@ -1983,10 +2102,11 @@
     display: PDF
     url: paper/HarmonicsZernike_CBB09.pdf
   number: 44
-  title: 'Potential for protein surface shape analysis using spherical harmonics and
-    3D Zernike descriptors, Cell Biochemistry and Biophysics 54: 23-32 (2009).'
+  title: Potential for protein surface shape analysis using spherical harmonics and
+    3D Zernike descriptors
   year: 2009
-- abstract:
+- PublicationInformation: 'Bioinformatics, 25: 1739-1745(2009)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/19435743?ordinalpos=1&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVDocSum
   authors: Meghana Chitale, Troy Hawkins, Changsoon Park, & Daisuke Kihara
@@ -1994,10 +2114,11 @@
     display: PDF
     url: paper/esg_bioinfo09.pdf
   number: 43
-  title: 'ESG: Extended similarity group method for automated protein function prediction,
-    Bioinformatics, 25: 1739-1745(2009).'
+  title: 'ESG: Extended similarity group method for automated protein function prediction'
   year: 2009
-- abstract:
+- PublicationInformation: Biological Data Mining, J Chen, S. Lonardi, (eds), Chapman
+    & Hall/CRC Press, USA, Chapter 3, pp. 89-109. (2009)
+  abstract:
     display: Abstract
     url: http://www.amazon.com/Biological-Mining-Chapman-Knowledge-Discovery/dp/1420086847/
   authors: Lee Sael & Daisuke Kihara
@@ -2006,10 +2127,10 @@
     url: paper/surfacerepresentation_sael.pdf
   number: 42
   title: 'Protein surface representation and comparison: New approaches in structural
-    proteomics , Biological Data Mining, J. Chen, S. Lonardi, (eds), Chapman & Hall/CRC
-    Press, USA, Chapter 3, pp. 89-109. (2009).'
+    proteomics'
   year: 2009
-- abstract:
+- PublicationInformation: 'Current Protein and Peptide Science, 10: 216-228, (2009)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/19519452?ordinalpos=1&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVDocSum
   authors: Daisuke Kihara, Hao Chen & Yifeng Yang
@@ -2017,10 +2138,11 @@
     display: PDF
     url: paper/QA_CPPS09.pdf
   number: 41
-  title: 'Quality assessment of computational protein models, Current Protein and
-    Peptide Science, 10: 216-228, (2009).'
+  title: Quality assessment of computational protein models
   year: 2009
-- abstract:
+- PublicationInformation: 'Proteins: Structure, Function, and Bioinformatics, 74:
+    566-582, (2009)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/18655063?ordinalpos=1&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVDocSum
   authors: Troy Hawkins, Meghana Chitale, Stan Luban & Daisuke Kihara
@@ -2029,9 +2151,10 @@
     url: paper/HawkinsChitaleLubanKihara_Proteins09.pdf
   number: 40
   title: 'PFP: Automated prediction of gene ontology functional annotations with confidence
-    scores, Proteins: Structure, Function, and Bioinformatics, 74: 566-582, (2009).'
+    scores'
   year: 2009
-- abstract:
+- PublicationInformation: 'Science, 320: 1289-1290 (2008)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/18535227?ordinalpos=1&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVDocSum
   authors: Hu JC, Aramayo R, Bolser D, Conway T, Elsik CG, Gribskov M, Kelder T, Daisuke
@@ -2040,18 +2163,21 @@
     display: PDF
     url: paper/wiki_science.pdf
   number: 39
-  title: 'The emerging world of wikis, Science, 320: 1289-1290 (2008).'
+  title: The emerging world of wikis
   year: 2008
-- abstract:
+- PublicationInformation: (a book chapter in) Biological Data Mining in Protein Interaction
+    Networks, X-L Li, S.K.Ng, (eds), Chapter 5, pp. 64-79, IGI-Global, Hershey, Philadelphia,
+    USA. (2008)
+  abstract:
     display: Abstract
     url: http://www.igi-global.com/Bookstore/TitleDetails.aspx?TitleId=105&DetailsType=Description
   authors: David La & Daisuke Kihara
   number: 38
-  title: Predicting binding interfaces of protein-protein interactions, (a book chapter
-    in) Biological Data Mining in Protein Interaction Networks, X-L Li, S.K.Ng, (eds),
-    Chapter 5, pp. 64-79, IGI-Global, Hershey, Philadelphia, USA. (2008).
+  title: Predicting binding interfaces of protein-protein interactions
   year: 2008
-- abstract:
+- PublicationInformation: 'Proteins: Structure, Function, and Bioinformatics, 73:
+    1-10(2008)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/18618695?ordinalpos=2&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVDocSum
   authors: Lee Sael, David La, Bin Li, Raif Rustamov & Daisuke Kihara
@@ -2059,9 +2185,11 @@
     display: PDF
     url: paper/surfaceproperty_sael08.pdf
   number: 37
-  title: '"Rapid comparison of properties on protein surface.", Proteins: Structure, Function, and Bioinformatics, 73: 1-10(2008).'
+  title: Rapid comparison of properties on protein surface
   year: 2008
-- abstract:
+- PublicationInformation: In Prediction of Protein Structure, Functions and Interactions,
+    Janusz Bujnicki (ed), Chapter 3, pp. 64-86, John Wiley & Sons, Ltd. (2008)
+  abstract:
     display: Abstract
     url: http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470517670.html
   authors: Meghana Chitale, Troy Hawkins & Daisuke Kihara
@@ -2069,11 +2197,11 @@
     display: PDF
     url: paper/seqbased_functionprediction_2008.pdf
   number: 36
-  title: 'Automated prediction of protein function from sequence, In Prediction of
-    Protein Structure, Functions and Interactions, Janusz Bujnicki (ed.), Chapter
-    3, pp. 64-86, John Wiley & Sons, Ltd. (2008).'
+  title: Automated prediction of protein function from sequence
   year: 2008
-- abstract:
+- PublicationInformation: 'Proteins: Structure, Function, and Bioinformatics, 73:
+    581-596.(2008)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/18473394?ordinalpos=4&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVDocSum
   authors: Yifeng D. Yang, Changsoon Park & Daisuke Kihara
@@ -2081,9 +2209,11 @@
     display: PDF
     url: paper/threadingWeight_prot08.pdf
   number: 35
-  title: '"Threading without optimizing weighting factors for scoring function.", Proteins: Structure, Function, and Bioinformatics, 73: 581-596.(2008).'
+  title: Threading without optimizing weighting factors for scoring function
   year: 2008
-- abstract:
+- PublicationInformation: 'Proteins: Structure, Function, and Bioinformatics, 72:
+    1259-1273. (2008)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/18361455?ordinalpos=2&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVDocSum
   authors: Lee Sael, Bin Li, David La, Yi Fang, Karthik Ramani, Raif Rustamov & Daisuke
@@ -2092,19 +2222,19 @@
     display: PDF
     url: paper/Sael_globalshape_Prot08.pdf
   number: 34
-  title: 'Fast protein tertiary structure retrieval based on global surface shape
-    similarity, Proteins: Structure, Function, and Bioinformatics, 72: 1259-1273.
-    (2008).'
+  title: Fast protein tertiary structure retrieval based on global surface shape similarity
   year: 2008
-- authors: Luo Si, Danni Yu, Daisuke Kihara & Yi Fang
+- PublicationInformation: 'Information Retrieval, 11: 389-404(2008)'
+  authors: Luo Si, Danni Yu, Daisuke Kihara & Yi Fang
   link:
     display: PDF
     url: paper/LSi_Kihara_InfoRetrieval_08.pdf
   number: 33
-  title: '"Combining gene sequence similarity and textual information for gene function annotation in the literature.", 
-          Information Retrieval, 11: 389-404(2008).'
+  title: Combining gene sequence similarity and textual information for gene function
+    annotation in the literature
   year: 2008
-- abstract:
+- PublicationInformation: 'Molecular BioSystems, 4: 223-231 (2008)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/18437265?ordinalpos=1&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVDocSum
   authors: Troy Hawkins, Meghana Chitale & Daisuke Kihara
@@ -2112,10 +2242,11 @@
     display: PDF
     url: paper/HawkinsChitaleKihara_MolBioSys08.pdf
   number: 32
-  title: 'New paradigm in protein function prediction for large scale omics analysis.,
-    Molecular BioSystems, 4: 223-231 (2008).'
+  title: New paradigm in protein function prediction for large scale omics analysis
   year: 2008
-- abstract:
+- PublicationInformation: 'Proteins: Struct. Funct. Bioinformatics, 71: 1255-1274
+    (2008)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/18041762?ordinalpos=1&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVDocSum
   authors: Hao Chen & Daisuke Kihara
@@ -2123,37 +2254,41 @@
     display: PDF
     url: paper/chenkihara_Prot08.pdf
   number: 31
-  title: '"Estimating quality of template-based protein models by alignment stability", 
-  Proteins: Struct. Funct. Bioinformatics, 71: 1255-1274 (2008).'
+  title: Estimating quality of template-based protein models by alignment stability
   year: 2008
-- abstract:
+- PublicationInformation: 'Proteins: Struct. Funct. Bioinformatics, 71: 670-683 (2008)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/17975834?ordinalpos=2&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVDocSum
-  authors: Bin Li, Srinivasan Turuvekere, Manish Agrawal, David La, Karthik Ramani & Daisuke Kihara
+  authors: Bin Li, Srinivasan Turuvekere, Manish Agrawal, David La, Karthik Ramani
+    & Daisuke Kihara
   link:
     display: PDF
     url: paper/Visgrid_Prot08.pdf
   number: 30
-  title: 'Characterization of local geometry of protein surfaces with the visibility
-    criterion, Proteins: Struct. Funct. Bioinformatics, 71: 670-683 (2008).'
+  title: Characterization of local geometry of protein surfaces with the visibility
+    criterion
   year: 2008
-- authors: Mingwu Zhang, Daisuke Kihara & Sunil Prabhakar
+- PublicationInformation: IEEE 7th International Symposium on Bioinformatics & Bioengineering
+    (BIBE), 440-447 (2007)
+  authors: Mingwu Zhang, Daisuke Kihara & Sunil Prabhakar
   link:
     display: PDF
     url: paper/MZhangDKPrabhakar_BIBE07.pdf
   number: 29
-  title: Tracing lineage in multi-version scientific databases., IEEE 7th International
-    Symposium on Bioinformatics & Bioengineering (BIBE), 440-447 (2007).
+  title: Tracing lineage in multi-version scientific databases
   year: 2007
-- authors: Yu-Shen Liu, Min Liu, Daisuke Kihara & Karthik Ramani
+- PublicationInformation: Proceedings of the 2007 ACM Solid and Physical Modeling,
+    277-282 (2007)
+  authors: Yu-Shen Liu, Min Liu, Daisuke Kihara & Karthik Ramani
   link:
     display: PDF
     url: paper/LiuLiuDK_KR_SPEM07.pdf
   number: 28
-  title: Salient critical points for meshes. , Proceedings of the 2007 ACM Solid and
-    Physical Modeling, 277-282 (2007).
+  title: Salient critical points for meshes
   year: 2007
-- abstract:
+- PublicationInformation: 'Omics, 11: 58-73 (2007)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&Cmd=ShowDetailView&TermToSearch=17411396&ordinalpos=1&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVDocSum
   authors: Stan Luban & Daisuke Kihara
@@ -2161,10 +2296,10 @@
     display: PDF
     url: paper/Luban_Kihara_2007_OMICS.pdf
   number: 27
-  title: 'Comparative genomics of small RNAs in bacterial genomes, Omics, 11: 58-73
-    (2007).'
+  title: Comparative genomics of small RNAs in bacterial genomes
   year: 2007
-- abstract:
+- PublicationInformation: J. Bioinformatics and Computational Biology, 5:1-30 (2007)
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&Cmd=ShowDetailView&TermToSearch=17477489&ordinalpos=1&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVDocSum
   authors: Troy Hawkins & Daisuke Kihara
@@ -2172,19 +2307,21 @@
     display: PDF
     url: paper/Hawkins_Kihara_2007_JBCB.pdf
   number: 26
-  title: Function prediction of uncharacterized proteins, J. Bioinformatics and Computational
-    Biology, 5:1-30 (2007).
+  title: Function prediction of uncharacterized proteins
   year: 2007
-- authors: Daisuke Kihara, Troy Hawkins, Stan Luban Bin Li, Karthik Ramani, & Manish Agrawal
+- PublicationInformation: Proceedings of the International Symposium on Frontiers
+    of Computational Science, Y Kaneda et al eds., pp. 143-148, Springer-Verlag, Berlin,
+    Heidelberg. (2007)
+  authors: Daisuke Kihara, Troy Hawkins, Stan Luban Bin Li, Karthik Ramani, & Manish
+    Agrawal
   link:
     display: PDF
     url: paper/Kiharafunction_springer.pdf
   number: 25
-  title: Protein function prediction in Proteomics Era", Proceedings of the International
-    Symposium on Frontiers of Computational Science, Y Kaneda et al. eds., pp. 143-148,
-    Springer-Verlag, Berlin, Heidelberg. (2007).
+  title: Protein function prediction in Proteomics Era"
   year: 2007
-- abstract:
+- PublicationInformation: BMC Bioinformatics, 7:342 (2006)
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&cmd=Retrieve&dopt=Abstract&list_uids=16839417&query_hl=1&itool=pubmed_docsum
   authors: Jianjun Hu, Yifeng David Yang & Daisuke Kihara
@@ -2192,10 +2329,11 @@
     display: PDF
     url: http://www.biomedcentral.com/1471-2105/7/342
   number: 24
-  title: 'EMD: an ensemble algorithm for discovering regulatory motifs in DNA sequences,
-    BMC Bioinformatics, 7:342. (2006).'
+  title: 'EMD: an ensemble algorithm for discovering regulatory motifs in DNA sequences'
   year: 2006
-- abstract:
+- PublicationInformation: 'Proteins: Structure Funct, Bioinformatics, 64: 587-600.
+    (2006)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&cmd=Retrieve&dopt=Abstract&list_uids=16799934&query_hl=1&itool=pubmed_docsum
   authors: Yen Hock Tan, He Huang & Daisuke Kihara
@@ -2203,11 +2341,11 @@
     display: PDF
     url: paper/aamatrix_Kihara_Protein06.pdf
   number: 23
-  title: 'Statistical potential-based amino acid similarity matrices for aligning
-    distantly related protein sequences, Proteins: Structure Funct, Bioinformatics,
-    64: 587-600. (2006).'
+  title: Statistical potential-based amino acid similarity matrices for aligning distantly
+    related protein sequences
   year: 2006
-- abstract:
+- PublicationInformation: Protein Sci, 15:1550-1556 (2006)
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&cmd=Retrieve&dopt=Abstract&list_uids=16672240&query_hl=1&itool=pubmed_docsum
   authors: Troy Hawkins, Stan Luban & Daisuke Kihara
@@ -2215,10 +2353,11 @@
     display: PDF
     url: paper/pfp_prosci06.pdf
   number: 22
-  title: '"Enhanced automated function prediction using distantly related sequences
-    and contextual association by PFP.", Protein Sci, 15:1550-1556 (2006).'
+  title: Enhanced automated function prediction using distantly related sequences
+    and contextual association by PFP
   year: 2006
-- abstract:
+- PublicationInformation: Cancer Informatics, 2:25-35. (2006)
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/19458756
   authors: Daisuke Kihara, Yifeng D. Yang & Troy Hawkins
@@ -2226,10 +2365,11 @@
     display: PDF
     url: paper/cancerinfo.pdf
   number: 21
-  title: '"Bioinformatics resources for cancer research with an emphasis on gene function
-    and structure prediction tools.", Cancer Informatics, 2:25-35. (2006).'
+  title: Bioinformatics resources for cancer research with an emphasis on gene function
+    and structure prediction tools
   year: 2006
-- abstract:
+- PublicationInformation: 'Nucleic Acid Res. 33: 4899-4913. (2005)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&cmd=Retrieve&dopt=Abstract&list_uids=16284194&query_hl=1&itool=pubmed_docsum
   authors: Jianjun Hu, Bin Li & Daisuke Kihara
@@ -2237,10 +2377,10 @@
     display: PDF
     url: paper/motif_NAR05.pdf
   number: 20
-  title: '"Limitations and potentials of current motif discovery algorithms.", Nucleic
-    Acid Res. 33: 4899-4913. (2005).'
+  title: Limitations and potentials of current motif discovery algorithms
   year: 2005
-- abstract:
+- PublicationInformation: 'Protein Science. 14: 1955-1963. (2005)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&cmd=Retrieve&dopt=Abstract&list_uids=15987894&query_hl=1&itool=pubmed_docsum
   authors: Daisuke Kihara
@@ -2248,18 +2388,21 @@
     display: PDF
     url: paper/Kihara_2ndarystr_ProtSci05.pdf
   number: 19
-  title: '"On the effect of long-range interactions on the secondary structure formation
-    of proteins.", Protein Science. 14: 1955-1963. (2005).'
+  title: On the effect of long-range interactions on the secondary structure formation
+    of proteins
   year: 2005
-- abstract:
+- PublicationInformation: Genome Function Research Handbook, Chapter 2. pp. 73-81.
+    Yodosha Publishers, Tokyo, Japan. (2004)
+  abstract:
     display: Abstract
     url: http://www.yodosha.co.jp/book/9784897068862.html
   authors: Daisuke Kihara
   number: 18
-  title: '"Biomolecular Structure Databases.", Genome Function Research Handbook,
-    Chapter 2. pp. 73-81. Yodosha Publishers, Tokyo, Japan. (2004).'
+  title: Biomolecular Structure Databases
   year: 2004
-- abstract:
+- PublicationInformation: 'Proteins: Structure, Funct. Bioinformatics 56:502-518.
+    (2004)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=15229883
   authors: Jeffrey Skolnick, Daisuke Kihara and Yang Zhang
@@ -2267,10 +2410,12 @@
     display: PDF
     url: paper/17.pdf
   number: 17
-  title: '"Development and large scale benchmark testing of the PROSPECTOR 3.0 threading
-    algorithm.", Proteins: Structure, Funct. Bioinformatics 56:502-518. (2004)'
+  title: Development and large scale benchmark testing of the PROSPECTOR 3.0 threading
+    algorithm
   year: 2004
-- abstract:
+- PublicationInformation: 'Proteins: Structure, Funct. Bioinformatics 55: 464-473
+    (2004)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=15048836
   authors: Daisuke Kihara and Jeffrey Skolnick
@@ -2278,11 +2423,11 @@
     display: PDF
     url: paper/16.pdf
   number: 16
-  title: '"Microbial genomes have over 72% structure assignment by the threading
-    algorithm PROSPECTOR_Q.", Proteins: Structure, Funct. Bioinformatics 55: 464-473
-    (2004)'
+  title: Microbial genomes have over 72% structure assignment by the threading algorithm
+    PROSPECTOR_Q
   year: 2004
-- abstract:
+- PublicationInformation: 'J. Mol. Biol. 334: 793-802 (2003)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=14636603
   authors: Daisuke Kihara and Jeffrey Skolnick
@@ -2290,10 +2435,11 @@
     display: PDF
     url: paper/15.pdf
   number: 15
-  title: '"The PDB is a covering set of small protein structures.", J. Mol. Biol.
-    334: 793-802 (2003)'
+  title: The PDB is a covering set of small protein structures
   year: 2003
-- abstract:
+- PublicationInformation: 'Proteins: Structure, Funct. Genet. 53: Suppl.6: 469-479
+    (2003)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/14579335
   authors: Jeffrey Skolnick, Yang Zhang, Adrian Arakaki, Andrzej Kolinski, Michael
@@ -2302,10 +2448,10 @@
     display: PDF
     url: paper/14.pdf
   number: 14
-  title: '"TOUCHSTONE: a unified approach to protein structure prediction.", Proteins:
-    Structure, Funct. Genet. 53: Suppl.6: 469-479 (2003)'
+  title: 'TOUCHSTONE: a unified approach to protein structure prediction'
   year: 2003
-- abstract:
+- PublicationInformation: 'Proteins: Structure, Funct. Genet. 53: 290-306 (2003)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/14517980
   authors: Wei Li, Yang Zhang, Daisuke Kihara, Yuanpeng J. Huang, Deyou Zheng, Gaetano
@@ -2314,10 +2460,10 @@
     display: PDF
     url: paper/13.pdf
   number: 13
-  title: '"TOUCHSTONEX: Protein Structure Prediction Using Sparse NMR Data.", Proteins:
-    Structure, Funct. Genet. 53: 290-306 (2003)'
+  title: 'TOUCHSTONEX: Protein Structure Prediction Using Sparse NMR Data'
   year: 2003
-- abstract:
+- PublicationInformation: 'Proteins: Structure, Funct. Genet. 48: 192-201 (2002)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/12112688
   authors: Yang, Zhang, Daisuke Kihara and Jeffrey Skolnick
@@ -2325,10 +2471,11 @@
     display: PDF
     url: paper/12.pdf
   number: 12
-  title: '"Local Energy Landscape Flattening: Parallel Hyperbolic Monte Carlo Sampling
-    of Protein Folding.", Proteins: Structure, Funct. Genet. 48: 192-201 (2002)'
+  title: 'Local Energy Landscape Flattening: Parallel Hyperbolic Monte Carlo Sampling
+    of Protein Folding'
   year: 2002
-- abstract:
+- PublicationInformation: 'Proc. Natl. Acad. Sci. USA, 99: 5993-5998 (2002)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/11959918
   authors: Daisuke Kihara, Yang Zhang, Hui Lu, Andrzej Kolinski and Jeffrey Skolnick
@@ -2336,11 +2483,12 @@
     display: PDF
     url: paper/11.pdf
   number: 11
-  title: '"Ab initio Protein Structure Prediction on a Genomic Scale: Application
-    to the Mycoplasma genitalium Genome.", Proc. Natl. Acad. Sci. USA, 99: 5993-5998
-    (2002)'
+  title: 'Ab initio Protein Structure Prediction on a Genomic Scale: Application to
+    the Mycoplasma genitalium Genome'
   year: 2002
-- abstract:
+- PublicationInformation: 'Proteins: Structure, Funct. Genet. 45 (Suppl 5): 149-156
+    (2001)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/11835492
   authors: Jeffrey Skolnick, Andrzej Kolinski, Daisuke Kihara, Marcos Betancourt,
@@ -2349,27 +2497,28 @@
     display: PDF
     url: paper/10.pdf
   number: 10
-  title: '"Ab initio Protein Structure Prediction via a Combination of Threading,
-    Lattice Folding, Clustering, and Structure Refinement.", Proteins: Structure,
-    Funct. Genet. 45 (Suppl 5): 149-156 (2001)'
+  title: Ab initio Protein Structure Prediction via a Combination of Threading, Lattice
+    Folding, Clustering, and Structure Refinement
   year: 2001
-- abstract:
+- PublicationInformation: 'Tanpakushitsu Kakusan Koso (Protein, Nucleic Acid and Enzyme)
+    46 (16 Suppl): 2639-2645 (2001)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/11802444
   authors: Daisuke Kihara
   number: 9
-  title: '"Genome Databases on the Internet.", Tanpakushitsu Kakusan Koso (Protein,
-    Nucleic Acid and Enzyme) 46 (16 Suppl): 2639-2645 (2001)'
+  title: Genome Databases on the Internet
   year: 2001
-- authors: Daisuke Kihara and Minoru Kanehisa
+- PublicationInformation: 'Recent Res. Developments in Protein Engng. 1: 179-196 (2001)'
+  authors: Daisuke Kihara and Minoru Kanehisa
   link:
     display: PDF
     url: paper/KiharaKanehisa_membraneprot_review01.pdf
   number: 8
-  title: '"Prediction of Membrane Proteins in Post-Genomic Era.", Recent Res. Developments
-    in Protein Engng. 1: 179-196 (2001)'
+  title: Prediction of Membrane Proteins in Post-Genomic Era
   year: 2001
-- abstract:
+- PublicationInformation: 'Proc. Natl. Acad. Sci. USA 98: 10125-10130 (2001)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/11504922
   authors: Daisuke Kihara, Hui Lu, Andrzej Kolinski and Jeffrey Skolnick
@@ -2377,11 +2526,11 @@
     display: PDF
     url: paper/7.pdf
   number: 7
-  title: '"TOUCHSTONE: An ab initio Protein Structure Prediction Method that Uses
-    Threading-based Tertiary Restraints.", Proc. Natl. Acad. Sci. USA 98: 10125-10130
-    (2001)'
+  title: 'TOUCHSTONE: An ab initio Protein Structure Prediction Method that Uses Threading-based
+    Tertiary Restraints'
   year: 2001
-- abstract:
+- PublicationInformation: 'Proteins: Structure, Funct. Genet. 44: 133-149 (2001)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/11391776
   authors: Andrzej Kolinski, Marcos Betancourt, Daisuke Kihara, Piotr Rotkiewicz and
@@ -2390,11 +2539,11 @@
     display: PDF
     url: paper/6.pdf
   number: 6
-  title: '"Generalized Comparative Modeling (GENCOMP): A Combination of Sequence
-    Comparison, Threading, and Lattice Modeling for Protein Structure Prediction and
-    Refinement.", Proteins: Structure, Funct. Genet. 44: 133-149 (2001)'
+  title: 'Generalized Comparative Modeling (GENCOMP): A Combination of Sequence Comparison,
+    Threading, and Lattice Modeling for Protein Structure Prediction and Refinement'
   year: 2001
-- abstract:
+- PublicationInformation: 'Proteins: Structure, Funct. Genet. 42: 319-331 (2001)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/11151004
   authors: Jeffrey Skolnick and Daisuke Kihara
@@ -2402,10 +2551,10 @@
     display: PDF
     url: paper/5.pdf
   number: 5
-  title: '"Defrosting the Frozen Approximation: PROSPECTOR - A New Approach to Threading."
-, Proteins: Structure, Funct. Genet. 42: 319-331 (2001)'
+  title: 'Defrosting the Frozen Approximation: PROSPECTOR - A New Approach to Threading'
   year: 2001
-- abstract:
+- PublicationInformation: 'Genome Res. 10: 731-743 (2000)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/pubmed/10854407
   authors: Daisuke Kihara and Minoru Kanehisa
@@ -2413,18 +2562,20 @@
     display: PDF
     url: paper/4.pdf
   number: 4
-  title: '"Tandem Cluster of Membrane Proteins in Complete Genome Sequences.", Genome Res. 10: 731-743 (2000)'
+  title: Tandem Cluster of Membrane Proteins in Complete Genome Sequences
   year: 2000
-- abstract:
+- PublicationInformation: 'Iwanami Kouza (Iwanami Lecture Series): Gendai Igaku no
+    Kiso (The Basis of Modern Medical Science), vol.1, Chap.11, pp: 215-235, Iwanami
+    Shoten Publishers, Tokyo Japan (1998)'
+  abstract:
     display: Abstract
     url: http://www.iwanami.co.jp/.BOOKS/01/1/0109110.html
   authors: Daisuke Kihara and Minoru Kanehisa
   number: 3
-  title: '"The Genome Projects and Bioinformatics.", Iwanami Kouza (Iwanami Lecture
-    Series): Gendai Igaku no Kiso (The Basis of Modern Medical Science), vol.1, Chap.11,
-    pp: 215-235, Iwanami Shoten Publishers, Tokyo Japan (1998)'
+  title: The Genome Projects and Bioinformatics
   year: 1998
-- abstract:
+- PublicationInformation: 'Protein Engng., 11: 961-970 (1998)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&cmd=Retrieve&dopt=Abstract&list_uids=9876916&query_hl=1&itool=pubmed_docsum
   authors: Daisuke Kihara, Toshio Shimizu and Minoru Kanehisa
@@ -2432,14 +2583,15 @@
     display: PDF
     url: paper/tseg.pdf
   number: 2
-  title: '"Prediction of Membrane Proteins Based on Classification of Transmembrane
-    Segments.", Protein Engng., 11: 961-970 (1998)'
+  title: Prediction of Membrane Proteins Based on Classification of Transmembrane
+    Segments
   year: 1998
-- abstract:
+- PublicationInformation: 'Tanpakushitsu Kakusan Koso (Protein, Nucleic Acid and Enzyme),
+    42(17 Suppl): 3090-3099 (1997)'
+  abstract:
     display: Abstract
     url: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&cmd=Retrieve&dopt=Abstract&list_uids=9455244&query_hl=1&itool=pubmed_docsum
   authors: Daisuke Kihara, Minoru Kanehisa and Toshihisa Takagi
   number: 1
-  title: '"Internet Resources for Genome Research.", Tanpakushitsu Kakusan Koso
-(Protein, Nucleic Acid and Enzyme), 42(17 Suppl): 3090-3099 (1997)'
+  title: Internet Resources for Genome Research
   year: 1997
