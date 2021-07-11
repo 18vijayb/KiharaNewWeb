@@ -10,7 +10,7 @@ Publications
 ------------
 
 <div class="input-group">
-<input id="search_table" onkeyup="filterTable()" type="search" class="form-control" placeholder="Search in publications..." />
+<input id="search_table" onkeyup="filterTable()" type="search" class="form-control" placeholder="Search by any keyword" />
 </div>
 <table id="publication_table" class="table table-striped table-hover">
     <thead class="thead-light">
@@ -35,7 +35,7 @@ Publications
                     {{publi.year}}
                 </td>
                 <td class="col">
-                    <em>{{ publi.authors }}</em>, <b>{{ publi.title }}</b>
+                    <em>{{ publi.authors }}</em>, <b>{{ publi.title }}</b>, {{ publi.PublicationInformation }}
                 </td>
                 <td class="col">
                 {% if publi.link %}

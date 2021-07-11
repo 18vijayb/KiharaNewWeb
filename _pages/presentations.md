@@ -24,25 +24,29 @@ permalink: /presentations/
         <tr>
             <th scope="col">#</th>
             <th scope="col">Presentation</th>
+            <th scope="col">Relevant Links</th>
         </tr>
     </thead>
     <tbody>
-        {% assign publication_number = site.data.presentations.size %}
         {% for pres in site.data.presentations %}
             <tr>
                 <td class="col">
-                    {{publication_number}}
+                    {{pres.number}}
                 </td>
                 <td class="col">
-                    {{ pres.title }}
+                    {{ pres.text }}
                     <ul>
                     {% for note in pres.notes %}
-                    <li>{{ note }}</li>
+                    <li>{{ note.text }}</li>
                     {% endfor %}
                     </ul>
                 </td>
+                <td class="col">
+                    {% for link in pres.links %}
+                    <a href="{{link.url}}">{{ link.display }}</a>
+                    {% endfor %}
+                </td>
             </tr>
-            {% assign publication_number = publication_number | minus: 1 %}
         {% endfor %}
     </tbody>
 </table>
