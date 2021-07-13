@@ -8,59 +8,60 @@ permalink: /publications/
 
 Publications
 ------------
-
-<div class="input-group">
+<div class="col">
+  <div class="input-group">
   <input id="search_table" onkeyup="filterTable()" type="search" class="form-control" placeholder="Search by any keyword" />
+  </div>
+  <table id="publication_table" class="table table-striped table-hover">
+      <thead class="thead-light">
+          <tr>
+              <th scope="col">#</th>
+              <th scope="col">Year</th>
+              <th scope="col">Publication Name</th>
+              <th scope="col"></th>
+              <th scope="col"></th>
+              <th scope="col">Relevant Links</th>
+          </tr>
+      </thead>
+      <tbody>
+          {% assign publication_number = site.data.publist.size %}
+          {% for publi in site.data.publist %}
+              {% assign is_odd = publication_number | modulo: 2 %}
+              <tr>
+                  <td class="col">
+                      {{publi.number}}
+                  </td>
+                  <td class="col">
+                      {{publi.year}}
+                  </td>
+                  <td class="col">
+                      <em>{{ publi.authors }}</em>, <b>{{ publi.title }}</b>, {{ publi.PublicationInformation }}
+                  </td>
+                  <td class="col">
+                  {% if publi.link %}
+                      {% if publi.link.url contains "paper/" %}
+                        <a class="btn btn-primary" href="{{ site.url }}{{ site.baseurl }}/{{ publi.link.url }}">{{ publi.link.display }}</a>
+                      {% else %}
+                        <a class="btn btn-primary" href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+                      {% endif %}
+                  {% endif %}
+                  </td>
+                  <td class="col">
+                  {% if publi.abstract %}
+                    <a class="btn btn-primary" href="{{ publi.abstract.url }}">{{ publi.abstract.display }}</a>
+                  {% endif %}
+                  </td>
+                  <td class="col">
+                    {% for link in publi.links %}
+                      <a href="{{ link.url }}">{{ link.display }}</a> <br>
+                    {% endfor %}
+                  </td>
+              </tr>
+              {% assign publication_number = publication_number | minus: 1 %}
+          {% endfor %}
+      </tbody>
+  </table>
 </div>
-<table id="publication_table" class="table table-striped table-hover">
-    <thead class="thead-light">
-        <tr>
-            <th scope="col">#</th>
-            <th scope="col">Year</th>
-            <th scope="col">Publication Name</th>
-            <th scope="col"></th>
-            <th scope="col"></th>
-            <th scope="col">Relevant Links</th>
-        </tr>
-    </thead>
-    <tbody>
-        {% assign publication_number = site.data.publist.size %}
-        {% for publi in site.data.publist %}
-            {% assign is_odd = publication_number | modulo: 2 %}
-            <tr>
-                <td class="col">
-                    {{publi.number}}
-                </td>
-                <td class="col">
-                    {{publi.year}}
-                </td>
-                <td class="col">
-                    <em>{{ publi.authors }}</em>, <b>{{ publi.title }}</b>, {{ publi.PublicationInformation }}
-                </td>
-                <td class="col">
-                {% if publi.link %}
-                    {% if publi.link.url contains "paper/" %}
-                      <a class="btn btn-primary" href="{{ site.url }}{{ site.baseurl }}/{{ publi.link.url }}">{{ publi.link.display }}</a>
-                    {% else %}
-                      <a class="btn btn-primary" href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-                    {% endif %}
-                {% endif %}
-                </td>
-                <td class="col">
-                {% if publi.abstract %}
-                  <a class="btn btn-primary" href="{{ publi.abstract.url }}">{{ publi.abstract.display }}</a>
-                {% endif %}
-                </td>
-                <td class="col">
-                  {% for link in publi.links %}
-                    <a href="{{ link.url }}">{{ link.display }}</a> <br>
-                  {% endfor %}
-                </td>
-            </tr>
-            {% assign publication_number = publication_number | minus: 1 %}
-        {% endfor %}
-    </tbody>
-</table>
 
 <script>
 function filterTable() {

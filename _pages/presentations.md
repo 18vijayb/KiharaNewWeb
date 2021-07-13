@@ -8,7 +8,7 @@ permalink: /presentations/
 # Presentations
 
 ## Upcoming Presentations
-
+<div class="col">
 <table id="publication_table" class="table table-striped table-hover">
     <thead class="thead-light">
         <tr>
@@ -77,6 +77,8 @@ permalink: /presentations/
         {% endfor %}
     </tbody>
 </table>
+</div>
+
 <script>
     function filterTable() {
     var input, filter, table, tr, td, i, txtValue;
