@@ -18,7 +18,6 @@ $web-font-path: "https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400
 // Buttons ====================================================================
 
 .btn {
-  padding: ($padding-base-vertical + 2) $padding-base-horizontal $padding-base-vertical;
   @include shadow();
   font-size: 12px;
   font-weight: bold;
