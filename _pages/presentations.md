@@ -8,37 +8,36 @@ permalink: /presentations/
 # Presentations
 
 ## Upcoming Presentations
-<div class="col">
 <table id="publication_table" class="table table-striped table-hover">
-    <thead class="thead-light">
+<thead class="thead-light">
+    <tr>
+        <th scope="col">#</th>
+        <th scope="col">Presentation</th>
+        <th scope="col">Relevant Links</th>
+    </tr>
+</thead>
+<tbody>
+    {% for pres in site.data.upcomingpresentations %}
         <tr>
-            <th scope="col">#</th>
-            <th scope="col">Presentation</th>
-            <th scope="col">Relevant Links</th>
+            <td class="col">
+                {{pres.number}}
+            </td>
+            <td class="col">
+                {{ pres.text }}
+                <ul>
+                {% for note in pres.notes %}
+                <li>{{ note.text }}</li>
+                {% endfor %}
+                </ul>
+            </td>
+            <td class="col">
+                {% for link in pres.links %}
+                <a href="{{link.url}}">{{ link.display }}</a>
+                {% endfor %}
+            </td>
         </tr>
-    </thead>
-    <tbody>
-        {% for pres in site.data.upcomingpresentations %}
-            <tr>
-                <td class="col">
-                    {{pres.number}}
-                </td>
-                <td class="col">
-                    {{ pres.text }}
-                    <ul>
-                    {% for note in pres.notes %}
-                    <li>{{ note.text }}</li>
-                    {% endfor %}
-                    </ul>
-                </td>
-                <td class="col">
-                    {% for link in pres.links %}
-                    <a href="{{link.url}}">{{ link.display }}</a>
-                    {% endfor %}
-                </td>
-            </tr>
-        {% endfor %}
-    </tbody>
+    {% endfor %}
+</tbody>
 </table>
 
 ## Past Presentations
@@ -78,7 +77,6 @@ permalink: /presentations/
     </tbody>
 </table>
 </div>
-
 <script>
     function filterTable() {
     var input, filter, table, tr, td, i, txtValue;

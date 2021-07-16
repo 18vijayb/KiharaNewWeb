@@ -8,7 +8,7 @@ permalink: /publications/
 
 Publications
 ------------
-<div class="col">
+<div class="table-responsive-sm">
   <div class="input-group">
   <input id="search_table" onkeyup="filterTable()" type="search" class="form-control" placeholder="Search by any keyword" />
   </div>

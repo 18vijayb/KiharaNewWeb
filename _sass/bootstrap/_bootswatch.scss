@@ -22,7 +22,6 @@ $web-font-path: "https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400
   @include shadow();
   font-size: 12px;
   font-weight: bold;
-  text-transform: uppercase;
 
   &:hover {
     margin-top: 1px;
