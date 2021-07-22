@@ -8,7 +8,6 @@ permalink: /publications/
 
 Publications
 ------------
-<div class="table-responsive-sm">
   <div class="input-group">
   <input id="search_table" onkeyup="filterTable()" type="search" class="form-control" placeholder="Search by any keyword" />
   </div>
@@ -52,16 +51,17 @@ Publications
                   {% endif %}
                   </td>
                   <td class="col">
+                  <ul>
                     {% for link in publi.links %}
-                      <a href="{{ link.url }}">{{ link.display }}</a> <br>
+                      <li><a href="{{ link.url }}">{{ link.display }}</a> </li>
                     {% endfor %}
+                  </ul>
                   </td>
               </tr>
               {% assign publication_number = publication_number | minus: 1 %}
           {% endfor %}
       </tbody>
   </table>
-</div>
 
 <script>
 function filterTable() {

@@ -76,7 +76,6 @@ permalink: /presentations/
         {% endfor %}
     </tbody>
 </table>
-</div>
 <script>
     function filterTable() {
     var input, filter, table, tr, td, i, txtValue;
