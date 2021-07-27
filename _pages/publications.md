@@ -11,12 +11,13 @@ Publications
   <div class="input-group">
   <input id="search_table" onkeyup="filterTable()" type="search" class="form-control" placeholder="Search by any keyword" />
   </div>
+  <div class="table-responsive">
   <table id="publication_table" class="table table-striped table-hover">
       <thead class="thead-light">
           <tr>
               <th scope="col">#</th>
               <th scope="col">Year</th>
-              <th scope="col">Publication Name</th>
+              <th style="width: 10% !important" scope="col">Publication Name</th>
               <th scope="col"></th>
               <th scope="col"></th>
               <th scope="col">Relevant Links</th>
@@ -33,8 +34,8 @@ Publications
                   <td class="col">
                       {{publi.year}}
                   </td>
-                  <td class="col">
-                      <em>{{ publi.authors }}</em>, <b>{{ publi.title }}</b>, {{ publi.PublicationInformation }}
+                  <td class="col-xs-5">
+                      <em>{{ publi.authors }}</em>, <b>{{ publi.title }}</b>, <p>{{ publi.PublicationInformation }}</p>
                   </td>
                   <td class="col">
                   {% if publi.link %}
@@ -62,6 +63,7 @@ Publications
           {% endfor %}
       </tbody>
   </table>
+  </div>
 
 <script>
 function filterTable() {
