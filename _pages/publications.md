@@ -35,7 +35,7 @@ Publications
                       {{publi.year}}
                   </td>
                   <td class="col-xs-5">
-                      <em>{{ publi.authors }}</em>, <b>{{ publi.title }}</b>, <p>{{ publi.PublicationInformation }}</p>
+                      <em>{{ publi.authors }}</em>, <b>{{ publi.title }}</b>, {{ publi.PublicationInformation }}
                   </td>
                   <td class="col">
                   {% if publi.link %}

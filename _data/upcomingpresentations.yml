@@ -1,35 +1,32 @@
-- number: 295
-  text: 3 oral presentations at The Hitchhiker's Guide to the Biomolecular Galaxy
-    2021, May 12-13, 2021
-  notes:
-  - text: '"VESPER: Global and local cryo-EM map alignment and database search using
-      local density vectors", Genki Terashi et al.'
-  - text: '"Detecting protein and DNA/RNA structures in cryo-EM maps of intermediate
-      resolution using deep learning", Xiao Wang et al.'
-  - text: '"Modeling transmembrane protein interactions using topological and biophysical
-      principles", Daipayan Sarkar et al.'
-  links:
-  - url: http://hitchhikers.science.purdue.edu/2021/index.html
-    display: The Hitchhiker's Guide to the Biomolecular Galaxy 2021
-- number: 294
-  text: '"Deep-learning-assisted protein 3D structure modeling for medium-resolution
-    cryo-EM density maps", D. Kihara, 5th International Conference on Mathematical
-    and Computational Medicine, (Virtual and physical), June 7-11, 2021'
-- number: 293
-  text: '"The OC_Finder: A deep learning-based software for in vitro osteoclast counting",
-    Mizuho Kittaka, Xiao Wang, Yilin He, Yiwei Wang, Daisuke Kihara, Yasuyoshi Ueki,
-    2021 Annual Meeting of The American Society for Bone and Mineral Research, October
-    1-4, 2021'
-- number: 292
-  text: Seminar at Butler University, postponed to Fall 2020 or later
-- number: 291
+- number: 307
+  text: '"Deep learning-assisted protein 3D structure modeling for medium resolution cryo-EM density maps", EMBO Workshop: Advances and Challenges in Biomolecular Simulations, (virtual conference), Oct. 18-21, 2021'
+
+- number: 306
+  text: '"Deep learning-assisted protein 3D structure modeling for medium resolution cryo-EM density maps", Rossmann Symposium, Purdue University, Oct. 25, 2021'
+
+- number: 305
+  text: '"Volume segmentation and vector-based map alignment for cryo-EM maps", invited talk by Genki Terashi, X. Han, C. Christoffer, & D. Kihara, 3rd IEEE International Conference on BioInspired Processing, BIP 2021, Costa Rica (virtual conference), Nov 4-5, 2021
+seminar at Butler University, Nov 11, 2021'
+
+- number: 304
+  text: 'Talk by Genki Terashi, The 49th QSAR Symposium, The Pharmaceutical Society of Japan (virtual conference), Nov 18-19, 2021'
+
+- number: 303
+  text: '"Cryo-EM flexible fitting refinement with automatic error fixing for de novo protein structure modeling" (poster), Takaharu Mori, G. Terashi, D. Matsuoka, D. Kihara, Y. Sugita, The 59th Annual Meeting of The Biophysical Society of Japan, Sendai, Japan, Nov. 25-27, 2021'
+
+- number: 302
+  text: 'Invited talk "Protein 3D structure modeling from medium-resolution cryo-EM density maps" at Pacifichem 2021 , Honolulu, Hawaii December 16-17, 2021'
+
+- number: 301
   text: Invited talk at the 4th International Symposium on Cryo-3D Image Analysis
     2020, postponed to 2021
   links:
   - url: https://cryoem.bcm.edu/events/view_workshop/15
     display: the 4th International Symposium on Cryo-3D Image Analysis 2020
-- number: 290
+- number: 300
+  text: Physical, Computational and Data-driven Biology of Proteins and Nucleic Acids (PCDB2020), Gold Coast, Australia, postponed to 2021
+- number: 299
   text: '2nd Princeton-Nature Conference: Frontiers in Electron Microscopy for the
     Physical and Life Sciences, Princeton University, NJ, postponed to 2021'
-- number: 289
+- number: 298
   text: The Kuntz Symposium, ACS National Fall meeting, postponed to 2021

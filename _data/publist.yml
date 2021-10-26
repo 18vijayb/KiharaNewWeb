@@ -1,3 +1,60 @@
+- PublicationInformation: 'Proteins, doi: 10.1002/prot.26231, in press, (2021)'
+  abstract:
+    display: Abstract
+    url: http://www.ncbi.nlm.nih.gov/pubmed/34462960
+  authors: Kryshtafovych A., Moult J.,, & CASP-COVID paricipants (including Charles Christoffer, Genki Terashi, Daipayan Sarkar, Daisuke Kihara)
+  number: 207
+  title: Modeling SARS-CoV-2 proteins in the CASP-commons experiment
+  year: 2021
+
+- PublicationInformation: 'Proteins, doi: 10.1002/prot.26222, in press, (2021)'
+  abstract:
+    display: Abstract
+    url: http://www.ncbi.nlm.nih.gov/pubmed/34453465
+  authors: M.F. Lensink, ,, Charles Christoffer, Genki Terashi, Jacob Verburgt, Daipayan Sarkar, Tunde Aderinwale, Xiao Wang, Daisuke Kihara, ,, & S.J. Wodak (108 authors)
+  number: 206
+  title: 'Prediction of protein assemblies, the next frontier: The CASP14-CAPRI experiment'
+  year: 2021
+
+- PublicationInformation: Matter, in press, (2021)
+  authors: M. Shekhar*, Genki Terashi*, C. Gupta, Daipayan Sarkar, G. Debussche, N.J. Sisco, J. Nguyen, A. Mondal, J. Vant, P. Fromme, W.D. Van Horn, E. Tajkhorshid, Daisuke Kihara, K. Dill, A. Perez, & A. Singharoy (*co-first authors)
+  number: 205
+  title: 'CryoFold: Determining protein structures and data-guided ensembles from cryo-EM density maps'
+  year: 2021
+
+- PublicationInformation: 'iScience, 24: 9, (2021)'
+  authors: B.K. Broyles, A.T. Gutierrez, T.P. Maris, D.A. Coil, T.M. Wagner, Xiao Wang, Daisuke Kihara, C.A. Class, A.M. Erkine
+  number: 204
+  title: Activation of gene expression by detergent-like protein domains
+  year: 2021
+
+- PublicationInformation: 'Frontiers in Molecular Biosciences, doi: 10.3389/fmolb.2021.724947 (2021)'
+  link:
+    display: PDF
+    url: http://www.frontiersin.org/articles/10.3389/fmolb.2021.724947/
+  authors: Charles Christoffer, Vijay Bharadwaj, Ryan Luu, & Daisuke Kihara
+  number: 203
+  title: LZerD protein-protein docking webserver enhanced with de novo structure prediction
+  year: 2021
+  links:
+    - display: 'LZerD Protein Docking Server'
+      url: https://lzerd.kiharalab.org/
+
+- PublicationInformation: 'Proteins, doi: 10.1002/prot.26188 (2021)'
+  abstract:
+    display: Abstract
+    url: http://www.ncbi.nlm.nih.gov/pubmed/34309909
+  authors: Jacob Verburgt & Daisuke Kihara
+  number: 202
+  title: Benchmarking of structure refinement methods for protein complex models
+  year: 2021
+
+- PublicationInformation: 'Computers & Graphics, 99: 1-21, (2021)'
+  authors: A. Raffo, U. Fugacci, S. Biasotti, W. Rocchia, Y. Liu, E. Otu, R. Zwiggelaar, D. Hunter, E.I. Zacharaki, E. Psatha, D. Laskos, G. Arvanitis, K. Moustakas, Tunde Aderinwale, Charles Christoffer, Woong-Hee Shin, Daisuke Kihara, A. Giachetti, H.-N. Nguyen, T.-D. Nguyen, V.-T. Nguyen-Truong, D. Le-Thanh, H.-D. Ngyuen, & M.-T. Tran
+  number: 201
+  title: 'SHREC 2021: Retrieval and classification of protein surfaces equipped with physical and chemical properties'
+  year: 2021
+
 - PublicationInformation: J. Chem. Inf. Model., in press, (2021)
   abstract:
     display: Abstract

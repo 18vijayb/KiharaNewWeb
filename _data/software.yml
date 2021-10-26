@@ -1,0 +1,226 @@
+- title: Emap2Sec
+  logo: emsuitelogo.png
+  description: Emap2sec is a deep learning-based tool for detecting protein secondary structures from intermediate resolution cryo-EM maps. 
+               Visit the website , the Github site, or the paper on Nature Methods.
+  links:
+    - display: 'Emap2Sec Website'
+      url: http://www.kiharalab.org/emap2sec/index.html
+    - display: 'Github'
+      url: https://github.com/kiharalab/Emap2sec/
+    - display: 'Nature Methods Paper'
+      url: https://www.nature.com/articles/s41592-019-0500-1
+
+- title: MainMast
+  logo: mainmastlogo.png
+  description: MAINMAST is a de novo modeling protocol to build an entire protein 3D model directly from near-atomic resolution EM map. 
+                Visit the web site or read the paper on Nature Commn.
+  links:
+    - display: 'Mainmast Website'
+      url: http://kiharalab.org/mainmast/
+    - display: 'Nature Communications Paper'
+      url: https://www.nature.com/articles/s41467-018-04053-7
+
+- title: MAINMASTseg
+  logo: mainmastseglogo.png
+  description: MAINMASTseg is a minimum spanning tree based segmentation program for EM density map. Visit the web site.
+  links:
+    - display: 'MainmastSeg Website'
+      url: http://kiharalab.org/mainmast_seg/
+
+- title: LZerD Web Server
+  logo: lzerdwebserverlogo.png
+  description: The LZerD web server provides easy access to our LZerD protein-protein docking software suite through an intuitive web interface. Visit the website.
+  links:
+    - display: 'LZerD Web Server'
+      url: https://lzerd.kiharalab.org/about/
+
+
+- title: LZerD Software Suite
+  logo: lzerdlogo.png
+  description: The protein docking suite developed includes programs to perform protein-protein docking prediction, multiple protein docking, as well as protein docking prediction using predicted protein-protein interfaces. 
+               The Linux binaries can be downloaded here.
+  links:
+    - display: 'LZerD Software Downloads'
+      url: https://kiharalab.org/proteindocking/
+
+- title: Dove
+  logo: dovelogo.png
+  description: Dove is a deep learning based protein docking model evluation method. 
+               It will use the atom information such as postions, types, energy scores in the interface area to judge if the docking model is reasonable. 
+               You can use the server here or download source code to run by yourself. 
+  links:
+    - display: 'Dove Web Server'
+      url: http://kiharalab.org/dove
+    - display: 'Dove Source Code Download'
+      url: https://github.rcac.purdue.edu/kiharalab/Dove_Pred
+
+- title: BindML
+  logo: bindmllogo.png
+  description: BindML predicts protein-protein interaction sites in a query protein structure by using evolutionary information. 
+               BindML+ further classifies a binding site to permanent and transient interaction.
+  links:
+    - display: 'BindML Web Server'
+      url: https://kiharalab.org/bindml/
+    - display: 'BindML Plus Web Server'
+      url: https://kiharalab.org/bindml/plus
+          
+- title: 3DSurfer 2.0
+  logo: 3dsurferlogo.png
+  description: 3D-SURFER 2.0 is a web platform for real-time protein surface comparison of a given protein structure against the entire PDB using 3D Zernike descriptors. 
+               It can compare the protein surface of a single chain, domain, or complex against databases of protein chains, domains, complexes, or a combination of all three, in the latest PDB. 
+               The databases are weekly updated. Visit the server or read the paper.
+  links:
+    - display: '3DSurfer Web Server'
+      url: http://kiharalab.org/3d-surfer/
+    - display: '3D Surfer Paper'
+      url: https://pubmed.ncbi.nlm.nih.gov/18361455/
+
+- title: EM-Surfer
+  logo: emsurferlogo.png
+  description: EM-SURFER is a web platform for real-time electron microscopy database search.
+               It compares isosurface shape of a query EM map against maps in the latest EMDB. 
+               The databases are weekly updated. Visit the server or read the paper.
+  links:
+    - display: EM-Surfer Web Server
+      url: http://kiharalab.org/em-surfer/
+    - display: EM-Surfer Paper
+      url: http://www.ncbi.nlm.nih.gov/pubmed/26025554
+
+- title: PL-PatchSurfer2
+  logo: plpatchsurferlogo.png
+  description: PL-PatchSurfer2 is a protein-ligand virtual screening program. 
+               The program searches a binding candidate ligand of a target protein by comparing local surface patches. 
+               The binary file can be downloaded here.
+  links:
+    - display: PL-PatchSurfer Binary Download
+      url: http://kiharalab.org/plps2/
+
+- title: PatchSurfer 2.0
+  logo: patchsurferlogo.png
+  description: PatchSurfer2.0 predicts binding ligand(s) for a query protein pocket by comparing local surface patches of known ligand binding pockets to the query. 
+               This is the trial version associated with the publication.
+  links:
+    - display: 'PatchSurfer Web Server'
+      url: https://kiharalab.org/patchsurfer2.0/
+
+- title: PhyloPFP
+  logo: phylopfplogo.png
+  description: PhyloPFP is a phylogenomics based protein function prediction server. 
+               Visit the server to submit a sequence.
+  links:
+    - display: 'PhyloPFP WEb Server'
+      url: https://kiharalab.org/phylo_pfp.php
+
+- title: ESG
+  logo: esglogo.png
+  description: ESG is a sequence similarity-based protein function prediction server. 
+               It employ PSI-BLAST iteratively and essentially selects GO term annotations that appear consistently in the searches. 
+               Visit the server to submit a sequence or read the paper. ESG was among top in the 1st CAFA function prediction assessment.
+  links:
+    - display: 'ESG Web Server'
+      url: https://kiharalab.org/esg.php
+    - display: 'ESG Paper'
+      url: http://bioinformatics.oxfordjournals.org/cgi/content/abstract/25/14/1739
+
+
+- title: PFP
+  logo: pfplogo.png
+  description: PFP is a sequence similarity-based protein function prediction server designed to predict GO annotations for a query sequence beyond what can be found by conventional database search such as BLAST. 
+               It takes into account weakly similar sequences as well as GO term associations observed in known annotations. 
+               Visit the server to submit a sequence or read the paper. 
+               PFP had the highest total score in a function prediciton contest held at AFP-SIG'05 (ISMB2005), and also was the best in the function prediciton category at CASP7.
+  links:
+    - display: 'PFP Web Server'
+      url: https://kiharalab.org/pfp.php
+    - display: 'PFP Paper'
+      url: https://pubmed.ncbi.nlm.nih.gov/16672240/
+
+- title: PFP + ESG
+  logo: pfpesglogo.png
+  description: Combined PFP+ESG interface
+  links:
+    - display: 'PFP+ESG Web Server'
+      url: https://kiharalab.org/pfp_esg.php
+
+
+- title: NaviGO
+  logo: navigologo.png
+  description: Interactive Gene Ontology visualization and similarity computation.
+  links:
+    - display: 'NaviGO Web Server'
+      url: https://kiharalab.org/compare.php
+
+- title: GMQ
+  description: GMQ is a protein quality assessment program which employs conditional random field. 
+               The program gives a binary prediction that predicts a modeled residue has an error within a C-alpha distance cutoff or not.
+  links:
+    - display: 'GMQ Website'
+      url: https://kiharalab.org/gmq/
+
+- title: FlexPred
+  logo: flexpredlogo.png
+  description: FlexPred predicts real-value fluctuation of each residues in a query protein structure. 
+               Predictions can be performed for single-chain, complex proteins, and computational models.
+  links:
+    - display: 'FlexPred WebServer'
+      url: https://kiharalab.org/flexPred/
+
+- title: DextMP
+  logo: dextmplogo.png
+  description: DextMP Text-mining tool to find Moonlighting Proteins from publication titles, abstract and functional description in UniProt.
+  links:
+    - display: 'DextMP Website'
+      url: http://kiharalab.org/DextMP/
+
+- title: MPFit
+  logo: mpfitlogo.png
+  description: MPFit Predicts Moonlighting Proteins from Gene Ontology (GO) and diverse omics-based protein association features.
+  links:
+    - display: 'MPFit Website'
+      url: http://kiharalab.org/MPprediction
+
+- title: VisGrid
+  logo: visgridlogo.png
+  description: VisGrid identifies pockets in protein surfaces. The algorithm computes open directions, named visibility, at surface points. The paper is available at PubMed and also from the publication list.
+  links:
+    - display: 'VisGrid Website'
+      url: https://kiharalab.org/VisGrid/
+    - display: 'Visgrid Paper'
+      url: https://pubmed.ncbi.nlm.nih.gov/17975834/
+
+- title: GOMEP
+  logo: gomeplogo.png
+  description: GOMEP Predicts Missing Enzymes using functional coherence scores of Gene Ontology (GO) terms.
+  links:
+    - display: 'GOMEP Website'
+      url: http://kiharalab.org/gomep
+
+- title: MASQ PPI
+  description: The purpose of MAss spectrometry data and Protein SeQuence-based PPI prediction method (MASQ_PPI) is to develop a complementary computational approach to aid large-scale protein-protein interactions (PPIs) identification using mass spectrometry data. 
+               The protein elution profiles are generated from size-exclusive chromatography followed by mass spectrometry. 
+               Proteins are clustered based on their elution profile. 
+               Then sequence-based computational prediction method are performed on the protein pairs from the same cluster by support vector machine to exclude some false positive interactions. Visit the code on Github.
+  links:
+    - display: 'MASQ PPI Github'
+      url: https://github.com/kiharalab/MASQ_PPI
+
+- title: SUPRB threading program(v1.0)
+  description: SUPRB is a threading strucuture prediction algorithm which employs suboptimal alignments. Supplementary material for paper - Effect of Using Suboptimal Alignments in Template-Based Protein Structure Prediction. Hao Chen and Daisuke Kihara. Proteins, 2010.
+  links:
+    - display: 'SUPRB Website'
+      url: https://kiharalab.org/suprb/
+
+- title: Suboptimal Alignment(v1.0)
+  description: Suboptimal Alignment is the protein structure prediction program based on threading strategy with SPAD, the error estimator, provided as supplementary material for paper - Estimating Quality of Template-Based Protein Models by Alignment Stability. Hao Chen and Daisuke Kihara. Proteins, 2008. Visit the server
+  links:
+    - display: 'Subalignment Server'
+      url: https://kiharalab.org/subalignment/
+
+- title: EMD 1.0 (Ensemble Motif Discovery)
+  description: EMD (Ensemble Motif Discovery) is an ensemble (consensus) algorithm that identifies one or more frequent motifs among multiple sequences. 
+               The basic idea is to combine motif predictions from multiple runs of multiple component algorithms to build consensus motifs as its prediction. 
+               In the current version, five component algorithms are included - AlignACE, BioProspector, MotifSampler, MDScan, and MEME. 
+               The former three are stochastic algorithms, while the latter two are deterministic algorithms.Visit the server
+  links:
+    - display: 'EMD Web Server'
+      url: https://kiharalab.org/EMD/

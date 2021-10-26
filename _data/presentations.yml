@@ -1,3 +1,43 @@
+- number: 297
+  text: '"Deep learning-assisted protein 3D structure modeling for medium resolution cryo-EM density maps", 
+          Invited talk at University of Washington, Seattle,Oct. 12 , 2021'
+  notes:
+- number: 296
+  text: '"The OC_Finder: A deep learning-based software for in vitro osteoclast counting", Mizuho Kittaka, Xiao Wang, Yilin He, Yiwei Zhang, Daisuke Kihara, Yasuyoshi Ueki, 2021 Annual Meeting of The American Society for Bone and Mineral Research, October 1-4, 2021'
+  notes: 
+- number: 295
+  text: 'Invited talk "Protein structural bioinformatics after CASP14" at Informatics in Biology, Medicine and Pharmacology (IIBMP) Tokyo, Japan, Sep. 27-29, 2021'
+  notes:  
+- number: 294
+  text: 'Lecture "Machine learning in protein structure bioinformatics" at the 2nd Summer School on Machine Learning in Bioinformatics (online), HSE University, Moscow, Russia, Aug 23-27, 2021'
+  notes:  
+- number: 293
+  text: 'Keynote talk "Deep-learning-assisted protein 3D struture modeling for medium-resolution cryo-EM density maps", D. Kihara, BIOKDD 2021 , Aug 15, 2021'
+  notes:
+  links:
+    - display: Biokdd 21
+      url: https://biokdd.org/biokdd21/  
+- number: 292
+  text: '2 oral presentations at the 71st Annual Meeting of the American Crystallographic Association, July 30 - Aug. 5, 2021'
+  notes: 
+    - text: '"Emap2sec+: Decting protein and DNA/RNA stru tures in cryo-EM maps of intermediate resolution using deep learning." Xiao Wang, E. Alnabati, TW Aderinwale, SR Maddhuri Venkata Subramaniya, G. Terashi, D. Kihara'
+    - text: '"MAINMAST: De novo protein structure modeling for cryo-EM maps assisted by structrure feature detection by deep learning". Genki Terashi, X. Wang, D. Kihara'
+- number: 291
+  text: '"Deep-learning-assisted protein 3D structure modeling for medium-resolution croy-EM density maps", D. Kihara, 5th International Conference on Mathematical and Computational Medicine, (Virtual meeting), June 7-11, 2021'
+- number: 290
+  text: '"Efficient flexible fitting refinement for de novo structure modeling from cryo-EM density maps" (poster). Takanaru Mori, G. Terashi, D. Matsuoka, D. Kihara, Y. Sugita. The 21st Annual Meeting of the Protein Science Society of Japan, Tsukuba, Japan, June 7-9, 2021'
+- number: 289
+  text: 3 oral presentations at The Hitchhiker's Guide to the Biomolecular Galaxy 2021, May 12-13, 2021
+  notes:
+  - text: '"VESPER: Global and local cryo-EM map alignment and database search using
+      local density vectors", Genki Terashi et al.'
+  - text: '"Detecting protein and DNA/RNA structures in cryo-EM maps of intermediate
+      resolution using deep learning", Xiao Wang et al.'
+  - text: '"Modeling transmembrane protein interactions using topological and biophysical
+      principles", Daipayan Sarkar et al.'
+  links:
+  - url: http://hitchhikers.science.purdue.edu/2021/index.html
+    display: The Hitchhiker's Guide to the Biomolecular Galaxy 2021
 - number: 288
   text: 1 oral and 2 poster presentations at 2021 65th Biophysical Society Annual
     Meeting, February 22-26, 2021
