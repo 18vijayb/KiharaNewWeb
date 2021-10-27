@@ -9,8 +9,8 @@ permalink: /software
 <table class="table table-striped table-hover">
     <thead class="thead-light">
           <tr>
-              <th> Logo </th>
-              <th scope="col">Name</th>
+              <th> Name </th>
+              <th scope="col"></th>
               <th scope="col">Description</th>
               <th scope="col">Links</th>
           </tr>
