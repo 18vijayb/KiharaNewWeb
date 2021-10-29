@@ -2,74 +2,56 @@
   photo: DaisukeKihara.jpg
   info: Principal Investigator
   email: dkihara@purdue.edu
-  number_educ: 2
-  education1: <a href="https://kiharalab.org/CV_DKihara_Feb2021.pdf">CV</a>
-  education2: <a href="https://kiharalab.org/Kiharalab_Dec2019.pdf">2019 Research Summary</a>
-
-- name: Daipayan Sarkar
-  photo: UnknownPerson.jpg
-  info: Postdoc
-  email: sarkar30@purdue.edu
-  number_educ: 2
-  education1: Project
-  education2: undergrad University
+  education: 
+    - bullet: <a href="https://kiharalab.org/CV_DKihara_Feb2021.pdf">CV</a>
+    - bullet: <a href="https://kiharalab.org/Kiharalab_Dec2019.pdf">2019 Research Summary</a>
 
 - name: Genki Terashi
   photo: UnknownPerson.jpg
-  info: Postdoc
+  info: Assistant Research Professor
   email: gterashi@purdue.edu
-  number_educ: 0
 
 - name: Eman Alnabati
   photo: UnknownPerson.jpg
   info: Computer Science Graduate Student
   email: ealnabat@purdue.edu
-  number_educ: 0
 
 - name: Tunde Aderinwale
   photo: UnknownPerson.jpg
   info: Computer Science Graduate Student
   email: taderinw@purdue.edu
-  number_educ: 0
 
 - name: Siyang Chen
   photo: UnknownPerson.jpg
   info: Computer Science Graduate Student
   email: chen1564@purdue.edu
-  number_educ: 0
 
 - name: Charles Christoffer
   photo: UnknownPerson.jpg
   info: Computer Science Graduate Student
   email: christ35@purdue.edu
-  number_educ: 0
 
 - name: Sean Flannery
   photo: UnknownPerson.jpg
   info: Computer Science Graduate Student
   email: sflanner@purdue.edu
-  number_educ: 0
 
 - name: Aashish Jain
   photo: UnknownPerson.jpg
   info: Computer Science Graduate Student
   email: jain163@purdue.edu
-  number_educ: 0
 
 - name: Lyman Monroe
   photo: UnknownPerson.jpg
   info: Biology Graduate Student
   email: lmonroe@purdue.edu
-  number_educ: 0
 
 - name: Sai Raghavendra Maddhuri Venkata Subramaniya
   photo: UnknownPerson.jpg
   info: Computer Science Graduate Student
   email: verburgt@purdue.edu
-  number_educ: 0
 
 - name: Xiao Wang
   photo: UnknownPerson.jpg
   info: Computer Science Graduate Student
   email: wang3702@purdue.edu
-  number_educ: 0
