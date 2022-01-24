@@ -3,13 +3,18 @@
   info: Principal Investigator
   email: dkihara@purdue.edu
   education: 
-    - bullet: <a href="https://kiharalab.org/CV_DKihara_Feb2021.pdf">CV</a>
+    - bullet: <a href="https://kiharalab.org/CV_DKihara_Nov2021.pdf">CV</a>
     - bullet: <a href="https://kiharalab.org/Kiharalab_Dec2019.pdf">2019 Research Summary</a>
 
 - name: Genki Terashi
   photo: UnknownPerson.jpg
-  info: Assistant Research Professor
+  info: Assistant Research Scientist
   email: gterashi@purdue.edu
+
+- name: Yuki Kagaya
+  photo: UnknownPerson.jpg
+  info: PostDoc
+  email: ykagaya@purdue.edu
 
 - name: Eman Alnabati
   photo: UnknownPerson.jpg
@@ -21,20 +26,10 @@
   info: Computer Science Graduate Student
   email: taderinw@purdue.edu
 
-- name: Siyang Chen
-  photo: UnknownPerson.jpg
-  info: Computer Science Graduate Student
-  email: chen1564@purdue.edu
-
 - name: Charles Christoffer
   photo: UnknownPerson.jpg
   info: Computer Science Graduate Student
   email: christ35@purdue.edu
-
-- name: Sean Flannery
-  photo: UnknownPerson.jpg
-  info: Computer Science Graduate Student
-  email: sflanner@purdue.edu
 
 - name: Aashish Jain
   photo: UnknownPerson.jpg
@@ -46,12 +41,32 @@
   info: Biology Graduate Student
   email: lmonroe@purdue.edu
 
+- name: Luong Minh Nguyen
+  photo: UnknownPerson.jpg
+  info: Computer Science Graduate Studnet
+  email: nguye330@purdue.edu
+
 - name: Sai Raghavendra Maddhuri Venkata Subramaniya
   photo: UnknownPerson.jpg
   info: Computer Science Graduate Student
+  email: smaddhur@purdue.edu
+
+- name: Jacob Verburgt
+  photo: UnknownPerson.jpg
+  info: Biology Graduate Student
   email: verburgt@purdue.edu
 
 - name: Xiao Wang
   photo: UnknownPerson.jpg
   info: Computer Science Graduate Student
   email: wang3702@purdue.edu
+
+- name: Yuanyuan Zhang
+  photo: UnknownPerson.jpg
+  info: Computer Science Graduate Student
+  email: zhang038@purdue.edu
+
+- name: Zicong Zhang
+  photo: UnknownPerson.jpg
+  info: Computer Science Graduate Student
+  email: zhan1797@purdue.edu

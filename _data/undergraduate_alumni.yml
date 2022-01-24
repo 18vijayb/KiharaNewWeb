@@ -1,0 +1,438 @@
+- name: Yilin He
+  program: Shandong University, China, CS
+  dates: Summer 2019
+- name: Yiwei Zhang
+  program: Renesselaer Polytechnic Institute, CS
+  dates: Summer 2019
+- name: Yingfeng Lu
+  program: Shanghai Jiao Tong University, China, CS
+  dates: Summer 2019
+- name: Rohith Ravindranath
+  program: CS
+  dates: Spring 2019
+- name: Sean Flannery
+  program: CS
+  dates: Spring 2019 - Summer 2019
+- name: Aditi Acharya
+  program: Engineering
+  dates: Fall 2017 - Spring 2019
+- name: Hareesh Gali
+  program: CS
+  dates: Fall 2017 - Spring 2019
+- name: Aung Myat
+  program: CS
+  dates: Spring 2018 - Fall 2018
+- name: Qifen Chen
+  program: CS
+  dates: Spring 2018 - Fall 2018
+- name: Matin Hormati
+  program: CS
+  dates: Fall 2018
+- name: Vidhur Kumar
+  program: CS
+  dates: Fall 2018
+- name: Shantanu Nair
+  program: CS
+  dates: Fall 2018
+- name: Nikita Rajaneesh
+  program: CS
+  dates: Fall 2018
+- name: Yibin Wu
+  program: CS
+  dates: Fall 2018
+- name: Govind Girish
+  program: CS
+  dates: Fall 2017 - Fall 2018
+- name: Kavya Nagalakunta
+  program: CS
+  dates: Fall 2017
+- name: Dan Ntala
+  program: Biol
+  dates: Spring - Fall 2017
+- name: Yuhong Zha
+  program: CS
+  dates: Fall 2017- Spring 2018
+- name: Xi He
+  program: Biol
+  dates: Fall 2017- Spring 2018
+- name: Caleb Belth
+  program: CS
+  dates: Fall 2015- Spring 2018
+- name: Xiao Wang
+  program: Xi'an Jiaotong U., China
+  dates: Summer 2017
+- name: Hao Zhu
+  program: Beijing U. Posts & Tel.
+  dates: Summer 2017
+- name: Simeng Liao
+  program: Nankai U, China
+  dates: Summer 2017
+- name: Varun Gupta
+  program: CS
+  dates: Fall 2017
+- name: Hannah Zentner
+  program: CS
+  dates: Fall 2017
+- name: Kevin Shim
+  program: Biol
+  dates: Spring 2017
+- name: Natalie Oda
+  program: Biol
+  dates: Spring 2017
+- name: Matthew Muhoberac
+  program: CS
+  dates: Spring 2017
+- name: Alexandre Dias
+  program: Fed. U. Lavras, Brazil
+  dates: Summer 2016
+- name: Morgan Farrell
+  program: Biol
+  dates: Summer 2016
+- name: Alexandre Engstrom
+  program: Biol
+  dates: Spring 2016
+- name: Aditya Vaidyam
+  program: CS
+  dates: Spring 2015-Spring 2017
+- name: Brian Lembong
+  program: Biol
+  dates: Summer 2016-Spring 2017
+- name: Hayley Chan
+  program: MCMP
+  dates: Fall 2015-Spring 2017
+- name: Siddharth Prabhu
+  program: BME
+  dates: Fall 2016-Spring 2017
+- name: Sarah Rodenbeck
+  program: Biol/CS
+  dates: Spring 2016-Spring 2017
+- name: Andrew Walden
+  program: Biol
+  dates: Summer 2016-Spring 2017
+- name: Josh McGraw
+  program: Biol
+  dates: Summer 2015-Summer 2016
+- name: Tiange Dong
+  program: Biol
+  dates: Spring 2013-Fall 2015
+- name: Eric Petit
+  program: Biol
+  dates: Fall 2014-Fall 2015
+- name: Ray Ji
+  program: Biol
+  dates: Fall 2014-Fall 2015
+- name: Tianmu Hu
+  program: Biol
+  dates: Fall 2014-Fall 2015
+- name: Andrew Walden
+  program: Biol/CS
+  dates: Fall 2014-Fall 2015
+- name: Ryan Hancock
+  program: Industrial Engng.
+  dates: Summer 2015
+- name: Hanfu Zhang
+  program: CS, Tsinghua Univ., China
+  dates: Summer 2015
+- name: Weichuan Luo
+  program: Biol
+  dates: Fall 2013- Spring 2015
+- name: Tommy Lee
+  program: Biol
+  dates: Spring 2015
+- name: Qing Wei
+  program: CS
+  dates: Spring 2014-Fall 2014, cont.to grad
+- name: Charles Christoffer
+  program: CS/Math
+  dates: Spring 2014-Summer 2015, cont.to grad
+- name: Yue Wang
+  program: Stat
+  dates: Spring 2014-Summer 2015
+- name: Qing Zu
+  program: Stat
+  dates: Summer-Fall 2014
+- name: Karan Dua
+  program: IIT, Roorkee, India
+  dates: Summer 2014
+- name: Fangyuan Hou
+  program: CS
+  dates: Summer 2013-Spring 2014
+- name: Yuqian Chen
+  program: Biochem
+  dates: Spring -Fall 2013
+- name: Grant Gumina
+  program: CS
+  dates: Spring 2013 -Spring 2014
+- name: Linzi Chen
+  program: Bio/Stat
+  dates: Spring 2013 -Spring 2014
+- name: Arthi Anand
+  program: Bio
+  dates: Spring 2013 -Fall 2013
+- name: Wen Sun
+  program: Bio
+  dates: Fall 2013
+- name: Lillian Liu
+  program: CS
+  dates: Spring 2012 -Spring 2014
+- name: Joel Crist
+  program: Bio
+  dates: Summer 2013
+- name: Aanchal Kanodia
+  program: VNIT-Nagpur, India
+  dates: Summer 2013
+- name: Minxian Li
+  program: CS, Beijing Univ. of Chem. Tech
+  dates: Fall 2012 -Spring 2013
+- name: Xiaowei Hong
+  program: CS
+  dates: Fall 2012 -Spring 2013
+- name: Yanan Tao
+  program: Bio
+  dates: Fall 2012 -Spring 2013
+- name: Guanqun Mao
+  program: CS
+  dates: Fall 2012 -Spring 2013
+- name: Linsheng Shen
+  program: Bio
+  dates: Fall 2012 -Spring 2013
+- name: Chang Liu
+  program: Math
+  dates: Fall 2012 -Spring 2013
+- name: Vianney Gonzalez
+  program: Math
+  dates: Fall 2012 -Spring 2013
+- name: Sam Yap
+  program: Bio
+  dates: Spring 2012 -Spring 2013
+- name: Shawn Deboth
+  program: Bio
+  dates: Spring 2013
+- name: Wuwei Zhang
+  program: CS
+  dates: Spring 2013
+- name: Alex Gao
+  program: Stat
+  dates: Fall 2012
+- name: Liuning Wang
+  program: Stat
+  dates: Fall 2012
+- name: Yingfei Ma
+  program: Stat
+  dates: Spring 2011 -Spring 2012
+- name: Su Lin Ooi
+  program: CS
+  dates: Fall 2011 -Summer 2012
+- name: Kara Kahue
+  program: CS, SROP
+  dates: Summer 2012
+- name: Danny Antakli
+  program: Bio
+  dates: Summer 2012
+- name: Benjamin Basnagel
+  program: Bio
+  dates: Spring 2011 -Spring 2012
+- name: Yang Shen
+  program: Bio
+  dates: Spring 2012
+- name: Roshna Agrawal
+  program: CS
+  dates: Spring 2010 -Summer 2011
+- name: Xin Lu Tan
+  program: Stat
+  dates: Fall 2010 -Spring 2011
+- name: William Hoffman
+  program: Bio
+  dates: Spring 2010 -Spring 2011
+- name: Sanmeet Kanhere
+  program: CS
+  dates: Summer 2010 -Spring 2011
+- name: Mi-Sun Kong
+  program: Bio
+  dates: Fall 2010 -Fall 2011
+- name: Zilong Zhou
+  program: Math
+  dates: Fall 2011
+- name: Shing Jay Ong
+  program: CS
+  dates: Spring 2011
+- name: Shucong Zhang
+  program: CS
+  dates: Spring 2011
+- name: Daniel Lee
+  program: BioMed Eng
+  dates: Spring 2011
+- name: Gaonan Zhang
+  program: Bio
+  dates: Spring 2011
+- name: Qiting Wu
+  program: Bio
+  dates: Spring 2011
+- name: Hayun Lee
+  program: Bio
+  dates: Spring 2011
+- name: Liyun Fan
+  program: Bio
+  dates: Spring 2011
+- name: Yilong Jin
+  program: CS
+  dates: Spring 2011
+- name: Satwica Yernini
+  program: Vellore I. Tech., India
+  dates: Spring 2011
+- name: Shriphani Palakodety
+  program: CS
+  dates: Fall 2009 -Spring 2010
+- name: Matt Herron
+  program: Bio/CS
+  dates: Summer 2008 -Spring 2010
+- name: Sajat Jain
+  program: CS
+  dates: Fall 2009 -Fall 2010
+- name: Abram Magner
+  program: CS/Math
+  dates: Spring 2009 -Spring 2010
+- name: Kunal Modi
+  program: CS
+  dates: Fall 2009 -Fall 2010
+- name: Wei-Chia Sun
+  program: CS
+  dates: Fall 2010
+- name: Shuai Liu
+  program: CS
+  dates: Fall 2010
+- name: Yidi Wang
+  program: Bio
+  dates: Fall 2010
+- name: Malvika Mathur
+  program: Bio
+  dates: Fall 2008 -Spring 2010
+- name: Sangwook Lee
+  program: CS
+  dates: Fall 2009 -Spring 2010
+- name: Nicket Gupta
+  program: CS
+  dates: Fall 2009 -Spring 2010
+- name: Priyanka Surana
+  program: Bio
+  dates: Fall 2007 -Spring 2010
+- name: Paul Tuck
+  program: CS
+  dates: Summer 2009 -Spring 2010
+- name: Gabriel Martinez
+  program: CS
+  dates: Spring 2010
+- name: Gunjan Raghav
+  program: CS
+  dates: Spring 2010
+- name: Gregg Thomas
+  program: Bio
+  dates: Summer 2008 -Fall 2009
+- name: Devin Luckett
+  program: Bio
+  dates: Fall 2008 -Spring 2010
+- name: Roy Ren
+  program: CS
+  dates: Summer 2009
+- name: En-hsun Liu
+  program: CS
+  dates: Summer 2009
+- name: Shen Liang
+  program: CS
+  dates: Summer 2009
+- name: Subhash Atluri
+  program: CS
+  dates: Summer 2009
+- name: Seven Ahrendt
+  program: Bio/CS
+  dates: Fall 2008 -Spring 2009
+- name: Rupal Trivedi
+  program: Bio
+  dates: Fall 2007 -Spring 2010
+- name: Emily Flynn
+  program: Bio
+  dates: Fall 2008
+- name: Jared Bannister
+  program: CS/Math
+  dates: Fall 2008
+- name: Sparsh Shekhar
+  program: CS
+  dates: Summer 2008
+- name: Preston Spratt
+  program: Bio
+  dates: Fall 2006 -Spring 2008
+- name: Jennifer S. Reeve
+  program: CS
+  dates: Summer 2004 and 2011
+- name: Steven Ueng
+  program: CS
+  dates: Fall 2007
+- name: De'Rael Darling
+  program: Marc/AIM
+  dates: Summer 2007
+- name: Steve Krawczyk
+  program: Bio
+  dates: Fall 2006-Spring 2007
+- name: Rex Chang
+  program: CS
+  dates: Spring 2007
+- name: Yen Hock Tan
+  program: CS
+  dates: 2004-2006
+- name: Jairav Desai
+  program: CS, DURI
+  dates: 2005-2006
+- name: Robert Helms
+  program: Bio
+  dates: Fall 2006
+- name: Howard Chang
+  program: CS
+  dates: Summer 2006
+- name: Jiyoung Lee
+  program: Bio
+  dates: Fall 2005
+- name: Ei Ei Phyu
+  program: CS
+  dates: Spring/Fall 2005
+- name: Luis Avila
+  program: Marc/AIM
+  dates: Summer 2005
+- name: Yuhao Lin
+  program: Comp. Eng
+  dates: Spring 2005
+- name: Brian Trisler
+  program: CS
+  dates: Spring 2005
+- name: Jonathan Williford
+  program: CS
+  dates: Fall 2004
+- name: Joel Hayburst
+  program: CS
+  dates: Fall 2004
+- name: Rodney Weaver
+  program: CS
+  dates: Spring/Fall 2004
+- name: Antonius Sardjito
+  program: CS
+  dates: Summer 2004
+- name: Irvan Sutiono
+  program: CS
+  dates: Summer 2004
+- name: Jasmine Williams
+  program: Marc/AIM
+  dates: Summer 2004
+- name: C.Sujjapong
+  program: Comp. Eng
+  dates: Summer 2004
+- name: Danny Varghese
+  program: CS
+  dates: Spring 2004
+- name: Brian Seckinger
+  program: CS
+  dates: Spring 2004
+- name: Jason Pardieck
+  program: CS
+  dates: Spring 2004
+- name: Stan Luban
+  program: Biol/CS
+  dates: Spring 2004-Spring 2006
