@@ -6,12 +6,13 @@ sitemap: false
 permalink: /team/
 ---
 
+### For information on openings see [here](#openings).
+
 # Group Members
 
- **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+Jump to [staff](#staff), [undergraduate students](#undergraduates), [collaborators](#collaborators), [alumni](#alumni).
 
-
-Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
+<img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/Aug2019_grouppic.jpg" class="img-responsive" width="95%" style="float: left" />
 
 ## Staff
 {% assign number_printed = 0 %}
@@ -26,7 +27,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
+  <i>{{ member.info }} <br>email: <{{ member.email }}></i>
   <ul style="overflow: hidden">
   {% for education in member.education %}
     <li> {{ education.bullet }} </li>
@@ -47,7 +48,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 {% endif %}
 
-## Undergraduate Students
+## Undergraduates
 {% assign number_printed = 0 %}
 {% for member in site.data.undergrad_members %}
 
@@ -80,6 +81,22 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% if even_odd == 1 %}
 </div>
 {% endif %}
+
+## Collaborators
+
+ <div>
+ <table class="table">
+  <tbody>
+  {% for member in site.data.collaborators %}
+  <tr>
+  <td> {{ member.name }} </td>
+  <td> {{ member.position }} </td>
+  <td> {{member.location}} </td>
+  </tr>
+  {% endfor %}
+  </tbody>
+  </table>
+ </div>
 
 ## Alumni
 
@@ -280,3 +297,21 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   </div>
   </div>
 </div>
+
+# Openings
+
+### Postdoctoral Positions
+
+Qualified candidates should hold a PhD in Physics, Computer Science, Biology, Chemistry, Doctor of Engineering, or in a related field. The primary area sought is protein tertiary structure modeling & prediction, protein docking, and protein global/local shape comparison and search. Experience in electron microscopy or tomography data analysis, and 3D shape retrieval are plus. Fluent programming skill and good communication skills are essential. Highly motivated and creative candidates with a strong record of publication are encouraged to apply. Send curriculum vitae and contact information of three references to: dkihara@purdue.edu . Postal mail should be sent to: Dr. Daisuke Kihara, Department of Biological Sciences, Purdue University, Hockmyer Hall of Structural Biology, 249 S. Martin Jischke Drive, West Lafayette, IN 47907.
+
+### Graduate students
+
+Highly motivated graduate students in the departments of computer science, biological sciences, PULSe program at Purdue are encouraged to contact Dr. Kihara. Available projects include protein 3D shape comparison, docking, 3D structure prediction, function prediction, and DNA sequence analyses (motif search, small RNA detection). Please note that usually research assistantship is only offered after working at least one semester as an independent study to prove productivy. Previous experience in bioinformatics is desirable but not necessary. Programming skill is not a requirement at the beginning if you are not CS major as long as you are eager to learn it in the first year.
+
+### Undergraduate Students
+
+If you are interested in computational work in biology, you are almost always welcome to our group. We have worked with over twenty undergraduate students, and have a good record of scientific achievments with them, including publishing full research papers, research presentation in conferences, entering graduate programs. Feel free to contact Dr. Kihara.
+
+### Summer internship with pay
+
+Not offered.

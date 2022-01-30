@@ -10,25 +10,21 @@ Our research interests lie in the area of bioinformatics. We employ computationa
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
-    <!-- Menu -->
-    <ol class="carousel-indicators">
-        <li data-target="#carousel" data-slide-to="0" class="active"></li>
-        <li data-target="#carousel" data-slide-to="1"></li>
-        <li data-target="#carousel" data-slide-to="2"></li>
-    </ol>
-
     <!-- Items -->
+    {% assign first = true %}
     <div class="carousel-inner" markdown="0">
-
-        <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/41592_2019_500_Fig5_HTML.png" alt="Slide 1" />
-        </div>
+        {% for slide in site.static_files %}
+        {% if slide.path contains "sliderpic" %}
+        {% if first == true %}
+        {% assign first = false %}
+        <div class=" active item">
+        {% else %}
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/LZerD Picture.png" alt="Slide 2" />
+        {% endif %}
+            <img src="{{ site.url }}{{ site.baseurl }}{{slide.path}}" alt="Slide" />
         </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ProteinPicture.png" alt="Slide 3" />
-        </div>
+        {% endif %}
+        {% endfor %}
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
@@ -60,7 +56,7 @@ Specifically, we develop and apply novel computational methods for...
   </div>
   <div class="col-sm-3">
   <a href="https://lzerd.kiharalab.org/about/">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/LZerDLogo.png" style="width: 150px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/lzerdwebserverlogo.png" style="width: 150px">
   </a>
   Summary Text
   </div>
@@ -72,7 +68,7 @@ Specifically, we develop and apply novel computational methods for...
   </div>
   <div class="col-sm-2">
   <a href="https://kiharalab.org/em-surfer/">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/EMSurfer.png" style="width: 150px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/emsurferlogo.png" style="width: 150px">
   </a>
   Summary Text
 </div>
@@ -81,25 +77,25 @@ Specifically, we develop and apply novel computational methods for...
  <div class="row">
   <div class="col-sm-3">
   <a href="https://kiharalab.org/proteindocking/">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/lzerdlogo.jpeg" style="width: 150px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/lzerdlogo.png" style="width: 150px">
   </a>
   Summary Text
   </div>
 <div class="col-sm-3">
   <a href="https://kiharalab.org/esg.php">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ESG.png" style="width: 150px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/esglogo.png" style="width: 150px">
   </a>
   Summary Text
   </div>
 <div class="col-sm-3">
   <a href="https://kiharalab.org/pfp.php">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/PFP.png" style="width: 150px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/pfplogo.png" style="width: 150px">
   </a>
   Summary Text
   </div>
   <div class="col-sm-2">
   <a href="https://kiharalab.org/phylo_pfp.php">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/PhyloPFP.png" style="width: 150px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/phylopfplogo.png" style="width: 150px">
   </a>
   Summary Text
   </div>
