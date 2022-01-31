@@ -16,11 +16,11 @@ th {
   text-align: left;
 }
 
-@media only screen and (hover: none) and (pointer: coarse) {
-  table {
-    zoom: 53%;
-  }
-  }
+// @media screen and (max-width: $screen-xs-max) {
+//   table {
+//     zoom: 50%;
+//   }
+// }
 
 // Baseline styles
 
