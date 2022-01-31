@@ -16,7 +16,7 @@ Publications
         <tr>
             <th scope="col">#</th>
             <th scope="col">Year</th>
-            <th style="width: 50% !important">Publication Name</th>
+            <th style="width: 55% !important">Publication Name</th>
             <th scope="col"></th>
             <th scope="col"></th>
             <th scope="col">Relevant Links</th>

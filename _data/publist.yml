@@ -144,7 +144,7 @@
     display: PDF
     url: http://www.nature.com/articles/s41467-021-22401-y
   links:
-  - display: 'Web server: VESPER Server'
+  - display: 'VESPER Server'
     url: https://kiharalab.org/em-surfer/vesper.php
   - display: 'Github: VESPER'
     url: http://www.github.com/kiharalab/vesper
