@@ -6,15 +6,15 @@ sitemap: false
 permalink: /team/
 ---
 
-### For information on openings see [here](#openings).
-
 # Group Members
 
 Jump to [current members](#current\ members), [undergraduate students](#undergraduates), [collaborators](#collaborators), [alumni](#alumni).
 <div>
-<img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/Aug2019_grouppic.jpg" width="75%" class="img-responsive" style="float: left" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/Aug2019_grouppic.jpg" width="75%" class=" img-responsive" style="margin-left:auto;margin-right:auto;"/>
 </div>
+<br>
 ### See more pictures [here]({{ site.url }}{{ site.baseurl }}/pics)
+### For information on openings see [here](#openings).
 
 ## Current members
 {% assign number_printed = 0 %}
