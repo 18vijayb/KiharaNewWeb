@@ -4,12 +4,12 @@
   date: Summer 2021
 
 - name: Han Zhu
-  photo: bio-photo.jpg
+  photo: Han_Zhu.jpg
   university: Purdue Computer Science
   date: Summer 2021
 
 - name: Razan Alkawai
-  photo: bio-photo.jpg
+  photo: Razan_Alkawai.jpg
   university: Purdue Computer Science
   date: Summer 2021
   
@@ -27,11 +27,6 @@
   photo: Vijay_Bharadwaj.jpg
   university: Purdue Computer Science
   date: Fall 2019
-
-- name: Rohan Narasimha
-  photo: bio-photo.jpg
-  university: Purdue Computer Science
-  date: Summer 2020
   
 - name: Ethan Andrew Chen
   photo: Ethan_Chen.png
