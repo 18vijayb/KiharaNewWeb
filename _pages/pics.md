@@ -6,11 +6,10 @@ sitemap: false
 permalink: /pics
 ---
 
-#### Gallery
-(Right-click *'open image in new tab'* to see a larger image.)
+## Gallery
+#### (Right-click *'open image in new tab'* to see a larger image.)
 {% assign number_printed = 0 %}
-{% for pic in site.static_files %}
-{% if pic.path contains "gallerypic" %}
+{% for pic in site.data.pic_captions %}
 
 {% assign even_odd = number_printed | modulo: 4 %}
 
@@ -19,7 +18,12 @@ permalink: /pics
 {% endif %}
 
 <div class="col-sm-3 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}{{pic.path}}" class="img-responsive" width="95%" style="float: left" />
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/gallerypic/{{pic.name}}" class="img-responsive" width="100%" style="float: left; margin-bottom:0;" />
+<figcaption>
+{{pic.caption}}
+</figcaption>
+</figure>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
@@ -28,5 +32,4 @@ permalink: /pics
 </div>
 {% endif %}
 
-{% endif %}
 {% endfor %}

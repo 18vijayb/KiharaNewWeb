@@ -45,7 +45,10 @@ Specifically, we develop and apply novel computational methods for...
 * Genome-scale function and structure annotation
 * Analyzing functional units in networks
 
- **More information can be found on our research projects page [here]({{ site.url }}{{ site.baseurl }}/projects).**
+#### More information can be found on our research projects page [here]({{ site.url }}{{ site.baseurl }}/projects)
+
+#### For information on lab openings, see [here]({{ site.url }}{{ site.baseurl }}/team/#openings)
+
 
  <div class="row">
   <div class="col-sm-3">
