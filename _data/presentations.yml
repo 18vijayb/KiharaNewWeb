@@ -1,3 +1,10 @@
+- number: 300
+  text: '"Volume segmentation and vector-based map alignment for cryo-EM maps", invited talk by Genki Terashi, X. Han, C. Christoffer, & D. Kihara, 3rd IEEE International Conference on BioInspired Processing, BIP 2021, Costa Rica (virtual conference), Nov 4-5, 2021
+seminar at Butler University, Nov 11, 2021'
+- number: 299
+  text: '"Deep learning-assisted protein 3D structure modeling for medium resolution cryo-EM density maps", Rossmann Symposium, Purdue University, Oct. 25, 2021'
+- number: 298
+  text: '"Deep learning-assisted protein 3D structure modeling for medium resolution cryo-EM density maps", EMBO Workshop: Advances and Challenges in Biomolecular Simulations, (virtual conference), Oct. 18-21, 2021'
 - number: 297
   text: '"Deep learning-assisted protein 3D structure modeling for medium resolution cryo-EM density maps", 
           Invited talk at University of Washington, Seattle,Oct. 12 , 2021'

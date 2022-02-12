@@ -1,3 +1,39 @@
+- PublicationInformation: 'Front. Mol. Biosci., 8: 813552, (2021)'
+  abstract:
+    display: Abstract
+    url: https://pubmed.ncbi.nlm.nih.gov/34957223/
+  link:
+    display: PDF
+    url: https://internal-journal.frontiersin.org/articles/10.3389/fmolb.2021.813552/full
+  authors: Nir Ben-Tal, Daisuke Kihara, & Arun Prasad Pandurangan
+  number: '---'
+  title: 'Editorial: Computational approaches to study the impact of mutations on disease and drug resistance'
+  year: 2021
+
+- PublicationInformation: 'Eurogaphics Workshop on 3D Object Retrieval, doi:10.2312/3dor.20211307, (2021)'
+  authors: I. Gubins, M.L. Chaillet, G.v.d. Schot, M.C. Trueba, R.C. Veltkamp, F. Forster, Xiao Wang, Daisuke Kihara, E. Moebel, N.P. Nguyen, T. White, F. Bunyak, G. Papoulias, S. Gerolymatos, Z. Stavros, E.I. Zacharaki, K. Moustakas, X. Zeng, S. Liu, M. Xu, Y. Wang, C. Chen, X. Cui, & F. Zhang
+  number: 210
+  title: 'SHREC 2021: Classification in cryo-electron tomograms'
+  year: 2021
+
+- PublicationInformation: 'J. Mol. Graphics and Modeling, in press, (2021)'
+  abstract:
+    display: Abstract
+    url: https://pubmed.ncbi.nlm.nih.gov/34959149/
+  authors: F. Langenfeld, Tunde Aderinwale, Charles Christoffer, Woong-Hee Shin, Genki Terashi, Xiao Wang, Daisuke Kihara, H. Benhabiles, K. Hammoudi, A. Cabani, F. Windal, M. Melkemi, E. Otu, R. Zwiggelar, D. Hunter, Y. Liu, L. Siruge, H.-N. H. Nguyen, T.-D. H. Nguyen, V.-T. Nguyen-Truong, D. Le, H.-D. Nguyen, M.-T. Tran, & M. Montes
+  number: 209
+  title: Surface-based protein domain retrieval methods from a SHREC2021 challenge
+  year: 2021
+
+- PublicationInformation: 'Evolutionary Bioinformatics, doi: 10.1177/11769343211064616, (2021)'
+  link:
+    display: PDF
+    url: https://journals.sagepub.com/doi/full/10.1177/11769343211064616
+  authors: R.S.P. Rao, N. Ahsan, C. Xu, L. Su, Jacob Verburgt, L. Fornelli , Daisuke Kihara, & D. Xu
+  number: 208
+  title: Evolutionary dynamics of indels in SARS-CoV-2 spike glycoprotein
+  year: 2021
+
 - PublicationInformation: 'Proteins, doi: 10.1002/prot.26231, in press, (2021)'
   abstract:
     display: Abstract

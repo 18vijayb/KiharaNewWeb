@@ -1,4 +1,8 @@
-# Allan Lab Website
+# Kihara Lab Website
+
+This website was created using template from Allan Lab, referenced below. 
+
+## Allan Lab Website
 
 This is the website of our academic research group at Leiden University.
 
