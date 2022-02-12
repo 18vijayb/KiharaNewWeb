@@ -1,3 +1,10 @@
+- title: COVID19 Structure Modeling
+  logo: covid19logo.png
+  description: Protein structure modeling for SARS-CoV-2.
+  links:
+    - display: 'Website'
+      url: https://kiharalab.org/covid19/index.html
+
 - title: Emap2Sec
   logo: emsuitelogo.png
   description: Emap2sec is a deep learning-based tool for detecting protein secondary structures from intermediate resolution cryo-EM maps. 
